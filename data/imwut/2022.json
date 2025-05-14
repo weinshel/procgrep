@@ -1,0 +1,1292 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/imwut/imwut6.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"98.66"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"210",
+"@dc":"210",
+"@oc":"210",
+"@id":"48284206",
+"text":":facetid:toc:db/journals/imwut/imwut6.bht"
+}
+},
+"hits":{
+"@total":"210",
+"@computed":"210",
+"@sent":"210",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1312305",
+"info":{"authors":{"author":[{"@pid":"65/1335","text":"Utku Günay Acer"},{"@pid":"14/9986","text":"Marc Van den Broeck"},{"@pid":"92/8305","text":"Chulhong Min"},{"@pid":"154/8616","text":"Mallesham Dasari"},{"@pid":"98/1826","text":"Fahim Kawsar"}]},"title":"The City as a Personal Assistant: Turning Urban Landmarks into Conversational Agents for Serving Hyper Local Information.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"40:1-40:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/AcerBMDK22","doi":"10.1145/3534573","ee":"https://doi.org/10.1145/3534573","url":"https://dblp.org/rec/journals/imwut/AcerBMDK22"},
+"url":"URL#1312305"
+},
+{
+"@score":"1",
+"@id":"1312306",
+"info":{"authors":{"author":[{"@pid":"286/1962","text":"Aakriti Adhikari"},{"@pid":"286/1960","text":"Hem Regmi"},{"@pid":"146/0105","text":"Sanjib Sur 0001"},{"@pid":"n/SrihariNelakuditi","text":"Srihari Nelakuditi"}]},"title":"MiShape: Accurate Human Silhouettes and Body Joints from Commodity Millimeter-Wave Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"96:1-96:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/AdhikariRSN22","doi":"10.1145/3550300","ee":"https://doi.org/10.1145/3550300","url":"https://dblp.org/rec/journals/imwut/AdhikariRSN22"},
+"url":"URL#1312306"
+},
+{
+"@score":"1",
+"@id":"1312307",
+"info":{"authors":{"author":[{"@pid":"263/7186","text":"Aditya Aggarwal"},{"@pid":"207/7865","text":"Siddhartha Gairola"},{"@pid":"234/7634","text":"Uddeshya Upadhyay"},{"@pid":"326/5698","text":"Akshay P. Vasishta"},{"@pid":"326/5232","text":"Diwakar Rao"},{"@pid":"143/7489","text":"Aditya Goyal"},{"@pid":"288/7707","text":"Kaushik Murali"},{"@pid":"53/6666","text":"Nipun Kwatra"},{"@pid":"41/9059","text":"Mohit Jain"}]},"title":"Towards Automating Retinoscopy for Refractive Error Diagnosis.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"97:1-97:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/AggarwalGUVRGMK22","doi":"10.1145/3550283","ee":"https://doi.org/10.1145/3550283","url":"https://dblp.org/rec/journals/imwut/AggarwalGUVRGMK22"},
+"url":"URL#1312307"
+},
+{
+"@score":"1",
+"@id":"1312308",
+"info":{"authors":{"author":[{"@pid":"328/9429","text":"Khakim Akhunov"},{"@pid":"128/5339","text":"Kasim Sinan Yildirim"}]},"title":"AdaMICA: Adaptive Multicore Intermittent Computing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"98:1-98:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/AkhunovY22","doi":"10.1145/3550304","ee":"https://doi.org/10.1145/3550304","url":"https://dblp.org/rec/journals/imwut/AkhunovY22"},
+"url":"URL#1312308"
+},
+{
+"@score":"1",
+"@id":"1312309",
+"info":{"authors":{"author":[{"@pid":"146/7684","text":"Rawan Alharbi"},{"@pid":"319/9427","text":"Soroush Shahi"},{"@pid":"282/5962","text":"Stefany Cruz"},{"@pid":"07/5857","text":"Lingfeng Li"},{"@pid":"150/9980","text":"Sougata Sen"},{"@pid":"164/6561","text":"Mahdi Pedram"},{"@pid":"338/6917","text":"Christopher Romano"},{"@pid":"143/9139","text":"Josiah D. Hester"},{"@pid":"k/AggelosKAggelos","text":"Aggelos K. Katsaggelos"},{"@pid":"122/3811","text":"Nabil Alshurafa"}]},"title":"SmokeMon: Unobtrusive Extraction of Smoking Topography Using Wearable Energy-Efficient Thermal.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"155:1-155:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/AlharbiSCLSPRHK22","doi":"10.1145/3569460","ee":"https://doi.org/10.1145/3569460","url":"https://dblp.org/rec/journals/imwut/AlharbiSCLSPRHK22"},
+"url":"URL#1312309"
+},
+{
+"@score":"1",
+"@id":"1312310",
+"info":{"authors":{"author":[{"@pid":"248/9690","text":"Takashi Amesaka"},{"@pid":"01/4566","text":"Hiroki Watanabe"},{"@pid":"39/3774","text":"Masanori Sugimoto"},{"@pid":"s/BuntarouShizuki","text":"Buntarou Shizuki"}]},"title":"Gesture Recognition Method Using Acoustic Sensing on Usual Garment.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"41:1-41:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/AmesakaWSS22","doi":"10.1145/3534579","ee":"https://doi.org/10.1145/3534579","url":"https://dblp.org/rec/journals/imwut/AmesakaWSS22"},
+"url":"URL#1312310"
+},
+{
+"@score":"1",
+"@id":"1312311",
+"info":{"authors":{"author":[{"@pid":"228/8306","text":"Riku Arakawa"},{"@pid":"207/9121","text":"Hiromu Yakura"},{"@pid":"264/8811","text":"Vimal Mollyn"},{"@pid":"338/7155","text":"Suzanne Nie"},{"@pid":"26/9158","text":"Emma Russell"},{"@pid":"325/6682","text":"Dustin P. DeMeo"},{"@pid":"338/6404","text":"Haarika A. Reddy"},{"@pid":"338/6165","text":"Alexander K. Maytin"},{"@pid":"325/5680","text":"Bryan T. Carroll"},{"@pid":"03/2381","text":"Jill Fain Lehman"},{"@pid":"72/11299","text":"Mayank Goel"}]},"title":"PrISM-Tracker: A Framework for Multimodal Procedure Tracking Using Wearable Sensors and State Transition Information with User-Driven Handling of Errors and Uncertainty.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"156:1-156:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ArakawaYMNRDRMC22","doi":"10.1145/3569504","ee":"https://doi.org/10.1145/3569504","url":"https://dblp.org/rec/journals/imwut/ArakawaYMNRDRMC22"},
+"url":"URL#1312311"
+},
+{
+"@score":"1",
+"@id":"1312312",
+"info":{"authors":{"author":[{"@pid":"272/6736","text":"Luca Arrotta"},{"@pid":"157/8320","text":"Gabriele Civitarese"},{"@pid":"b/CBettini","text":"Claudio Bettini"}]},"title":"DeXAR: Deep Explainable Sensor-Based Activity Recognition in Smart-Home Environments.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"1:1-1:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ArrottaCB22","doi":"10.1145/3517224","ee":"https://doi.org/10.1145/3517224","url":"https://dblp.org/rec/journals/imwut/ArrottaCB22"},
+"url":"URL#1312312"
+},
+{
+"@score":"1",
+"@id":"1312313",
+"info":{"authors":{"author":[{"@pid":"132/9580","text":"Oshrat Ayalon"},{"@pid":"338/7477","text":"Sophie Li"},{"@pid":"p/BartPreneel","text":"Bart Preneel"},{"@pid":"141/9244","text":"Elissa M. Redmiles"}]},"title":"Not Only for Contact Tracing: Use of Belgium&apos;s Contact Tracing App among Young Adults.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"202:1-202:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/AyalonLPR22","doi":"10.1145/3570348","ee":"https://doi.org/10.1145/3570348","url":"https://dblp.org/rec/journals/imwut/AyalonLPR22"},
+"url":"URL#1312313"
+},
+{
+"@score":"1",
+"@id":"1312314",
+"info":{"authors":{"author":[{"@pid":"243/0061","text":"Ananta Narayanan Balaji"},{"@pid":"338/6166","text":"Clayton Kimber"},{"@pid":"09/6661","text":"David Li"},{"@pid":"239/9734","text":"Shengzhi Wu"},{"@pid":"157/1844","text":"Ruofei Du"},{"@pid":"02/2170","text":"David Kim"}]},"title":"RetroSphere: Self-Contained Passive 3D Controller Tracking for Augmented Reality.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"157:1-157:36","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BalajiKLWDK22","doi":"10.1145/3569479","ee":"https://doi.org/10.1145/3569479","url":"https://dblp.org/rec/journals/imwut/BalajiKLWDK22"},
+"url":"URL#1312314"
+},
+{
+"@score":"1",
+"@id":"1312315",
+"info":{"authors":{"author":[{"@pid":"72/11454","text":"Avishek Banerjee"},{"@pid":"73/1997-1","text":"Kannan Srinivasan 0001"}]},"title":"WiNE: Monitoring Microwave Oven Leakage to Estimate Food Nutrients and Calorie.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"99:1-99:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BanerjeeS22","doi":"10.1145/3550313","ee":"https://doi.org/10.1145/3550313","url":"https://dblp.org/rec/journals/imwut/BanerjeeS22"},
+"url":"URL#1312315"
+},
+{
+"@score":"1",
+"@id":"1312316",
+"info":{"authors":{"author":[{"@pid":"161/5783","text":"Sandra Bardot"},{"@pid":"267/6912","text":"Bradley Rey"},{"@pid":"319/4401","text":"Lucas Audette"},{"@pid":"28/1812","text":"Kevin Fan"},{"@pid":"02/9675","text":"Da-Yuan Huang"},{"@pid":"116/1011-67","text":"Jun Li 0067"},{"@pid":"l/WeiLi2","text":"Wei Li 0002"},{"@pid":"79/3435","text":"Pourang Irani"}]},"title":"One Ring to Rule Them All: An Empirical Understanding of Day-to-Day Smartring Usage Through In-Situ Diary Study.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"100:1-100:20","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BardotRAFHLLI22","doi":"10.1145/3550315","ee":"https://doi.org/10.1145/3550315","url":"https://dblp.org/rec/journals/imwut/BardotRAFHLLI22"},
+"url":"URL#1312316"
+},
+{
+"@score":"1",
+"@id":"1312317",
+"info":{"authors":{"author":[{"@pid":"326/5455","text":"Yacine Belal"},{"@pid":"61/8017","text":"Aurélien Bellet"},{"@pid":"b/SoniaBenMokhtar","text":"Sonia Ben Mokhtar"},{"@pid":"189/6776","text":"Vlad Nitu"}]},"title":"PEPPER: Empowering User-Centric Recommender Systems over Gossip Learning.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"101:1-101:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BelalBMN22","doi":"10.1145/3550302","ee":"https://doi.org/10.1145/3550302","url":"https://dblp.org/rec/journals/imwut/BelalBMN22"},
+"url":"URL#1312317"
+},
+{
+"@score":"1",
+"@id":"1312318",
+"info":{"authors":{"author":[{"@pid":"286/7715","text":"Marit Bentvelzen"},{"@pid":"169/5172","text":"Jasmin Niess"},{"@pid":"36/11536","text":"Pawel W. Wozniak"}]},"title":"Designing Reflective Derived Metrics for Fitness Trackers.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"158:1-158:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BentvelzenNW22","doi":"10.1145/3569475","ee":"https://doi.org/10.1145/3569475","url":"https://dblp.org/rec/journals/imwut/BentvelzenNW22"},
+"url":"URL#1312318"
+},
+{
+"@score":"1",
+"@id":"1312319",
+"info":{"authors":{"author":[{"@pid":"286/7715","text":"Marit Bentvelzen"},{"@pid":"36/11536","text":"Pawel W. Wozniak"},{"@pid":"286/7555","text":"Pia S. F. Herbes"},{"@pid":"182/6504","text":"Evropi Stefanidi"},{"@pid":"169/5172","text":"Jasmin Niess"}]},"title":"Revisiting Reflection in HCI: Four Design Resources for Technologies that Support Reflection.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"2:1-2:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BentvelzenWHSN22","doi":"10.1145/3517233","ee":"https://doi.org/10.1145/3517233","url":"https://dblp.org/rec/journals/imwut/BentvelzenWHSN22"},
+"url":"URL#1312319"
+},
+{
+"@score":"1",
+"@id":"1312320",
+"info":{"authors":{"author":[{"@pid":"256/6670","text":"David Bethge"},{"@pid":"305/5658","text":"Luis Falconeri Coelho"},{"@pid":"76/6512","text":"Thomas Kosch"},{"@pid":"338/6480","text":"Satiyabooshan Murugaboopathy"},{"@pid":"25/8030","text":"Ulrich von Zadow"},{"@pid":"s/AlbrechtSchmidt1","text":"Albrecht Schmidt 0001"},{"@pid":"33/10461","text":"Tobias Grosse-Puppendahl"}]},"title":"Technical Design Space Analysis for Unobtrusive Driver Emotion Assessment Using Multi-Domain Context.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"159:1-159:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BethgeCKMZSG22","doi":"10.1145/3569466","ee":"https://doi.org/10.1145/3569466","url":"https://dblp.org/rec/journals/imwut/BethgeCKMZSG22"},
+"url":"URL#1312320"
+},
+{
+"@score":"1",
+"@id":"1312321",
+"info":{"authors":{"author":[{"@pid":"217/5606","text":"Sarnab Bhattacharya"},{"@pid":"236/0332","text":"Rebecca Adaimi"},{"@pid":"129/5092","text":"Edison Thomaz"}]},"title":"Leveraging Sound and Wrist Motion to Detect Activities of Daily Living with Commodity Smartwatches.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"42:1-42:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/BhattacharyaAT22","doi":"10.1145/3534582","ee":"https://doi.org/10.1145/3534582","url":"https://dblp.org/rec/journals/imwut/BhattacharyaAT22"},
+"url":"URL#1312321"
+},
+{
+"@score":"1",
+"@id":"1312322",
+"info":{"authors":{"author":[{"@pid":"215/0068","text":"Pingping Cai"},{"@pid":"146/0105","text":"Sanjib Sur 0001"}]},"title":"DeepPCD: Enabling AutoCompletion of Indoor Point Clouds with Deep Learning.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"43:1-43:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/CaiS22","doi":"10.1145/3534611","ee":"https://doi.org/10.1145/3534611","url":"https://dblp.org/rec/journals/imwut/CaiS22"},
+"url":"URL#1312322"
+},
+{
+"@score":"1",
+"@id":"1312323",
+"info":{"authors":{"author":[{"@pid":"215/0068","text":"Pingping Cai"},{"@pid":"146/0105","text":"Sanjib Sur 0001"}]},"title":"MilliPCD: Beyond Traditional Vision Indoor Point Cloud Generation via Handheld Millimeter-Wave Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"160:1-160:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/CaiS22a","doi":"10.1145/3569497","ee":"https://doi.org/10.1145/3569497","url":"https://dblp.org/rec/journals/imwut/CaiS22a"},
+"url":"URL#1312323"
+},
+{
+"@score":"1",
+"@id":"1312324",
+"info":{"authors":{"author":[{"@pid":"157/4378","text":"Qingqing Cao"},{"@pid":"274/6423","text":"Prerna Khanna"},{"@pid":"03/2663","text":"Nicholas D. Lane"},{"@pid":"35/1211","text":"Aruna Balasubramanian"}]},"title":"MobiVQA: Efficient On-Device Visual Question Answering.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"44:1-44:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/CaoKLB22","doi":"10.1145/3534619","ee":"https://doi.org/10.1145/3534619","url":"https://dblp.org/rec/journals/imwut/CaoKLB22"},
+"url":"URL#1312324"
+},
+{
+"@score":"1",
+"@id":"1312325",
+"info":{"authors":{"author":[{"@pid":"271/9778","text":"Yetong Cao"},{"@pid":"73/237-1","text":"Fan Li 0001"},{"@pid":"140/7695","text":"Huijie Chen"},{"@pid":"85/5316","text":"Xiaochen Liu"},{"@pid":"89/5992-28","text":"Li Zhang 0028"},{"@pid":"w/YuWang3","text":"Yu Wang 0003"}]},"title":"Guard Your Heart Silently: Continuous Electrocardiogram Waveform Monitoring with Wrist-Worn Motion Sensor.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"103:1-103:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/CaoLClZW22","doi":"10.1145/3550307","ee":"https://doi.org/10.1145/3550307","url":"https://dblp.org/rec/journals/imwut/CaoLClZW22"},
+"url":"URL#1312325"
+},
+{
+"@score":"1",
+"@id":"1312326",
+"info":{"authors":{"author":[{"@pid":"324/4699","text":"Dongjiang Cao"},{"@pid":"207/1798","text":"Ruofeng Liu"},{"@pid":"17/5705","text":"Hao Li"},{"@pid":"42/1503-8","text":"Shuai Wang 0008"},{"@pid":"55/7618","text":"Wenchao Jiang"},{"@pid":"154/4313","text":"Chris Xiaoxuan Lu"}]},"title":"Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"102:1-102:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/CaoLLWJL22","doi":"10.1145/3550325","ee":"https://doi.org/10.1145/3550325","url":"https://dblp.org/rec/journals/imwut/CaoLLWJL22"},
+"url":"URL#1312326"
+},
+{
+"@score":"1",
+"@id":"1312327",
+"info":{"authors":{"author":[{"@pid":"161/8406","text":"Justin Chan"},{"@pid":"316/9912","text":"Ananditha Raghunath"},{"@pid":"217/6863","text":"Kelly E. Michaelsen"},{"@pid":"63/3113","text":"Shyamnath Gollakota"}]},"title":"Testing a Drop of Liquid Using Smartphone LiDAR.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"3:1-3:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChanRMG22","doi":"10.1145/3517256","ee":"https://doi.org/10.1145/3517256","url":"https://dblp.org/rec/journals/imwut/ChanRMG22"},
+"url":"URL#1312327"
+},
+{
+"@score":"1",
+"@id":"1312328",
+"info":{"authors":{"author":[{"@pid":"169/5440","text":"Zhaoxin Chang 0001"},{"@pid":"68/10002","text":"Fusang Zhang"},{"@pid":"75/198-1","text":"Jie Xiong 0001"},{"@pid":"151/6862-2","text":"Junqi Ma 0002"},{"@pid":"75/1099","text":"Beihong Jin"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"Sensor-free Soil Moisture Sensing Using LoRa Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"45:1-45:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChangZXMJZ22","doi":"10.1145/3534608","ee":"https://doi.org/10.1145/3534608","url":"https://dblp.org/rec/journals/imwut/ChangZXMJZ22"},
+"url":"URL#1312328"
+},
+{
+"@score":"1",
+"@id":"1312329",
+"info":{"authors":{"author":[{"@pid":"48/4792","text":"Yang Chen"},{"@pid":"243/2464","text":"Katherine Fennedy"},{"@pid":"328/9069","text":"Anna Fogel"},{"@pid":"23/1695","text":"Shengdong Zhao 0001"},{"@pid":"94/3019-82","text":"Chao Zhang 0082"},{"@pid":"09/1934","text":"Lijuan Liu"},{"@pid":"25/7313","text":"Ching Chiuan Yen"}]},"title":"SSpoon: A Shape-changing Spoon That Optimizes Bite Size for Eating Rate Regulation.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"105:1-105:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChenFFZZLY22","doi":"10.1145/3550312","ee":"https://doi.org/10.1145/3550312","url":"https://dblp.org/rec/journals/imwut/ChenFFZZLY22"},
+"url":"URL#1312329"
+},
+{
+"@score":"1",
+"@id":"1312330",
+"info":{"authors":{"author":[{"@pid":"257/1787-2","text":"Kaixin Chen 0002"},{"@pid":"92/3504-2","text":"Yongzhi Huang 0002"},{"@pid":"280/7312","text":"Yicong Chen"},{"@pid":"328/9053","text":"Haobin Zhong"},{"@pid":"15/8201","text":"Lihua Lin"},{"@pid":"49/3800-2","text":"Lu Wang 0002"},{"@pid":"34/4445","text":"Kaishun Wu"}]},"title":"LiSee: A Headphone that Provides All-day Assistance for Blind and Low-vision Users to Reach Surrounding Objects.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"104:1-104:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChenHCZLWW22","doi":"10.1145/3550282","ee":"https://doi.org/10.1145/3550282","url":"https://dblp.org/rec/journals/imwut/ChenHCZLWW22"},
+"url":"URL#1312330"
+},
+{
+"@score":"1",
+"@id":"1312331",
+"info":{"authors":{"author":[{"@pid":"210/4420","text":"Taizhou Chen"},{"@pid":"172/2675","text":"Tianpei Li"},{"@pid":"36/9818","text":"Xingyu Yang"},{"@pid":"33/7597","text":"Kening Zhu"}]},"title":"EFRing: Enabling Thumb-to-Index-Finger Microgesture Interaction through Electric Field Sensing Using Single Smart Ring.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"161:1-161:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChenLYZ22","doi":"10.1145/3569478","ee":"https://doi.org/10.1145/3569478","url":"https://dblp.org/rec/journals/imwut/ChenLYZ22"},
+"url":"URL#1312331"
+},
+{
+"@score":"1",
+"@id":"1312332",
+"info":{"authors":{"author":[{"@pid":"36/8493","text":"Hongkai Chen"},{"@pid":"04/2213","text":"Sirajum Munir"},{"@pid":"12/3912-1","text":"Shan Lin 0001"}]},"title":"RFCam: Uncertainty-aware Fusion of Camera and Wi-Fi for Real-time Human Identification with Mobile Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"47:1-47:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChenML22","doi":"10.1145/3534588","ee":"https://doi.org/10.1145/3534588","url":"https://dblp.org/rec/journals/imwut/ChenML22"},
+"url":"URL#1312332"
+},
+{
+"@score":"1",
+"@id":"1312333",
+"info":{"authors":{"author":[{"@pid":"116/8651","text":"Yongliang Chen"},{"@pid":"50/4043-3","text":"Tao Ni 0003"},{"@pid":"98/7731","text":"Weitao Xu"},{"@pid":"65/4916","text":"Tao Gu 0001"}]},"title":"SwipePass: Acoustic-based Second-factor User Authentication for Smartphones.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"106:1-106:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChenNXG22","doi":"10.1145/3550292","ee":"https://doi.org/10.1145/3550292","url":"https://dblp.org/rec/journals/imwut/ChenNXG22"},
+"url":"URL#1312333"
+},
+{
+"@score":"1",
+"@id":"1312334",
+"info":{"authors":{"author":[{"@pid":"272/2146","text":"Dayin Chen"},{"@pid":"217/4074","text":"Xiaodan Shi"},{"@pid":"21/5658","text":"Xuan Song 0001"},{"@pid":"74/3204","text":"Zhiheng Chen"},{"@pid":"95/4452-2","text":"Haoran Zhang 0002"}]},"title":"Phone-based Ambient Temperature Measurement with a New Confidence-based Truth Inference Model.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"207:1-207:18","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChenSSCZ22","doi":"10.1145/3570347","ee":"https://doi.org/10.1145/3570347","url":"https://dblp.org/rec/journals/imwut/ChenSSCZ22"},
+"url":"URL#1312334"
+},
+{
+"@score":"1",
+"@id":"1312335",
+"info":{"authors":{"author":[{"@pid":"58/4223","text":"Yun Cheng"},{"@pid":"133/3824","text":"Zimu Zhou"},{"@pid":"t/LotharThiele","text":"Lothar Thiele"}]},"title":"iSpray: Reducing Urban Air Pollution with Intelligent Water Spraying.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"4:1-4:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChengZT22","doi":"10.1145/3517227","ee":"https://doi.org/10.1145/3517227","url":"https://dblp.org/rec/journals/imwut/ChengZT22"},
+"url":"URL#1312335"
+},
+{
+"@score":"1",
+"@id":"1312336",
+"info":{"authors":{"author":[{"@pid":"266/9853","text":"Bhawana Chhaglani"},{"@pid":"151/3796","text":"Camellia Zakaria"},{"@pid":"307/5199","text":"Adam Lechowicz"},{"@pid":"59/6837","text":"Jeremy Gummeson"},{"@pid":"s/PrashantJShenoy","text":"Prashant J. Shenoy"}]},"title":"FlowSense: Monitoring Airflow in Building Ventilation Systems Using Audio Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"5:1-5:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChhaglaniZLGS22","doi":"10.1145/3517258","ee":"https://doi.org/10.1145/3517258","url":"https://dblp.org/rec/journals/imwut/ChhaglaniZLGS22"},
+"url":"URL#1312336"
+},
+{
+"@score":"1",
+"@id":"1312337",
+"info":{"authors":{"author":[{"@pid":"218/0289","text":"Hyunsung Cho"},{"@pid":"99/2140","text":"Akhil Mathur"},{"@pid":"98/1826","text":"Fahim Kawsar"}]},"title":"FLAME: Federated Learning across Multi-device Environments.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"107:1-107:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChoMK22","doi":"10.1145/3550289","ee":"https://doi.org/10.1145/3550289","url":"https://dblp.org/rec/journals/imwut/ChoMK22"},
+"url":"URL#1312337"
+},
+{
+"@score":"1",
+"@id":"1312338",
+"info":{"authors":{"author":[{"@pid":"188/2538","text":"Kyung Yun Choi"},{"@pid":"222/3533","text":"Neska ElHaouij"},{"@pid":"122/5291","text":"Jinmo Lee"},{"@pid":"p/RWPicard","text":"Rosalind W. Picard"},{"@pid":"45/2605-1","text":"Hiroshi Ishii 0001"}]},"title":"Design and Evaluation of a Clippable and Personalizable Pneumatic-haptic Feedback Device for Breathing Guidance.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"6:1-6:36","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChoiELPI22","doi":"10.1145/3517234","ee":"https://doi.org/10.1145/3517234","url":"https://dblp.org/rec/journals/imwut/ChoiELPI22"},
+"url":"URL#1312338"
+},
+{
+"@score":"1",
+"@id":"1312339",
+"info":{"authors":{"author":[{"@pid":"221/9562","text":"Seokmin Choi"},{"@pid":"89/4402-25","text":"Yang Gao 0025"},{"@pid":"273/7596","text":"Yincheng Jin"},{"@pid":"317/4668","text":"Se Jun Kim"},{"@pid":"29/11438","text":"Jiyang Li"},{"@pid":"11/6689","text":"Wenyao Xu"},{"@pid":"93/5912","text":"Zhanpeng Jin"}]},"title":"PPGface: Like What You Are Watching? Earphones Can &quot;Feel&quot; Your Facial Expressions.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"48:1-48:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ChoiGJKLXJ22","doi":"10.1145/3534597","ee":"https://doi.org/10.1145/3534597","url":"https://dblp.org/rec/journals/imwut/ChoiGJKLXJ22"},
+"url":"URL#1312339"
+},
+{
+"@score":"1",
+"@id":"1312340",
+"info":{"authors":{"author":[{"@pid":"08/1279","text":"Matthew Clark"},{"@pid":"91/7246","text":"Afsaneh Doryab"}]},"title":"Sounds of Health: Using Personalized Sonification Models to Communicate Health Information.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"206:1-206:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ClarkD22","doi":"10.1145/3570346","ee":"https://doi.org/10.1145/3570346","url":"https://dblp.org/rec/journals/imwut/ClarkD22"},
+"url":"URL#1312340"
+},
+{
+"@score":"1",
+"@id":"1312341",
+"info":{"authors":{"author":[{"@pid":"146/7864","text":"Meghan Clark"},{"@pid":"03/6629","text":"Mark W. Newman"},{"@pid":"40/5390","text":"Prabal Dutta"}]},"title":"ARticulate: One-Shot Interactions with Intelligent Assistants in Unfamiliar Smart Spaces Using Augmented Reality.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"7:1-7:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ClarkND22","doi":"10.1145/3517235","ee":"https://doi.org/10.1145/3517235","url":"https://dblp.org/rec/journals/imwut/ClarkND22"},
+"url":"URL#1312341"
+},
+{
+"@score":"1",
+"@id":"1312342",
+"info":{"authors":{"author":[{"@pid":"217/9412","text":"Mark Colley"},{"@pid":"324/3855","text":"Max Rädler"},{"@pid":"324/3949","text":"Jonas Glimmann"},{"@pid":"94/6884","text":"Enrico Rukzio"}]},"title":"Effects of Scene Detection, Scene Prediction, and Maneuver Planning Visualizations on Trust, Situation Awareness, and Cognitive Load in Highly Automated Vehicles.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"49:1-49:21","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ColleyRGR22","doi":"10.1145/3534609","ee":"https://doi.org/10.1145/3534609","url":"https://dblp.org/rec/journals/imwut/ColleyRGR22"},
+"url":"URL#1312342"
+},
+{
+"@score":"1",
+"@id":"1312343",
+"info":{"authors":{"author":[{"@pid":"256/6547","text":"Ruixuan Dai"},{"@pid":"26/3631","text":"Thomas George Kannampallil"},{"@pid":"11/2983","text":"Jingwen Zhang"},{"@pid":"73/4891","text":"Nan Lv"},{"@pid":"91/4845","text":"Jun Ma"},{"@pid":"88/683","text":"Chenyang Lu 0001"}]},"title":"Multi-Task Learning for Randomized Controlled Trials: A Case Study on Predicting Depression with Wearable Data.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"50:1-50:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DaiKZLML22","doi":"10.1145/3534591","ee":"https://doi.org/10.1145/3534591","url":"https://dblp.org/rec/journals/imwut/DaiKZLML22"},
+"url":"URL#1312343"
+},
+{
+"@score":"1",
+"@id":"1312344",
+"info":{"authors":{"author":[{"@pid":"255/4887","text":"Sarkar Snigdha Sarathi Das"},{"@pid":"277/9468","text":"Subangkar Karmaker Shanto"},{"@pid":"277/9447","text":"Masum Rahman"},{"@pid":"04/3572-13","text":"Md. Saiful Islam 0013"},{"@pid":"10/1151-1","text":"Atif Hasan Rahman 0001"},{"@pid":"28/3778","text":"Mohammad Mehedy Masud"},{"@pid":"46/2884","text":"Mohammed Eunus Ali"}]},"title":"BayesBeat: Reliable Atrial Fibrillation Detection from Noisy Photoplethysmography Data.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"8:1-8:21","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DasSRIRMA22","doi":"10.1145/3517247","ee":"https://doi.org/10.1145/3517247","url":"https://dblp.org/rec/journals/imwut/DasSRIRMA22"},
+"url":"URL#1312344"
+},
+{
+"@score":"1",
+"@id":"1312345",
+"info":{"authors":{"author":[{"@pid":"272/4277","text":"Shohreh Deldari"},{"@pid":"156/1517-1","text":"Hao Xue 0001"},{"@pid":"210/1023","text":"Aaqib Saeed"},{"@pid":"53/8626","text":"Daniel V. Smith"},{"@pid":"08/1554","text":"Flora D. Salim"}]},"title":"COCOA: Cross Modality Contrastive Learning for Sensor Data.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"108:1-108:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DeldariXSSS22","doi":"10.1145/3550316","ee":"https://doi.org/10.1145/3550316","url":"https://dblp.org/rec/journals/imwut/DeldariXSSS22"},
+"url":"URL#1312345"
+},
+{
+"@score":"1",
+"@id":"1312346",
+"info":{"authors":{"author":[{"@pid":"239/7799","text":"Kaikai Deng"},{"@pid":"63/550-1","text":"Dong Zhao 0001"},{"@pid":"321/6777","text":"Qiaoyue Han"},{"@pid":"271/3717","text":"Shuyue Wang"},{"@pid":"178/8599","text":"Zihan Zhang"},{"@pid":"32/5505","text":"Anfu Zhou"},{"@pid":"04/6217","text":"Huadong Ma"}]},"title":"Geryon: Edge Assisted Real-time and Robust Object Detection on Drones via mmWave Radar and Camera Fusion.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"109:1-109:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DengZHWZZM22","doi":"10.1145/3550298","ee":"https://doi.org/10.1145/3550298","url":"https://dblp.org/rec/journals/imwut/DengZHWZZM22"},
+"url":"URL#1312346"
+},
+{
+"@score":"1",
+"@id":"1312347",
+"info":{"authors":{"author":[{"@pid":"19/2899","text":"James Devine"},{"@pid":"28/721","text":"Michal Moskal"},{"@pid":"37/3407","text":"Peli de Halleux"},{"@pid":"296/1574-1","text":"Thomas Ball 0001"},{"@pid":"h/SteveHodges","text":"Steve Hodges 0001"},{"@pid":"324/8096","text":"Gabriele D&apos;Amone"},{"@pid":"328/9054","text":"David Gakure"},{"@pid":"09/4769","text":"Joe Finney"},{"@pid":"323/2883","text":"Lorraine Underwood"},{"@pid":"269/2085","text":"Kobi Hartley"},{"@pid":"96/15","text":"Paul Kos"},{"@pid":"328/8966","text":"Matt Oppenheim"}]},"title":"Plug-and-play Physical Computing with Jacdac.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"110:1-110:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DevineMHBHDGFUH22","doi":"10.1145/3550317","ee":"https://doi.org/10.1145/3550317","url":"https://dblp.org/rec/journals/imwut/DevineMHBHDGFUH22"},
+"url":"URL#1312347"
+},
+{
+"@score":"1",
+"@id":"1312348",
+"info":{"authors":{"author":[{"@pid":"05/5188","text":"Betsy DiSalvo"},{"@pid":"328/9347","text":"Dheeraj Bandaru"},{"@pid":"239/4579","text":"Qiaosi Wang"},{"@pid":"93/6234","text":"Hong Li"},{"@pid":"98/4399","text":"Thomas Plötz"}]},"title":"Reading the Room: Automated, Momentary Assessment of Student Engagement in the Classroom: Are We There Yet?","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"112:1-112:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DiSalvoBWLP22","doi":"10.1145/3550328","ee":"https://doi.org/10.1145/3550328","url":"https://dblp.org/rec/journals/imwut/DiSalvoBWLP22"},
+"url":"URL#1312348"
+},
+{
+"@score":"1",
+"@id":"1312349",
+"info":{"authors":{"author":[{"@pid":"89/5503-11","text":"Yi Ding 0011"},{"@pid":"302/8729","text":"Dongzhe Jiang"},{"@pid":"16/4505-10","text":"Yu Yang 0010"},{"@pid":"38/559","text":"Yunhuai Liu"},{"@pid":"h/TianHe","text":"Tian He 0001"},{"@pid":"15/8612","text":"Desheng Zhang"}]},"title":"P2-Loc: A Person-2-Person Indoor Localization System in On-Demand Delivery.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"9:1-9:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DingJYLHZ22","doi":"10.1145/3517238","ee":"https://doi.org/10.1145/3517238","url":"https://dblp.org/rec/journals/imwut/DingJYLHZ22"},
+"url":"URL#1312349"
+},
+{
+"@score":"1",
+"@id":"1312350",
+"info":{"authors":{"author":[{"@pid":"88/886-2","text":"Han Ding 0002"},{"@pid":"328/8930","text":"Yizhan Wang"},{"@pid":"17/5705","text":"Hao Li"},{"@pid":"210/6553","text":"Cui Zhao"},{"@pid":"34/5591-3","text":"Ge Wang 0003"},{"@pid":"10/264","text":"Wei Xi"},{"@pid":"59/4694","text":"Jizhong Zhao"}]},"title":"UltraSpeech: Speech Enhancement by Interaction between Ultrasound and Speech.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"111:1-111:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DingWLZWXZ22","doi":"10.1145/3550303","ee":"https://doi.org/10.1145/3550303","url":"https://dblp.org/rec/journals/imwut/DingWLZWXZ22"},
+"url":"URL#1312350"
+},
+{
+"@score":"1",
+"@id":"1312351",
+"info":{"authors":{"author":[{"@pid":"185/5065","text":"Tobias Drey"},{"@pid":"328/9345","text":"Jessica Janek"},{"@pid":"328/9245","text":"Josef Lang"},{"@pid":"251/3793","text":"Dietmar Puschmann"},{"@pid":"134/3117","text":"Michael Rietzler"},{"@pid":"94/6884","text":"Enrico Rukzio"}]},"title":"SpARklingPaper: Enhancing Common Pen- And Paper-Based Handwriting Training for Children by Digitally Augmenting Papers Using a Tablet Screen.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"113:1-113:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/DreyJLPRR22","doi":"10.1145/3550337","ee":"https://doi.org/10.1145/3550337","url":"https://dblp.org/rec/journals/imwut/DreyJLPRR22"},
+"url":"URL#1312351"
+},
+{
+"@score":"1",
+"@id":"1312352",
+"info":{"authors":{"author":[{"@pid":"72/3881","text":"Rachel Eardley"},{"@pid":"296/1737","text":"Sue Mackinnon"},{"@pid":"18/6831","text":"Emma L. Tonkin"},{"@pid":"296/1490","text":"Ewan Soubutts"},{"@pid":"179/5386","text":"Amid Ayobi"},{"@pid":"264/7104","text":"Jess Linington"},{"@pid":"125/2966","text":"Gregory J. L. Tourte"},{"@pid":"264/7403","text":"Zoe Banks Gross"},{"@pid":"324/3869","text":"David J. Bailey"},{"@pid":"324/3952","text":"Russell Knights"},{"@pid":"142/2663","text":"Rachael Gooberman-Hill"},{"@pid":"142/2719","text":"Ian Craddock"},{"@pid":"21/9599","text":"Aisling Ann O&apos;Kane"}]},"title":"A Case Study Investigating a User-Centred and Expert Informed &apos;Companion Guide&apos; for a Complex Sensor-based Platform.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"93:1-93:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/EardleyMTSALTGB22","doi":"10.1145/3534625","ee":"https://doi.org/10.1145/3534625","url":"https://dblp.org/rec/journals/imwut/EardleyMTSALTGB22"},
+"url":"URL#1312352"
+},
+{
+"@score":"1",
+"@id":"1312353",
+"info":{"authors":{"author":[{"@pid":"338/7001","text":"Fatima Elhattab"},{"@pid":"91/2846","text":"Sara Bouchenak"},{"@pid":"223/7145","text":"Rania Talbi"},{"@pid":"189/6776","text":"Vlad Nitu"}]},"title":"Robust Federated Learning for Ubiquitous Computing through Mitigation of Edge-Case Backdoor Attacks.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"162:1-162:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ElhattabBTN22","doi":"10.1145/3569492","ee":"https://doi.org/10.1145/3569492","url":"https://dblp.org/rec/journals/imwut/ElhattabBTN22"},
+"url":"URL#1312353"
+},
+{
+"@score":"1",
+"@id":"1312354",
+"info":{"authors":{"author":[{"@pid":"91/9117","text":"Augusto Esteves"},{"@pid":"302/0042","text":"Elizabeth Bouquet"},{"@pid":"83/8359","text":"Ken Pfeuffer"},{"@pid":"51/6825","text":"Florian Alt"}]},"title":"One-handed Input for Mobile Devices via Motion Matching and Orbits Controls.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"51:1-51:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/EstevesBPA22","doi":"10.1145/3534624","ee":"https://doi.org/10.1145/3534624","url":"https://dblp.org/rec/journals/imwut/EstevesBPA22"},
+"url":"URL#1312354"
+},
+{
+"@score":"1",
+"@id":"1312355",
+"info":{"authors":{"author":[{"@pid":"198/5383","text":"Jonathon Fagert"},{"@pid":"161/9667","text":"Mostafa Mirshekari"},{"@pid":"78/5323-1","text":"Pei Zhang 0001"},{"@pid":"151/7287","text":"Hae Young Noh"}]},"title":"Recursive Sparse Representation for Identifying Multiple Concurrent Occupants Using Floor Vibration Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"10:1-10:33","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/FagertMZN22","doi":"10.1145/3517229","ee":"https://doi.org/10.1145/3517229","url":"https://dblp.org/rec/journals/imwut/FagertMZN22"},
+"url":"URL#1312355"
+},
+{
+"@score":"1",
+"@id":"1312356",
+"info":{"authors":{"author":[{"@pid":"338/7129","text":"Fengyi Fang"},{"@pid":"27/5935","text":"Hongwei Zhang"},{"@pid":"338/5636","text":"Lishuang Zhan"},{"@pid":"122/6395","text":"Shihui Guo"},{"@pid":"130/2127","text":"Minying Zhang"},{"@pid":"87/5337","text":"Juncong Lin"},{"@pid":"169/5516","text":"Yipeng Qin"},{"@pid":"19/5752-1","text":"Hongbo Fu 0001"}]},"title":"Handwriting Velcro: Endowing AR Glasses with Personalized and Posture-adaptive Text Input Using Flexible Touch Sensor.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"163:1-163:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/FangZZGZLQF22","doi":"10.1145/3569461","ee":"https://doi.org/10.1145/3569461","url":"https://dblp.org/rec/journals/imwut/FangZZGZLQF22"},
+"url":"URL#1312356"
+},
+{
+"@score":"1",
+"@id":"1312357",
+"info":{"authors":{"author":[{"@pid":"97/164","text":"Chao Feng"},{"@pid":"84/864","text":"Nan Wang"},{"@pid":"121/6415","text":"Yicheng Jiang"},{"@pid":"20/506","text":"Xia Zheng"},{"@pid":"181/2763-0005","text":"Kang Li 0005"},{"@pid":"w/ZhengWang1","text":"Zheng Wang 0001"},{"@pid":"95/10521","text":"Xiaojiang Chen"}]},"title":"Wi-Learner: Towards One-shot Learning for Cross-Domain Wi-Fi based Gesture Recognition.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"114:1-114:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/FengWJZLWC22","doi":"10.1145/3550318","ee":"https://doi.org/10.1145/3550318","url":"https://dblp.org/rec/journals/imwut/FengWJZLWC22"},
+"url":"URL#1312357"
+},
+{
+"@score":"1",
+"@id":"1312358",
+"info":{"authors":{"author":[{"@pid":"54/944","text":"Yue Fu"},{"@pid":"239/7920","text":"Rebecca Michelson"},{"@pid":"229/6559","text":"Yifan Lin"},{"@pid":"324/3903","text":"Lynn K. Nguyen"},{"@pid":"324/3860","text":"Tala June Tayebi"},{"@pid":"131/3582","text":"Alexis Hiniker"}]},"title":"Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents&apos; Ideas for Future Ones.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"52:1-52:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/FuMLNTH22","doi":"10.1145/3534622","ee":"https://doi.org/10.1145/3534622","url":"https://dblp.org/rec/journals/imwut/FuMLNTH22"},
+"url":"URL#1312358"
+},
+{
+"@score":"1",
+"@id":"1312359",
+"info":{"authors":{"author":[{"@pid":"203/9193","text":"Ruiyang Gao"},{"@pid":"82/4081","text":"Wenwei Li"},{"@pid":"167/5888","text":"Yaxiong Xie"},{"@pid":"205/5894","text":"Enze Yi"},{"@pid":"07/8764","text":"Leye Wang"},{"@pid":"19/5635-7","text":"Dan Wu 0007"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"Towards Robust Gesture Recognition by Characterizing the Sensing Quality of WiFi Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"11:1-11:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GaoLXYWWZ22","doi":"10.1145/3517241","ee":"https://doi.org/10.1145/3517241","url":"https://dblp.org/rec/journals/imwut/GaoLXYWWZ22"},
+"url":"URL#1312359"
+},
+{
+"@score":"1",
+"@id":"1312360",
+"info":{"authors":{"author":[{"@pid":"87/4209","text":"Nan Gao"},{"@pid":"69/11464","text":"Mohammad Saiedur Rahaman"},{"@pid":"24/803-6","text":"Wei Shao 0006"},{"@pid":"309/6596","text":"Kaixin Ji"},{"@pid":"08/1554","text":"Flora D. Salim"}]},"title":"Individual and Group-wise Classroom Seating Experience: Effects on Student Engagement in Different Courses.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"115:1-115:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GaoRSJS22","doi":"10.1145/3550335","ee":"https://doi.org/10.1145/3550335","url":"https://dblp.org/rec/journals/imwut/GaoRSJS22"},
+"url":"URL#1312360"
+},
+{
+"@score":"1",
+"@id":"1312361",
+"info":{"authors":{"author":[{"@pid":"199/2926","text":"Hyunjae Gil"},{"@pid":"76/3174","text":"Ian Oakley"}]},"title":"ThumbAir: In-Air Typing for Head Mounted Displays.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"164:1-164:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GilO22","doi":"10.1145/3569474","ee":"https://doi.org/10.1145/3569474","url":"https://dblp.org/rec/journals/imwut/GilO22"},
+"url":"URL#1312361"
+},
+{
+"@score":"1",
+"@id":"1312362",
+"info":{"authors":{"author":[{"@pid":"255/1003","text":"Yanbin Gong"},{"@pid":"04/2024-1","text":"Qian Zhang 0001"},{"@pid":"324/3920","text":"Bobby H. P. NG"},{"@pid":"64/6025","text":"Wei Li"}]},"title":"BreathMentor: Acoustic-based Diaphragmatic Breathing Monitor System.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"53:1-53:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GongZNL22","doi":"10.1145/3534595","ee":"https://doi.org/10.1145/3534595","url":"https://dblp.org/rec/journals/imwut/GongZNL22"},
+"url":"URL#1312362"
+},
+{
+"@score":"1",
+"@id":"1312363",
+"info":{"authors":{"author":[{"@pid":"292/6084","text":"Jesse T. Gonzalez"},{"@pid":"h/ScottEHudson","text":"Scott E. Hudson"}]},"title":"Layer by Layer, Patterned Valves Enable Programmable Soft Surfaces.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"12:1-12:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GonzalezH22","doi":"10.1145/3517251","ee":"https://doi.org/10.1145/3517251","url":"https://dblp.org/rec/journals/imwut/GonzalezH22"},
+"url":"URL#1312363"
+},
+{
+"@score":"1",
+"@id":"1312364",
+"info":{"authors":{"author":[{"@pid":"305/9275","text":"Dongfang Guo"},{"@pid":"211/7582","text":"Chaojie Gu"},{"@pid":"183/1884","text":"Linshan Jiang"},{"@pid":"39/6028-1","text":"Wenjie Luo 0001"},{"@pid":"00/5179-1","text":"Rui Tan 0001"}]},"title":"ILLOC: In-Hall Localization with Standard LoRaWAN Uplink Frames.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"13:1-13:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GuoGJLT22","doi":"10.1145/3517245","ee":"https://doi.org/10.1145/3517245","url":"https://dblp.org/rec/journals/imwut/GuoGJLT22"},
+"url":"URL#1312364"
+},
+{
+"@score":"1",
+"@id":"1312365",
+"info":{"authors":{"author":[{"@pid":"274/6412","text":"Baoshen Guo"},{"@pid":"324/3894","text":"Weijian Zuo"},{"@pid":"42/1503-8","text":"Shuai Wang 0008"},{"@pid":"148/2832","text":"Wenjun Lyu"},{"@pid":"248/4120","text":"Zhiqing Hong"},{"@pid":"89/5503-11","text":"Yi Ding 0011"},{"@pid":"h/TianHe","text":"Tian He 0001"},{"@pid":"15/8612","text":"Desheng Zhang"}]},"title":"WePos: Weak-supervised Indoor Positioning with Unlabeled WiFi for On-demand Delivery.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"54:1-54:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GuoZWLHDHZ22","doi":"10.1145/3534574","ee":"https://doi.org/10.1145/3534574","url":"https://dblp.org/rec/journals/imwut/GuoZWLHDHZ22"},
+"url":"URL#1312365"
+},
+{
+"@score":"1",
+"@id":"1312366",
+"info":{"authors":{"author":[{"@pid":"42/3840","text":"Kunal Gupta"},{"@pid":"220/7546","text":"Sam W. T. Chan"},{"@pid":"182/7081","text":"Yun Suen Pai"},{"@pid":"324/3931","text":"Nicholas Strachan"},{"@pid":"324/3940","text":"John Su"},{"@pid":"281/6008","text":"Alexander Sumich"},{"@pid":"01/9308","text":"Suranga Nanayakkara"},{"@pid":"b/MarkBillinghurst","text":"Mark Billinghurst"}]},"title":"Total VREcall: Using Biosignals to Recognize Emotional Autobiographical Memory in Virtual Reality.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"55:1-55:21","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/GuptaCPSSSNB22","doi":"10.1145/3534615","ee":"https://doi.org/10.1145/3534615","url":"https://dblp.org/rec/journals/imwut/GuptaCPSSSNB22"},
+"url":"URL#1312366"
+},
+{
+"@score":"1",
+"@id":"1312367",
+"info":{"authors":{"author":[{"@pid":"248/9493","text":"Harish Haresamudram"},{"@pid":"e/IrfanAEssa","text":"Irfan Essa"},{"@pid":"98/4399","text":"Thomas Plötz"}]},"title":"Assessing the State of Self-Supervised Human Activity Recognition Using Wearables.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"116:1-116:47","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HaresamudramEP22","doi":"10.1145/3550299","ee":"https://doi.org/10.1145/3550299","url":"https://dblp.org/rec/journals/imwut/HaresamudramEP22"},
+"url":"URL#1312367"
+},
+{
+"@score":"1",
+"@id":"1312368",
+"info":{"authors":{"author":[{"@pid":"06/2917","text":"Yan He"},{"@pid":"185/3509","text":"George Chernyshov"},{"@pid":"236/9473","text":"Jiawen Han"},{"@pid":"205/5891","text":"Dingding Zheng"},{"@pid":"308/8182","text":"Ragnar Thomsen"},{"@pid":"264/7789","text":"Danny Hynds"},{"@pid":"240/0019","text":"Muyu Liu"},{"@pid":"45/8938","text":"Yuehui Yang"},{"@pid":"292/9061","text":"Yulan Ju"},{"@pid":"182/7081","text":"Yun Suen Pai"},{"@pid":"18/1342","text":"Kouta Minamizawa"},{"@pid":"44/5109","text":"Kai Kunze"},{"@pid":"58/2305","text":"Jamie A. Ward"}]},"title":"Frisson Waves: Exploring Automatic Detection, Triggering and Sharing of Aesthetic Chills in Music Performances.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"118:1-118:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HeCHZTHLYJPMKW22","doi":"10.1145/3550324","ee":"https://doi.org/10.1145/3550324","url":"https://dblp.org/rec/journals/imwut/HeCHZTHLYJPMKW22"},
+"url":"URL#1312368"
+},
+{
+"@score":"1",
+"@id":"1312369",
+"info":{"authors":{"author":[{"@pid":"36/7775","text":"Ke He"},{"@pid":"236/7812","text":"Yongjie Duan"},{"@pid":"64/5611","text":"Jianjiang Feng"},{"@pid":"00/5012-1","text":"Jie Zhou 0001"}]},"title":"Estimating 3D Finger Angle via Fingerprint Image.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"14:1-14:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HeDFZ22","doi":"10.1145/3517243","ee":"https://doi.org/10.1145/3517243","url":"https://dblp.org/rec/journals/imwut/HeDFZ22"},
+"url":"URL#1312369"
+},
+{
+"@score":"1",
+"@id":"1312370",
+"info":{"authors":{"author":[{"@pid":"213/7611","text":"Shiyue He"},{"@pid":"179/8258","text":"Wenyuan Ma"},{"@pid":"218/4947","text":"Huixin Dong"},{"@pid":"160/0681","text":"Lixia Xiao"},{"@pid":"j/TaoJiang-2","text":"Tao Jiang 0002"}]},"title":"C-Cube: Rethinking Distributed Beamforming for Concurrent Charging in Backscatter Networks.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"203:1-203:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HeMDXJ22","doi":"10.1145/3570342","ee":"https://doi.org/10.1145/3570342","url":"https://dblp.org/rec/journals/imwut/HeMDXJ22"},
+"url":"URL#1312370"
+},
+{
+"@score":"1",
+"@id":"1312371",
+"info":{"authors":{"author":[{"@pid":"94/5035","text":"Tao He"},{"@pid":"10/2066","text":"Qun Niu"},{"@pid":"83/622","text":"Ning Liu"}]},"title":"GC-Loc: A Graph Attention Based Framework for Collaborative Indoor Localization Using Infrastructure-free Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"165:1-165:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HeNL22","doi":"10.1145/3569495","ee":"https://doi.org/10.1145/3569495","url":"https://dblp.org/rec/journals/imwut/HeNL22"},
+"url":"URL#1312371"
+},
+{
+"@score":"1",
+"@id":"1312372",
+"info":{"authors":{"author":[{"@pid":"85/93","text":"Jing He"},{"@pid":"03/1094-11","text":"Wei Yang 0011"}]},"title":"IMar: Multi-user Continuous Action Recognition with WiFi Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"117:1-117:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HeY22","doi":"10.1145/3550311","ee":"https://doi.org/10.1145/3550311","url":"https://dblp.org/rec/journals/imwut/HeY22"},
+"url":"URL#1312372"
+},
+{
+"@score":"1",
+"@id":"1312373",
+"info":{"authors":{"author":[{"@pid":"239/7971","text":"Jay Henderson"},{"@pid":"296/1857","text":"Tanya R. Jonker"},{"@pid":"l/EdwardLank","text":"Edward Lank"},{"@pid":"w/DanielWigdor","text":"Daniel Wigdor"},{"@pid":"64/5496","text":"Ben Lafreniere"}]},"title":"Investigating Cross-Modal Approaches for Evaluating Error Acceptability of a Recognition-Based Input Technique.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"15:1-15:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HendersonJLWL22","doi":"10.1145/3517262","ee":"https://doi.org/10.1145/3517262","url":"https://dblp.org/rec/journals/imwut/HendersonJLWL22"},
+"url":"URL#1312373"
+},
+{
+"@score":"1",
+"@id":"1312374",
+"info":{"authors":{"author":[{"@pid":"282/6031","text":"Shruthi K. Hiremath"},{"@pid":"94/2884","text":"Yasutaka Nishimura"},{"@pid":"27/1140","text":"Sonia Chernova"},{"@pid":"98/4399","text":"Thomas Plötz"}]},"title":"Bootstrapping Human Activity Recognition Systems for Smart Homes from Scratch.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"119:1-119:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HiremathNCP22","doi":"10.1145/3550294","ee":"https://doi.org/10.1145/3550294","url":"https://dblp.org/rec/journals/imwut/HiremathNCP22"},
+"url":"URL#1312374"
+},
+{
+"@score":"1",
+"@id":"1312375",
+"info":{"authors":{"author":[{"@pid":"279/6684","text":"Ashish Hooda"},{"@pid":"231/9523","text":"Matthew Wallace"},{"@pid":"320/0371","text":"Kushal Jhunjhunwalla"},{"@pid":"16/10817","text":"Earlence Fernandes"},{"@pid":"97/535","text":"Kassem Fawaz"}]},"title":"SkillFence: A Systems Approach to Practically Mitigating Voice-Based Confusion Attacks.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"16:1-16:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HoodaWJFF22","doi":"10.1145/3517232","ee":"https://doi.org/10.1145/3517232","url":"https://dblp.org/rec/journals/imwut/HoodaWJFF22"},
+"url":"URL#1312375"
+},
+{
+"@score":"1",
+"@id":"1312376",
+"info":{"authors":{"author":[{"@pid":"214/8714","text":"Xincheng Huang"},{"@pid":"338/6437","text":"Keylonnie L. Miller"},{"@pid":"99/1299","text":"Alanson P. Sample"},{"@pid":"96/10579-1","text":"Nikola Banovic 0001"}]},"title":"StructureSense: Inferring Constructive Assembly Structures from User Behaviors.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"204:1-204:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HuangMSB22","doi":"10.1145/3570343","ee":"https://doi.org/10.1145/3570343","url":"https://dblp.org/rec/journals/imwut/HuangMSB22"},
+"url":"URL#1312376"
+},
+{
+"@score":"1",
+"@id":"1312377",
+"info":{"authors":{"author":[{"@pid":"58/3207","text":"Jun Ho Huh"},{"@pid":"78/10034","text":"Hyejin Shin"},{"@pid":"338/6326","text":"HongMin Kim"},{"@pid":"272/8273","text":"Eunyong Cheon"},{"@pid":"319/0292","text":"Youngeun Song"},{"@pid":"61/3746","text":"Choong-Hoon Lee"},{"@pid":"76/3174","text":"Ian Oakley"}]},"title":"WristAcoustic: Through-Wrist Acoustic Response Based Authentication for Smartwatches.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"167:1-167:34","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/HuhSKCSLO22","doi":"10.1145/3569473","ee":"https://doi.org/10.1145/3569473","url":"https://dblp.org/rec/journals/imwut/HuhSKCSLO22"},
+"url":"URL#1312377"
+},
+{
+"@score":"1",
+"@id":"1312378",
+"info":{"authors":{"author":[{"@pid":"218/0865","text":"Toshiya Isomoto"},{"@pid":"133/1242","text":"Shota Yamanaka"},{"@pid":"s/BuntarouShizuki","text":"Buntarou Shizuki"}]},"title":"Dwell Selection with ML-based Intent Prediction Using Only Gaze Data.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"120:1-120:21","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/IsomotoYS22","doi":"10.1145/3550301","ee":"https://doi.org/10.1145/3550301","url":"https://dblp.org/rec/journals/imwut/IsomotoYS22"},
+"url":"URL#1312378"
+},
+{
+"@score":"1",
+"@id":"1312379",
+"info":{"authors":{"author":[{"@pid":"255/2617","text":"Yash Jain"},{"@pid":"279/3979","text":"Chi Ian Tang"},{"@pid":"92/8305","text":"Chulhong Min"},{"@pid":"98/1826","text":"Fahim Kawsar"},{"@pid":"99/2140","text":"Akhil Mathur"}]},"title":"ColloSSL: Collaborative Self-Supervised Learning for Human Activity Recognition.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"17:1-17:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/JainTMKM22","doi":"10.1145/3517246","ee":"https://doi.org/10.1145/3517246","url":"https://dblp.org/rec/journals/imwut/JainTMKM22"},
+"url":"URL#1312379"
+},
+{
+"@score":"1",
+"@id":"1312380",
+"info":{"authors":{"author":[{"@pid":"264/7924","text":"Pascal Jansen"},{"@pid":"217/9412","text":"Mark Colley"},{"@pid":"94/6884","text":"Enrico Rukzio"}]},"title":"A Design Space for Human Sensor and Actuator Focused In-Vehicle Interaction Based on a Systematic Literature Review.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"56:1-56:51","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/JansenCR22","doi":"10.1145/3534617","ee":"https://doi.org/10.1145/3534617","url":"https://dblp.org/rec/journals/imwut/JansenCR22"},
+"url":"URL#1312380"
+},
+{
+"@score":"1",
+"@id":"1312381",
+"info":{"authors":{"author":[{"@pid":"273/7596","text":"Yincheng Jin"},{"@pid":"89/4402-25","text":"Yang Gao 0025"},{"@pid":"198/0980","text":"Xuhai Xu"},{"@pid":"221/9562","text":"Seokmin Choi"},{"@pid":"29/11438","text":"Jiyang Li"},{"@pid":"77/1318","text":"Feng Liu"},{"@pid":"217/8466","text":"Zhengxiong Li"},{"@pid":"93/5912","text":"Zhanpeng Jin"}]},"title":"EarCommand: &quot;Hearing&quot; Your Silent Speech Commands In Ear.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"57:1-57:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/JinGXCLLLJ22","doi":"10.1145/3534613","ee":"https://doi.org/10.1145/3534613","url":"https://dblp.org/rec/journals/imwut/JinGXCLLLJ22"},
+"url":"URL#1312381"
+},
+{
+"@score":"1",
+"@id":"1312382",
+"info":{"authors":{"author":[{"@pid":"244/1952","text":"Xiaofu Jin"},{"@pid":"292/8998","text":"Xiaozhu Hu"},{"@pid":"239/8033","text":"Xiaoying Wei"},{"@pid":"50/6579","text":"Mingming Fan 0001"}]},"title":"Synapse: Interactive Guidance by Demonstration with Trial-and-Error Support for Older Adults to Use Smartphone Apps.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"121:1-121:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/JinHWF22","doi":"10.1145/3550321","ee":"https://doi.org/10.1145/3550321","url":"https://dblp.org/rec/journals/imwut/JinHWF22"},
+"url":"URL#1312382"
+},
+{
+"@score":"1",
+"@id":"1312383",
+"info":{"authors":{"author":[{"@pid":"237/7600","text":"Kevin Jiokeng"},{"@pid":"10/5184","text":"Gentian Jakllari"},{"@pid":"73/1919","text":"André-Luc Beylot"}]},"title":"I Want to Know Your Hand: Authentication on Commodity Mobile Phones Based on Your Hand&apos;s Vibrations.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"58:1-58:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/JiokengJB22","doi":"10.1145/3534575","ee":"https://doi.org/10.1145/3534575","url":"https://dblp.org/rec/journals/imwut/JiokengJB22"},
+"url":"URL#1312383"
+},
+{
+"@score":"1",
+"@id":"1312384",
+"info":{"authors":{"author":[{"@pid":"183/1332","text":"Kazi Sinthia Kabir"},{"@pid":"242/3221","text":"Stacey A. Kenfield"},{"@pid":"242/3061","text":"Erin L. Van Blarigan"},{"@pid":"242/3266","text":"June M. Chan"},{"@pid":"03/8928","text":"Jason Wiese"}]},"title":"Ask the Users: A Case Study of Leveraging User-Centered Design for Designing Just-in-Time Adaptive Interventions (JITAIs).","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"59:1-59:21","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/KabirKBCW22","doi":"10.1145/3534612","ee":"https://doi.org/10.1145/3534612","url":"https://dblp.org/rec/journals/imwut/KabirKBCW22"},
+"url":"URL#1312384"
+},
+{
+"@score":"1",
+"@id":"1312385",
+"info":{"authors":{"author":[{"@pid":"316/8289","text":"Manasa Kalanadhabhatta"},{"@pid":"324/3983","text":"Adrelys Mateo Santana"},{"@pid":"57/6820","text":"Zhongyang Zhang"},{"@pid":"g/DeepakGanesan","text":"Deepak Ganesan"},{"@pid":"324/3936","text":"Adam S. Grabell"},{"@pid":"18/10649","text":"Tauhidur Rahman"}]},"title":"EarlyScreen: Multi-scale Instance Fusion for Predicting Neural Activation and Psychopathology in Preschool Children.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"60:1-60:39","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/Kalanadhabhatta22","doi":"10.1145/3534583","ee":"https://doi.org/10.1145/3534583","url":"https://dblp.org/rec/journals/imwut/Kalanadhabhatta22"},
+"url":"URL#1312385"
+},
+{
+"@score":"1",
+"@id":"1312386",
+"info":{"authors":{"author":[{"@pid":"279/0322","text":"Hua Kang"},{"@pid":"133/3873","text":"Qianyi Huang"},{"@pid":"04/2024-1","text":"Qian Zhang 0001"}]},"title":"Augmented Adversarial Learning for Human Activity Recognition with Partial Sensor Sets.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"122:1-122:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/KangHZ22","doi":"10.1145/3550285","ee":"https://doi.org/10.1145/3550285","url":"https://dblp.org/rec/journals/imwut/KangHZ22"},
+"url":"URL#1312386"
+},
+{
+"@score":"1",
+"@id":"1312387",
+"info":{"authors":{"author":[{"@pid":"172/6822","text":"Usman Mahmood Khan"},{"@pid":"57/1402","text":"Luca Rigazio"},{"@pid":"14/5514-1","text":"Muhammad Shahzad 0001"}]},"title":"Contactless Monitoring of PPG Using Radar.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"123:1-123:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/KhanRS22","doi":"10.1145/3550330","ee":"https://doi.org/10.1145/3550330","url":"https://dblp.org/rec/journals/imwut/KhanRS22"},
+"url":"URL#1312387"
+},
+{
+"@score":"1",
+"@id":"1312388",
+"info":{"authors":{"author":[{"@pid":"320/0225","text":"Christopher Kraemer"},{"@pid":"320/0189","text":"Amy Guo"},{"@pid":"01/10415","text":"Saad Ahmed"},{"@pid":"143/9139","text":"Josiah D. Hester"}]},"title":"Battery-free MakeCode: Accessible Programming for Intermittent Computing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"18:1-18:35","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/KraemerGAH22","doi":"10.1145/3517236","ee":"https://doi.org/10.1145/3517236","url":"https://dblp.org/rec/journals/imwut/KraemerGAH22"},
+"url":"URL#1312388"
+},
+{
+"@score":"1",
+"@id":"1312389",
+"info":{"authors":{"author":[{"@pid":"239/4292","text":"Nitya Lakshmanan"},{"@pid":"141/0267","text":"Abdelhak Bentaleb"},{"@pid":"319/9595","text":"Byoungjun Choi"},{"@pid":"79/1490","text":"Roger Zimmermann"},{"@pid":"02/3721-1","text":"Jun Han 0001"},{"@pid":"75/8333","text":"Min Suk Kang"}]},"title":"On Privacy Risks of Watching YouTube over Cellular Networks with Carrier Aggregation.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"19:1-19:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LakshmananBCZHK22","doi":"10.1145/3517261","ee":"https://doi.org/10.1145/3517261","url":"https://dblp.org/rec/journals/imwut/LakshmananBCZHK22"},
+"url":"URL#1312389"
+},
+{
+"@score":"1",
+"@id":"1312390",
+"info":{"authors":{"author":[{"@pid":"86/2049","text":"Hyunsoo Lee"},{"@pid":"172/2902","text":"Soowon Kang"},{"@pid":"32/1994","text":"Uichin Lee"}]},"title":"Understanding Privacy Risks and Perceived Benefits in Open Dataset Collection for Mobile Affective Computing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"61:1-61:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LeeKL22","doi":"10.1145/3534623","ee":"https://doi.org/10.1145/3534623","url":"https://dblp.org/rec/journals/imwut/LeeKL22"},
+"url":"URL#1312390"
+},
+{
+"@score":"1",
+"@id":"1312391",
+"info":{"authors":{"author":[{"@pid":"38/7728","text":"Jong Taek Lee"},{"@pid":"268/1575","text":"Yu Kai Lim"},{"@pid":"98/10484","text":"Shijia Pan"},{"@pid":"02/3721-1","text":"Jun Han 0001"}]},"title":"Don&apos;t &quot;Weight&quot; to Board: Augmenting Vision-based Passenger Weight Prediction via Viscoelastic Mat.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"168:1-168:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LeeLPH22","doi":"10.1145/3569465","ee":"https://doi.org/10.1145/3569465","url":"https://dblp.org/rec/journals/imwut/LeeLPH22"},
+"url":"URL#1312391"
+},
+{
+"@score":"1",
+"@id":"1312392",
+"info":{"authors":{"author":[{"@pid":"234/1670","text":"Kyuin Lee"},{"@pid":"212/5981","text":"Yucheng Yang"},{"@pid":"320/0032","text":"Omkar Prabhune"},{"@pid":"320/0165","text":"Aishwarya Lekshmi Chithra"},{"@pid":"261/9547","text":"Jack West"},{"@pid":"97/535","text":"Kassem Fawaz"},{"@pid":"146/7847","text":"Neil Klingensmith"},{"@pid":"345/5455-1","text":"Suman Banerjee 0001"},{"@pid":"76/2864-1","text":"Younghyun Kim 0001"}]},"title":"AEROKEY: Using Ambient Electromagnetic Radiation for Secure and Usable Wireless Device Authentication.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"20:1-20:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LeeYPCWFKBK22","doi":"10.1145/3517254","ee":"https://doi.org/10.1145/3517254","url":"https://dblp.org/rec/journals/imwut/LeeYPCWFKBK22"},
+"url":"URL#1312392"
+},
+{
+"@score":"1",
+"@id":"1312393",
+"info":{"authors":{"author":[{"@pid":"217/8466","text":"Zhengxiong Li"},{"@pid":"134/1201","text":"Baicheng Chen"},{"@pid":"59/7651","text":"Xingyu Chen"},{"@pid":"183/1735","text":"Chenhan Xu"},{"@pid":"139/7105","text":"Yuyang Chen"},{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"16/8918","text":"Changzhi Li"},{"@pid":"89/1614","text":"Karthik Dantu"},{"@pid":"20/6179-1","text":"Kui Ren 0001"},{"@pid":"11/6689","text":"Wenyao Xu"}]},"title":"Reliable Digital Forensics in the Air: Exploring an RF-based Drone Identification System.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"63:1-63:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiCCXCLLDRX22","doi":"10.1145/3534598","ee":"https://doi.org/10.1145/3534598","url":"https://dblp.org/rec/journals/imwut/LiCCXCLLDRX22"},
+"url":"URL#1312393"
+},
+{
+"@score":"1",
+"@id":"1312394",
+"info":{"authors":{"author":[{"@pid":"204/1605","text":"Huining Li"},{"@pid":"132/8300","text":"Huan Chen"},{"@pid":"183/1735","text":"Chenhan Xu"},{"@pid":"217/8466","text":"Zhengxiong Li"},{"@pid":"217/8449","text":"Hanbin Zhang"},{"@pid":"246/5468","text":"Xiaoye Qian"},{"@pid":"27/1131","text":"Dongmei Li"},{"@pid":"93/10077","text":"Ming-Chun Huang"},{"@pid":"11/6689","text":"Wenyao Xu"}]},"title":"NeuralGait: Assessing Brain Health Using Your Smartphone.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"169:1-169:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiCXLZQLHX22","doi":"10.1145/3569476","ee":"https://doi.org/10.1145/3569476","url":"https://dblp.org/rec/journals/imwut/LiCXLZQLHX22"},
+"url":"URL#1312394"
+},
+{
+"@score":"1",
+"@id":"1312395",
+"info":{"authors":{"author":[{"@pid":"179/0201","text":"Dengyun Li"},{"@pid":"90/3741","text":"Xin Ge"},{"@pid":"328/9419","text":"Qingzhou Ma"},{"@pid":"328/9305","text":"Brinda Mehra"},{"@pid":"03/2134-29","text":"Jie Liu 0029"},{"@pid":"80/10485","text":"Teng Han"},{"@pid":"18/5099-3","text":"Can Liu 0003"}]},"title":"Evaluating Three Touch Gestures for Moving Objects across Folded Screens.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"124:1-124:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiGMMLHL22","doi":"10.1145/3550309","ee":"https://doi.org/10.1145/3550309","url":"https://dblp.org/rec/journals/imwut/LiGMMLHL22"},
+"url":"URL#1312395"
+},
+{
+"@score":"1",
+"@id":"1312396",
+"info":{"authors":{"author":[{"@pid":"147/0314-1","text":"Jiayu Li 0001"},{"@pid":"25/5294","text":"Zhiyu He"},{"@pid":"328/9374","text":"Yumeng Cui"},{"@pid":"163/7308-3","text":"Chenyang Wang 0003"},{"@pid":"63/713-1","text":"Chong Chen 0001"},{"@pid":"72/6319","text":"Chun Yu"},{"@pid":"83/5342-6","text":"Min Zhang 0006"},{"@pid":"49/1579-1","text":"Yiqun Liu 0001"},{"@pid":"40/1949","text":"Shaoping Ma"}]},"title":"Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"125:1-125:34","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiHCWCYZLM22","doi":"10.1145/3550333","ee":"https://doi.org/10.1145/3550333","url":"https://dblp.org/rec/journals/imwut/LiHCWCYZLM22"},
+"url":"URL#1312396"
+},
+{
+"@score":"1",
+"@id":"1312397",
+"info":{"authors":{"author":[{"@pid":"55/4022","text":"Zhichun Li"},{"@pid":"21/4633","text":"Yu Jiang"},{"@pid":"85/5316","text":"Xiaochen Liu"},{"@pid":"87/8700-1","text":"Yuhang Zhao 0001"},{"@pid":"72/6319","text":"Chun Yu"},{"@pid":"08/5313","text":"Yuanchun Shi"}]},"title":"Enhancing Revisitation in Touchscreen Reading for Visually Impaired People with Semantic Navigation Design.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"126:1-126:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiJLZYS22","doi":"10.1145/3550290","ee":"https://doi.org/10.1145/3550290","url":"https://dblp.org/rec/journals/imwut/LiJLZYS22"},
+"url":"URL#1312397"
+},
+{
+"@score":"1",
+"@id":"1312398",
+"info":{"authors":{"author":[{"@pid":"92/1339-1","text":"Zhipeng Li 0001"},{"@pid":"21/4633","text":"Yu Jiang"},{"@pid":"08/8002","text":"Yihao Zhu"},{"@pid":"319/3213","text":"Ruijia Chen"},{"@pid":"34/7464","text":"Ruolin Wang"},{"@pid":"52/4107-1","text":"Yuntao Wang 0001"},{"@pid":"199/3032","text":"Yukang Yan"},{"@pid":"08/5313","text":"Yuanchun Shi"}]},"title":"Modeling the Noticeability of User-Avatar Movement Inconsistency for Sense of Body Ownership Intervention.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"64:1-64:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiJZCWWYS22","doi":"10.1145/3534590","ee":"https://doi.org/10.1145/3534590","url":"https://dblp.org/rec/journals/imwut/LiJZCWWYS22"},
+"url":"URL#1312398"
+},
+{
+"@score":"1",
+"@id":"1312399",
+"info":{"authors":{"author":[{"@pid":"47/4826-31","text":"Dong Li 0031"},{"@pid":"32/5050-4","text":"Jialin Liu 0004"},{"@pid":"35/11104","text":"Sunghoon Ivan Lee"},{"@pid":"75/198-1","text":"Jie Xiong 0001"}]},"title":"LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"21:1-21:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiLLX22","doi":"10.1145/3517253","ee":"https://doi.org/10.1145/3517253","url":"https://dblp.org/rec/journals/imwut/LiLLX22"},
+"url":"URL#1312399"
+},
+{
+"@score":"1",
+"@id":"1312400",
+"info":{"authors":{"author":[{"@pid":"37/4190-162","text":"Yang Li 0162"},{"@pid":"19/5635-7","text":"Dan Wu 0007"},{"@pid":"84/6889-59","text":"Jie Zhang 0059"},{"@pid":"198/0980","text":"Xuhai Xu"},{"@pid":"167/5888","text":"Yaxiong Xie"},{"@pid":"65/4916","text":"Tao Gu 0001"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"DiverSense: Maximizing Wi-Fi Sensing Range Leveraging Signal Diversity.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"94:1-94:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiWZXXGZ22","doi":"10.1145/3536393","ee":"https://doi.org/10.1145/3536393","url":"https://dblp.org/rec/journals/imwut/LiWZXXGZ22"},
+"url":"URL#1312400"
+},
+{
+"@score":"1",
+"@id":"1312401",
+"info":{"authors":{"author":[{"@pid":"75/6627-13","text":"Ke Li 0013"},{"@pid":"06/616","text":"Ruidong Zhang"},{"@pid":"50/3402-5","text":"Bo Li 0005"},{"@pid":"g/FrancoisGuimbretiere","text":"François Guimbretière"},{"@pid":"82/6384","text":"Cheng Zhang"}]},"title":"EarIO: A Low-power Acoustic Sensing Earable for Continuously Tracking Detailed Facial Movements.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"62:1-62:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiZLGZ22","doi":"10.1145/3534621","ee":"https://doi.org/10.1145/3534621","url":"https://dblp.org/rec/journals/imwut/LiZLGZ22"},
+"url":"URL#1312401"
+},
+{
+"@score":"1",
+"@id":"1312402",
+"info":{"authors":{"author":[{"@pid":"35/3221","text":"Chen Liang"},{"@pid":"338/5609","text":"Chi Hsia"},{"@pid":"72/6319","text":"Chun Yu"},{"@pid":"199/3032","text":"Yukang Yan"},{"@pid":"52/4107-1","text":"Yuntao Wang 0001"},{"@pid":"08/5313","text":"Yuanchun Shi"}]},"title":"DRG-Keyboard: Enabling Subtle Gesture Typing on the Fingertip with Dual IMU Rings.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"170:1-170:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiangHYYWS22","doi":"10.1145/3569463","ee":"https://doi.org/10.1145/3569463","url":"https://dblp.org/rec/journals/imwut/LiangHYYWS22"},
+"url":"URL#1312402"
+},
+{
+"@score":"1",
+"@id":"1312403",
+"info":{"authors":{"author":[{"@pid":"22/10796","text":"Yunji Liang"},{"@pid":"328/9295","text":"Yuchen Qin"},{"@pid":"181/2688","text":"Qi Li"},{"@pid":"328/9309","text":"Xiaokai Yan"},{"@pid":"z/YuZhiwen","text":"Zhiwen Yu 0001"},{"@pid":"86/2663-1","text":"Bin Guo 0001"},{"@pid":"165/9230","text":"Sagar Samtani"},{"@pid":"44/2799","text":"Yanyong Zhang"}]},"title":"AccMyrinx: Speech Synthesis with Non-Acoustic Sensor.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"127:1-127:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiangQLYYGSZ22","doi":"10.1145/3550338","ee":"https://doi.org/10.1145/3550338","url":"https://dblp.org/rec/journals/imwut/LiangQLYYGSZ22"},
+"url":"URL#1312403"
+},
+{
+"@score":"1",
+"@id":"1312404",
+"info":{"authors":{"author":[{"@pid":"236/3708","text":"Chengwu Liao"},{"@pid":"66/3019-4","text":"Chao Chen 0004"},{"@pid":"162/2264","text":"Suiming Guo"},{"@pid":"03/6588-1","text":"Zhu Wang 0001"},{"@pid":"139/2249","text":"Yaxiao Liu"},{"@pid":"181/2626-2","text":"Ke Xu 0002"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"Wheels Know Why You Travel: Predicting Trip Purpose via a Dual-Attention Graph Embedding Network.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"22:1-22:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiaoCGWLXZ22","doi":"10.1145/3517239","ee":"https://doi.org/10.1145/3517239","url":"https://dblp.org/rec/journals/imwut/LiaoCGWLXZ22"},
+"url":"URL#1312404"
+},
+{
+"@score":"1",
+"@id":"1312405",
+"info":{"authors":{"author":[{"@pid":"206/6234","text":"Edgar Liberis"},{"@pid":"03/2663","text":"Nicholas D. Lane"}]},"title":"Differentiable Neural Network Pruning to Enable Smart Applications on Microcontrollers.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"171:1-171:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiberisL22","doi":"10.1145/3569468","ee":"https://doi.org/10.1145/3569468","url":"https://dblp.org/rec/journals/imwut/LiberisL22"},
+"url":"URL#1312405"
+},
+{
+"@score":"1",
+"@id":"1312406",
+"info":{"authors":{"author":[{"@pid":"161/3572","text":"Hyunchul Lim"},{"@pid":"92/6967","text":"Yaxuan Li"},{"@pid":"273/7431","text":"Matthew Dressa"},{"@pid":"61/8489-2","text":"Fang Hu 0002"},{"@pid":"52/4972","text":"Jae Hoon Kim"},{"@pid":"06/616","text":"Ruidong Zhang"},{"@pid":"82/6384","text":"Cheng Zhang"}]},"title":"BodyTrak: Inferring Full-body Poses from Body Silhouettes Using a Miniature Camera on a Wristband.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"154:1-154:21","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LimLDHKZZ22","doi":"10.1145/3552312","ee":"https://doi.org/10.1145/3552312","url":"https://dblp.org/rec/journals/imwut/LimLDHKZZ22"},
+"url":"URL#1312406"
+},
+{
+"@score":"1",
+"@id":"1312407",
+"info":{"authors":{"author":[{"@pid":"156/8407-2","text":"Haipeng Liu 0002"},{"@pid":"296/4665","text":"Kening Cui"},{"@pid":"255/9117","text":"Kaiyuan Hu"},{"@pid":"85/4469","text":"Yuheng Wang"},{"@pid":"32/5505","text":"Anfu Zhou"},{"@pid":"10/6178-1","text":"Liang Liu 0001"},{"@pid":"04/6217","text":"Huadong Ma"}]},"title":"mTransSee: Enabling Environment-Independent mmWave Sensing Based Gesture Recognition via Transfer Learning.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"23:1-23:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiuCHWZLM22","doi":"10.1145/3517231","ee":"https://doi.org/10.1145/3517231","url":"https://dblp.org/rec/journals/imwut/LiuCHWZLM22"},
+"url":"URL#1312407"
+},
+{
+"@score":"1",
+"@id":"1312408",
+"info":{"authors":{"author":[{"@pid":"02/4762","text":"Zongjian Liu"},{"@pid":"338/6201","text":"Jieling He"},{"@pid":"64/5611","text":"Jianjiang Feng"},{"@pid":"00/5012-1","text":"Jie Zhou 0001"}]},"title":"PrinType: Text Entry via Fingerprint Recognition.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"174:1-174:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiuHFZ22","doi":"10.1145/3569491","ee":"https://doi.org/10.1145/3569491","url":"https://dblp.org/rec/journals/imwut/LiuHFZ22"},
+"url":"URL#1312408"
+},
+{
+"@score":"1",
+"@id":"1312409",
+"info":{"authors":{"author":[{"@pid":"05/6300","text":"Ziwei Liu"},{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"188/7759-97","text":"Chao Wang 0097"},{"@pid":"236/2869","text":"Yijie Shen"},{"@pid":"139/5759","text":"Zhongjie Ba"},{"@pid":"49/2793-8","text":"Li Lu 0008"},{"@pid":"11/6689","text":"Wenyao Xu"},{"@pid":"20/6179-1","text":"Kui Ren 0001"}]},"title":"CamRadar: Hidden Camera Detection Leveraging Amplitude-modulated Sensor Images Embedded in Electromagnetic Emanations.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"173:1-173:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiuLWSBLXR22","doi":"10.1145/3569505","ee":"https://doi.org/10.1145/3569505","url":"https://dblp.org/rec/journals/imwut/LiuLWSBLXR22"},
+"url":"URL#1312409"
+},
+{
+"@score":"1",
+"@id":"1312410",
+"info":{"authors":{"author":[{"@pid":"32/5050-4","text":"Jialin Liu 0004"},{"@pid":"47/4826-31","text":"Dong Li 0031"},{"@pid":"w/LeiWang5","text":"Lei Wang 0005"},{"@pid":"68/10002","text":"Fusang Zhang"},{"@pid":"75/198-1","text":"Jie Xiong 0001"}]},"title":"Enabling Contact-free Acoustic Sensing under Device Motion.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"128:1-128:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiuLWZX22","doi":"10.1145/3550329","ee":"https://doi.org/10.1145/3550329","url":"https://dblp.org/rec/journals/imwut/LiuLWZX22"},
+"url":"URL#1312410"
+},
+{
+"@score":"1",
+"@id":"1312411",
+"info":{"authors":{"author":[{"@pid":"44/9804-5","text":"Sicong Liu 0005"},{"@pid":"49/1510","text":"Xiaochen Li"},{"@pid":"133/3824","text":"Zimu Zhou"},{"@pid":"86/2663-1","text":"Bin Guo 0001"},{"@pid":"04/6901","text":"Meng Zhang"},{"@pid":"334/7788","text":"Haochen Shen"},{"@pid":"z/YuZhiwen","text":"Zhiwen Yu 0001"}]},"title":"AdaEnlight: Energy-aware Low-light Video Stream Enhancement on Mobile Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"172:1-172:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiuLZGZSY22","doi":"10.1145/3569464","ee":"https://doi.org/10.1145/3569464","url":"https://dblp.org/rec/journals/imwut/LiuLZGZSY22"},
+"url":"URL#1312411"
+},
+{
+"@score":"1",
+"@id":"1312412",
+"info":{"authors":{"author":[{"@pid":"72/3797","text":"Xinyang Liu"},{"@pid":"w/LeiWang5","text":"Lei Wang 0005"},{"@pid":"75/198-1","text":"Jie Xiong 0001"},{"@pid":"24/8037-1","text":"Chi Lin 0001"},{"@pid":"299/8839","text":"Xinhua Gao"},{"@pid":"180/4538","text":"Jiale Li"},{"@pid":"25/4764-12","text":"Yibo Wang 0012"}]},"title":"UQRCom: Underwater Wireless Communication Based on QR Code.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"210:1-210:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiuWXLGLW22","doi":"10.1145/3571588","ee":"https://doi.org/10.1145/3571588","url":"https://dblp.org/rec/journals/imwut/LiuWXLGLW22"},
+"url":"URL#1312412"
+},
+{
+"@score":"1",
+"@id":"1312413",
+"info":{"authors":{"author":[{"@pid":"76/1820-34","text":"Xin Liu 0034"},{"@pid":"52/4107-1","text":"Yuntao Wang 0001"},{"@pid":"278/3557","text":"Sinan Xie"},{"@pid":"12/5927","text":"Xiaoyu Zhang"},{"@pid":"311/3682","text":"Zixian Ma"},{"@pid":"63/9606","text":"Daniel McDuff"},{"@pid":"p/ShwetakNPatel","text":"Shwetak N. Patel"}]},"title":"MobilePhys: Personalized Mobile Camera-Based Contactless Physiological Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"24:1-24:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LiuWXZMMP22","doi":"10.1145/3517225","ee":"https://doi.org/10.1145/3517225","url":"https://dblp.org/rec/journals/imwut/LiuWXZMMP22"},
+"url":"URL#1312413"
+},
+{
+"@score":"1",
+"@id":"1312414",
+"info":{"authors":{"author":[{"@pid":"50/9917-2","text":"Xi Lu 0002"},{"@pid":"129/5092","text":"Edison Thomaz"},{"@pid":"401/3967","text":"Daniel A. Epstein"}]},"title":"Understanding People&apos;s Perceptions of Approaches to Semi-Automated Dietary Monitoring.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"129:1-129:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LuTE22","doi":"10.1145/3550288","ee":"https://doi.org/10.1145/3550288","url":"https://dblp.org/rec/journals/imwut/LuTE22"},
+"url":"URL#1312414"
+},
+{
+"@score":"1",
+"@id":"1312415",
+"info":{"authors":{"author":[{"@pid":"36/6969","text":"Wang Lu"},{"@pid":"19/2969-1","text":"Jindong Wang 0001"},{"@pid":"48/1091-1","text":"Yiqiang Chen 0001"},{"@pid":"80/5412","text":"Sinno Jialin Pan"},{"@pid":"45/1919","text":"Chunyu Hu"},{"@pid":"216/7508","text":"Xin Qin"}]},"title":"Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"65:1-65:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LuWCPHQ22","doi":"10.1145/3534589","ee":"https://doi.org/10.1145/3534589","url":"https://dblp.org/rec/journals/imwut/LuWCPHQ22"},
+"url":"URL#1312415"
+},
+{
+"@score":"1",
+"@id":"1312416",
+"info":{"authors":{"author":[{"@pid":"15/10357","text":"Zhiqing Luo"},{"@pid":"337/9810","text":"Mingxuan Yan"},{"@pid":"35/7092-50","text":"Wei Wang 0050"},{"@pid":"04/2024-1","text":"Qian Zhang 0001"}]},"title":"Non-intrusive Anomaly Detection of Industrial Robot Operations by Exploiting Nonlinear Effect.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"175:1-175:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/LuoYWZ22","doi":"10.1145/3569477","ee":"https://doi.org/10.1145/3569477","url":"https://dblp.org/rec/journals/imwut/LuoYWZ22"},
+"url":"URL#1312416"
+},
+{
+"@score":"1",
+"@id":"1312417",
+"info":{"authors":{"author":[{"@pid":"205/4275","text":"Lakmal Meegahapola"},{"@pid":"251/4398","text":"William Droz"},{"@pid":"242/4204","text":"Peter Kun"},{"@pid":"48/1797","text":"Amalia de Götzen"},{"@pid":"163/2583","text":"Chaitanya Nutakki"},{"@pid":"04/9716","text":"Shyam Diwakar"},{"@pid":"28/1268","text":"Salvador Ruiz-Correa"},{"@pid":"240/9220","text":"Donglei Song"},{"@pid":"43/6008-12","text":"Hao Xu 0012"},{"@pid":"332/3618","text":"Miriam Bidoglia"},{"@pid":"332/4005","text":"George Gaskell"},{"@pid":"29/6631","text":"Altangerel Chagnaa"},{"@pid":"219/5426","text":"Amarsanaa Ganbold"},{"@pid":"79/7291","text":"Tsolmon Zundui"},{"@pid":"132/3829","text":"Carlo Caprini"},{"@pid":"52/6570","text":"Daniele Miorandi"},{"@pid":"01/1534","text":"Alethia Hume"},{"@pid":"309/6703","text":"José Luis Zarza"},{"@pid":"30/1074","text":"Luca Cernuzzi"},{"@pid":"205/3247","text":"Ivano Bison"},{"@pid":"340/6996","text":"Marcelo Dario Rodas Britez"},{"@pid":"298/4336","text":"Matteo Busso"},{"@pid":"116/7576","text":"Ronald Chenu-Abente"},{"@pid":"332/4917","text":"Can Gunel"},{"@pid":"g/FaustoGiunchiglia","text":"Fausto Giunchiglia"},{"@pid":"262/3797","text":"Laura Schelenz"},{"@pid":"55/1328","text":"Daniel Gatica-Perez"}]},"title":"Generalization and Personalization of Mobile Sensing-Based Mood Inference Models: An Analysis of College Students in Eight Countries.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"176:1-176:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/MeegahapolaDKGN22","doi":"10.1145/3569483","ee":"https://doi.org/10.1145/3569483","url":"https://dblp.org/rec/journals/imwut/MeegahapolaDKGN22"},
+"url":"URL#1312417"
+},
+{
+"@score":"1",
+"@id":"1312418",
+"info":{"authors":{"author":[{"@pid":"194/9695","text":"Tamir Mendel"},{"@pid":"180/8190","text":"Roei Schuster"},{"@pid":"t/EranTromer","text":"Eran Tromer"},{"@pid":"47/3938","text":"Eran Toch"}]},"title":"Toward Proactive Support for Older Adults: Predicting the Right Moment for Providing Mobile Safety Help.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"25:1-25:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/MendelSTT22","doi":"10.1145/3517249","ee":"https://doi.org/10.1145/3517249","url":"https://dblp.org/rec/journals/imwut/MendelSTT22"},
+"url":"URL#1312418"
+},
+{
+"@score":"1",
+"@id":"1312419",
+"info":{"authors":{"author":[{"@pid":"279/1210","text":"Shenghuan Miao"},{"@pid":"17/1237-1","text":"Ling Chen 0001"},{"@pid":"44/594","text":"Rong Hu"},{"@pid":"328/8908","text":"Yingsong Luo"}]},"title":"Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"130:1-130:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/MiaoCHL22","doi":"10.1145/3550331","ee":"https://doi.org/10.1145/3550331","url":"https://dblp.org/rec/journals/imwut/MiaoCHL22"},
+"url":"URL#1312419"
+},
+{
+"@score":"1",
+"@id":"1312420",
+"info":{"authors":{"author":[{"@pid":"257/0369","text":"Abhijeet Mishra"},{"@pid":"66/1457","text":"Piyush Kumar"},{"@pid":"117/9926","text":"Jainendra Shukla"},{"@pid":"46/5850","text":"Aman Parnami"}]},"title":"HaptiDrag: A Device with the Ability to Generate Varying Levels of Drag (Friction) Effects on Real Surfaces.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"131:1-131:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/MishraKSP22","doi":"10.1145/3550310","ee":"https://doi.org/10.1145/3550310","url":"https://dblp.org/rec/journals/imwut/MishraKSP22"},
+"url":"URL#1312420"
+},
+{
+"@score":"1",
+"@id":"1312421",
+"info":{"authors":{"author":[{"@pid":"264/8811","text":"Vimal Mollyn"},{"@pid":"185/0960","text":"Karan Ahuja"},{"@pid":"271/8106","text":"Dhruv Verma"},{"@pid":"77/2637","text":"Chris Harrison 0001"},{"@pid":"72/11299","text":"Mayank Goel"}]},"title":"SAMoSA: Sensing Activities with Motion and Subsampled Audio.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"132:1-132:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/MollynAVHG22","doi":"10.1145/3550284","ee":"https://doi.org/10.1145/3550284","url":"https://dblp.org/rec/journals/imwut/MollynAVHG22"},
+"url":"URL#1312421"
+},
+{
+"@score":"1",
+"@id":"1312422",
+"info":{"authors":{"author":[{"@pid":"212/5733","text":"Tamanna Motahar"},{"@pid":"03/8928","text":"Jason Wiese"}]},"title":"A Review of Personal Informatics Research for People with Motor Disabilities.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"66:1-66:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/MotaharW22","doi":"10.1145/3534614","ee":"https://doi.org/10.1145/3534614","url":"https://dblp.org/rec/journals/imwut/MotaharW22"},
+"url":"URL#1312422"
+},
+{
+"@score":"1",
+"@id":"1312423",
+"info":{"authors":{"author":[{"@pid":"173/9876","text":"Joshua Newn"},{"@pid":"71/10210-1","text":"Ryan M. Kelly 0001"},{"@pid":"60/9092","text":"Simon D&apos;Alfonso"},{"@pid":"93/10951","text":"Reeva Lederman"}]},"title":"Examining and Promoting Explainable Recommendations for Personal Sensing Technology Acceptance.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"133:1-133:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/NewnKDL22","doi":"10.1145/3550297","ee":"https://doi.org/10.1145/3550297","url":"https://dblp.org/rec/journals/imwut/NewnKDL22"},
+"url":"URL#1312423"
+},
+{
+"@score":"1",
+"@id":"1312424",
+"info":{"authors":{"author":[{"@pid":"266/2824","text":"Joseph O&apos;Hagan"},{"@pid":"242/4083","text":"Pejman Saeghe"},{"@pid":"134/2961","text":"Jan Gugenheimer"},{"@pid":"119/3541","text":"Daniel Medeiros 0001"},{"@pid":"179/7489","text":"Karola Marky"},{"@pid":"129/9490","text":"Mohamed Khamis"},{"@pid":"61/7370","text":"Mark McGill"}]},"title":"Privacy-Enhancing Technology and Everyday Augmented Reality: Understanding Bystanders&apos; Varying Needs for Awareness and Consent.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"177:1-177:35","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/OHaganSGMMKM22","doi":"10.1145/3569501","ee":"https://doi.org/10.1145/3569501","url":"https://dblp.org/rec/journals/imwut/OHaganSGMMKM22"},
+"url":"URL#1312424"
+},
+{
+"@score":"1",
+"@id":"1312425",
+"info":{"authors":{"author":[{"@pid":"179/4826","text":"Luis Paredes"},{"@pid":"264/7491","text":"Ananya Ipsita"},{"@pid":"328/9323","text":"Juan C. Mesa"},{"@pid":"328/8971","text":"Ramses V. Martinez Garrido"},{"@pid":"01/6965","text":"Karthik Ramani"}]},"title":"StretchAR: Exploiting Touch and Stretch as a Method of Interaction for Smart Glasses Using Wearable Straps.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"134:1-134:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ParedesIMGR22","doi":"10.1145/3550305","ee":"https://doi.org/10.1145/3550305","url":"https://dblp.org/rec/journals/imwut/ParedesIMGR22"},
+"url":"URL#1312425"
+},
+{
+"@score":"1",
+"@id":"1312426",
+"info":{"authors":{"author":[{"@pid":"304/4242","text":"Brice Parilusyan"},{"@pid":"94/1087-2","text":"Marc Teyssier 0002"},{"@pid":"324/3878","text":"Valentin Martinez-Missir"},{"@pid":"137/6599","text":"Clément Duhart"},{"@pid":"23/958","text":"Marcos Serrano"}]},"title":"Sensurfaces: A Novel Approach for Embedded Touch Sensing on Everyday Surfaces.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"67:1-67:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ParilusyanTMDS22","doi":"10.1145/3534616","ee":"https://doi.org/10.1145/3534616","url":"https://dblp.org/rec/journals/imwut/ParilusyanTMDS22"},
+"url":"URL#1312426"
+},
+{
+"@score":"1",
+"@id":"1312427",
+"info":{"authors":{"author":[{"@pid":"121/3307","text":"Aditya Ponnada"},{"@pid":"72/9186","text":"Jixin Li"},{"@pid":"319/9643","text":"Shirlene Wang"},{"@pid":"177/5410","text":"Wei-Lin Wang"},{"@pid":"320/0219","text":"Bridgette Do"},{"@pid":"319/9696","text":"Genevieve F. Dunton"},{"@pid":"96/2745","text":"Stephen S. Intille"}]},"title":"Contextual Biases in Microinteraction Ecological Momentary Assessment (μEMA) Non-response.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"26:1-26:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/PonnadaLWWDDI22","doi":"10.1145/3517259","ee":"https://doi.org/10.1145/3517259","url":"https://dblp.org/rec/journals/imwut/PonnadaLWWDDI22"},
+"url":"URL#1312427"
+},
+{
+"@score":"1",
+"@id":"1312428",
+"info":{"authors":{"author":[{"@pid":"183/1700","text":"Nafiul Rashid"},{"@pid":"283/8117","text":"Berken Utku Demirel"},{"@pid":"216/1646","text":"Mohanad Odema"},{"@pid":"06/1521","text":"Mohammad Abdullah Al Faruque"}]},"title":"Template Matching Based Early Exit CNN for Energy-efficient Myocardial Infarction Detection on Low-power Wearable Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"68:1-68:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/RashidDOF22","doi":"10.1145/3534580","ee":"https://doi.org/10.1145/3534580","url":"https://dblp.org/rec/journals/imwut/RashidDOF22"},
+"url":"URL#1312428"
+},
+{
+"@score":"1",
+"@id":"1312429",
+"info":{"authors":{"author":[{"@pid":"45/8574","text":"Reza Rawassizadeh"},{"@pid":"34/4919","text":"Yi Rong"}]},"title":"ODSearch: Fast and Resource Efficient On-device Natural Language Search for Fitness Trackers&apos; Data.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"178:1-178:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/RawassizadehR22","doi":"10.1145/3569488","ee":"https://doi.org/10.1145/3569488","url":"https://dblp.org/rec/journals/imwut/RawassizadehR22"},
+"url":"URL#1312429"
+},
+{
+"@score":"1",
+"@id":"1312430",
+"info":{"authors":{"author":[{"@pid":"28/9860","text":"Yili Ren"},{"@pid":"78/8711-3","text":"Zi Wang 0003"},{"@pid":"79/10448","text":"Yichao Wang"},{"@pid":"167/8033","text":"Sheng Tan"},{"@pid":"18/2343-1","text":"Yingying Chen 0001"},{"@pid":"12/1198-3","text":"Jie Yang 0003"}]},"title":"GoPose: 3D Human Pose Estimation Using WiFi.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"69:1-69:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/RenWWTCY22","doi":"10.1145/3534605","ee":"https://doi.org/10.1145/3534605","url":"https://dblp.org/rec/journals/imwut/RenWWTCY22"},
+"url":"URL#1312430"
+},
+{
+"@score":"1",
+"@id":"1312431",
+"info":{"authors":{"author":[{"@pid":"267/6912","text":"Bradley Rey"},{"@pid":"52/5103","text":"Bongshin Lee"},{"@pid":"90/3981","text":"Eun Kyoung Choe"},{"@pid":"79/3435","text":"Pourang Irani"}]},"title":"Investigating In-Situ Personal Health Data Queries on Smartwatches.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"179:1-179:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ReyLCI22","doi":"10.1145/3569481","ee":"https://doi.org/10.1145/3569481","url":"https://dblp.org/rec/journals/imwut/ReyLCI22"},
+"url":"URL#1312431"
+},
+{
+"@score":"1",
+"@id":"1312432",
+"info":{"authors":{"author":[{"@pid":"227/5263","text":"Tobias Röddiger"},{"@pid":"84/6475","text":"Christopher Clarke"},{"@pid":"302/3606","text":"Paula Breitling"},{"@pid":"328/8845","text":"Tim Schneegans"},{"@pid":"64/7727","text":"Haibin Zhao"},{"@pid":"g/HWGellersen","text":"Hans Gellersen"},{"@pid":"97/4178","text":"Michael Beigl"}]},"title":"Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"135:1-135:57","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/RoddigerCBSZGB22","doi":"10.1145/3550314","ee":"https://doi.org/10.1145/3550314","url":"https://dblp.org/rec/journals/imwut/RoddigerCBSZGB22"},
+"url":"URL#1312432"
+},
+{
+"@score":"1",
+"@id":"1312433",
+"info":{"authors":{"author":[{"@pid":"226/1172","text":"Swapnil Sayan Saha"},{"@pid":"156/6972","text":"Sandeep Singh Sandha"},{"@pid":"67/136-1","text":"Luis Antonio Garcia"},{"@pid":"s/ManiBSrivastava","text":"Mani Srivastava 0001"}]},"title":"TinyOdom: Hardware-Aware Efficient Neural Inertial Navigation.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"71:1-71:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SahaSGS22","doi":"10.1145/3534594","ee":"https://doi.org/10.1145/3534594","url":"https://dblp.org/rec/journals/imwut/SahaSGS22"},
+"url":"URL#1312433"
+},
+{
+"@score":"1",
+"@id":"1312434",
+"info":{"authors":{"author":[{"@pid":"226/1172","text":"Swapnil Sayan Saha"},{"@pid":"156/6972","text":"Sandeep Singh Sandha"},{"@pid":"270/8063","text":"Siyou Pei"},{"@pid":"29/4326","text":"Vivek Jain"},{"@pid":"38/8097-1","text":"Ziqi Wang 0001"},{"@pid":"143/0258","text":"Yuchen Li"},{"@pid":"74/10607","text":"Ankur Sarker"},{"@pid":"s/ManiBSrivastava","text":"Mani Srivastava 0001"}]},"title":"Auritus: An Open-Source Optimization Toolkit for Training and Development of Human Movement Models and Filters Using Earables.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"70:1-70:34","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SahaSPJWLSS22","doi":"10.1145/3534586","ee":"https://doi.org/10.1145/3534586","url":"https://dblp.org/rec/journals/imwut/SahaSPJWLSS22"},
+"url":"URL#1312434"
+},
+{
+"@score":"1",
+"@id":"1312435",
+"info":{"authors":{"author":[{"@pid":"91/4486","text":"Muhammad Salman"},{"@pid":"286/1927","text":"Nguyen Dao"},{"@pid":"32/1994","text":"Uichin Lee"},{"@pid":"82/6913","text":"Youngtae Noh"}]},"title":"CSI: DeSpy: Enabling Effortless Spy Camera Detection via Passive Sensing of User Activities and Bitrate Variations.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"72:1-72:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SalmanDLN22","doi":"10.1145/3534593","ee":"https://doi.org/10.1145/3534593","url":"https://dblp.org/rec/journals/imwut/SalmanDLN22"},
+"url":"URL#1312435"
+},
+{
+"@score":"1",
+"@id":"1312436",
+"info":{"authors":{"author":[{"@pid":"165/2064","text":"Sirat Samyoun"},{"@pid":"168/9863","text":"Md Mofijul Islam"},{"@pid":"159/0463","text":"Tariq Iqbal"},{"@pid":"s/JohnAStankovic","text":"John A. Stankovic"}]},"title":"M3Sense: Affect-Agnostic Multitask Representation Learning Using Multimodal Wearable Sensors.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"73:1-73:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SamyounIIS22","doi":"10.1145/3534600","ee":"https://doi.org/10.1145/3534600","url":"https://dblp.org/rec/journals/imwut/SamyounIIS22"},
+"url":"URL#1312436"
+},
+{
+"@score":"1",
+"@id":"1312437",
+"info":{"authors":{"author":[{"@pid":"249/9540","text":"Yaman Sangar"},{"@pid":"308/2677","text":"Yoganand Biradavolu"},{"@pid":"338/7522","text":"Kai Pederson"},{"@pid":"296/1669","text":"Vaishnavi Nattar Ranganathan"},{"@pid":"137/0057","text":"Bhuvana Krishnaswamy"}]},"title":"PACT: Scalable, Long-Range Communication for Monitoring and Tracking Systems Using Battery-less Tags.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"180:1-180:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SangarBPRK22","doi":"10.1145/3569471","ee":"https://doi.org/10.1145/3569471","url":"https://dblp.org/rec/journals/imwut/SangarBPRK22"},
+"url":"URL#1312437"
+},
+{
+"@score":"1",
+"@id":"1312438",
+"info":{"authors":{"author":[{"@pid":"292/9331","text":"Anup Sathya"},{"@pid":"229/6805","text":"Jiasheng Li"},{"@pid":"18/10649","text":"Tauhidur Rahman"},{"@pid":"16/7040-1","text":"Ge Gao 0001"},{"@pid":"18/9117","text":"Huaishu Peng"}]},"title":"Calico: Relocatable On-cloth Wearables with Fast, Reliable, and Precise Locomotion.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"136:1-136:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SathyaLRGP22","doi":"10.1145/3550323","ee":"https://doi.org/10.1145/3550323","url":"https://dblp.org/rec/journals/imwut/SathyaLRGP22"},
+"url":"URL#1312438"
+},
+{
+"@score":"1",
+"@id":"1312439",
+"info":{"authors":{"author":[{"@pid":"11/7732","text":"Fei Shang"},{"@pid":"79/1482","text":"Panlong Yang"},{"@pid":"59/9033","text":"Yubo Yan"},{"@pid":"l/XiangYangLi","text":"Xiangyang Li 0001"}]},"title":"PackquID: In-packet Liquid Identification Using RF Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"181:1-181:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ShangYYL22","doi":"10.1145/3569469","ee":"https://doi.org/10.1145/3569469","url":"https://dblp.org/rec/journals/imwut/ShangYYL22"},
+"url":"URL#1312439"
+},
+{
+"@score":"1",
+"@id":"1312440",
+"info":{"authors":{"author":[{"@pid":"191/1598","text":"Harshit Sharma"},{"@pid":"61/6921-6","text":"Yi Xiao 0006"},{"@pid":"326/9029","text":"Victoria Tumanova"},{"@pid":"131/0606","text":"Asif Salekin"}]},"title":"Psychophysiological Arousal in Young Children Who Stutter: An Interpretable AI Approach.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"137:1-137:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SharmaXTS22","doi":"10.1145/3550326","ee":"https://doi.org/10.1145/3550326","url":"https://dblp.org/rec/journals/imwut/SharmaXTS22"},
+"url":"URL#1312440"
+},
+{
+"@score":"1",
+"@id":"1312441",
+"info":{"authors":{"author":[{"@pid":"15/1488","text":"Cheng Shen"},{"@pid":"51/5022","text":"Jun Huang"},{"@pid":"29/6473","text":"Guangyu Sun"},{"@pid":"54/4600","text":"Jingshu Chen"}]},"title":"Electromagnetic Fingerprinting of Memory Heartbeats: System and Applications.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"138:1-138:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ShenHSC22","doi":"10.1145/3550295","ee":"https://doi.org/10.1145/3550295","url":"https://dblp.org/rec/journals/imwut/ShenHSC22"},
+"url":"URL#1312441"
+},
+{
+"@score":"1",
+"@id":"1312442",
+"info":{"authors":{"author":[{"@pid":"328/9253","text":"Xiyuan Shen"},{"@pid":"199/3032","text":"Yukang Yan"},{"@pid":"72/6319","text":"Chun Yu"},{"@pid":"08/5313","text":"Yuanchun Shi"}]},"title":"ClenchClick: Hands-Free Target Selection Method Leveraging Teeth-Clench for Augmented Reality.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"139:1-139:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ShenYYS22","doi":"10.1145/3550327","ee":"https://doi.org/10.1145/3550327","url":"https://dblp.org/rec/journals/imwut/ShenYYS22"},
+"url":"URL#1312442"
+},
+{
+"@score":"1",
+"@id":"1312443",
+"info":{"authors":{"author":[{"@pid":"124/3091","text":"Yunpeng Song"},{"@pid":"05/7884","text":"Zhongmin Cai"}]},"title":"Integrating Handcrafted Features with Deep Representations for Smartphone Authentication.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"27:1-27:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SongC22","doi":"10.1145/3517332","ee":"https://doi.org/10.1145/3517332","url":"https://dblp.org/rec/journals/imwut/SongC22"},
+"url":"URL#1312443"
+},
+{
+"@score":"1",
+"@id":"1312444",
+"info":{"authors":{"author":[{"@pid":"274/6319","text":"Tanmay Srivastava"},{"@pid":"274/6423","text":"Prerna Khanna"},{"@pid":"98/10484","text":"Shijia Pan"},{"@pid":"99/10437-2","text":"Phuc Nguyen 0002"},{"@pid":"132/6759","text":"Shubham Jain"}]},"title":"MuteIt: Jaw Motion Based Unvoiced Command Recognition Using Earable.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"140:1-140:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SrivastavaKPNJ22","doi":"10.1145/3550281","ee":"https://doi.org/10.1145/3550281","url":"https://dblp.org/rec/journals/imwut/SrivastavaKPNJ22"},
+"url":"URL#1312444"
+},
+{
+"@score":"1",
+"@id":"1312445",
+"info":{"authors":{"author":[{"@pid":"73/4961","text":"Jie Su"},{"@pid":"142/7794","text":"Zhenyu Wen"},{"@pid":"64/4492-4","text":"Tao Lin 0004"},{"@pid":"86/6151","text":"Yu Guan"}]},"title":"Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"28:1-28:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SuWLG22","doi":"10.1145/3517252","ee":"https://doi.org/10.1145/3517252","url":"https://dblp.org/rec/journals/imwut/SuWLG22"},
+"url":"URL#1312445"
+},
+{
+"@score":"1",
+"@id":"1312446",
+"info":{"authors":{"author":[{"@pid":"09/5042","text":"Wei Sun"},{"@pid":"49/8346","text":"Yuwen Chen"},{"@pid":"28/3921","text":"Yanjun Chen"},{"@pid":"167/1261","text":"Xiaopeng Zhang"},{"@pid":"292/6293","text":"Simon Zhan"},{"@pid":"93/6323","text":"Yixin Li"},{"@pid":"242/3945","text":"Jiecheng Wu"},{"@pid":"80/10485","text":"Teng Han"},{"@pid":"89/7739","text":"Haipeng Mi"},{"@pid":"153/8510","text":"Jingxian Wang"},{"@pid":"78/3204-1","text":"Feng Tian 0001"},{"@pid":"94/3302","text":"Xing-Dong Yang"}]},"title":"MicroFluID: A Multi-Chip RFID Tag for Interaction Sensing Based on Microfluidic Switches.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"141:1-141:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SunCCZZLWHMWTY22","doi":"10.1145/3550296","ee":"https://doi.org/10.1145/3550296","url":"https://dblp.org/rec/journals/imwut/SunCCZZLWHMWTY22"},
+"url":"URL#1312446"
+},
+{
+"@score":"1",
+"@id":"1312447",
+"info":{"authors":{"author":[{"@pid":"09/5042-13","text":"Wei Sun 0013"},{"@pid":"73/1997-1","text":"Kannan Srinivasan 0001"}]},"title":"On the Feasibility of Securing Vehicle-Pavement Interaction.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"29:1-29:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SunS22","doi":"10.1145/3517230","ee":"https://doi.org/10.1145/3517230","url":"https://dblp.org/rec/journals/imwut/SunS22"},
+"url":"URL#1312447"
+},
+{
+"@score":"1",
+"@id":"1312448",
+"info":{"authors":{"author":[{"@pid":"06/8386","text":"Xue Sun"},{"@pid":"75/198-1","text":"Jie Xiong 0001"},{"@pid":"97/164","text":"Chao Feng"},{"@pid":"338/6292","text":"Wenwen Deng"},{"@pid":"260/3379","text":"Xudong Wei"},{"@pid":"80/3909","text":"Dingyi Fang"},{"@pid":"95/10521","text":"Xiaojiang Chen"}]},"title":"Earmonitor: In-ear Motion-resilient Acoustic Sensing Using Commodity Earphones.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"182:1-182:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/SunXFDWFC22","doi":"10.1145/3569472","ee":"https://doi.org/10.1145/3569472","url":"https://dblp.org/rec/journals/imwut/SunXFDWFC22"},
+"url":"URL#1312448"
+},
+{
+"@score":"1",
+"@id":"1312449",
+"info":{"authors":{"author":[{"@pid":"305/4931","text":"Mahan Tabatabaie"},{"@pid":"150/5543","text":"Suining He"}]},"title":"Naturalistic E-Scooter Maneuver Recognition with Federated Contrastive Rider Interaction Learning.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"205:1-205:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/TabatabaieH22","doi":"10.1145/3570345","ee":"https://doi.org/10.1145/3570345","url":"https://dblp.org/rec/journals/imwut/TabatabaieH22"},
+"url":"URL#1312449"
+},
+{
+"@score":"1",
+"@id":"1312450",
+"info":{"authors":{"author":[{"@pid":"305/4931","text":"Mahan Tabatabaie"},{"@pid":"150/5543","text":"Suining He"},{"@pid":"13/1520","text":"Xi Yang"}]},"title":"Driver Maneuver Identification with Multi-Representation Learning and Meta Model Update Designs.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"74:1-74:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/TabatabaieHY22","doi":"10.1145/3534603","ee":"https://doi.org/10.1145/3534603","url":"https://dblp.org/rec/journals/imwut/TabatabaieHY22"},
+"url":"URL#1312450"
+},
+{
+"@score":"1",
+"@id":"1312451",
+"info":{"authors":{"author":[{"@pid":"84/3594-5","text":"Xiao Tang 0005"},{"@pid":"204/0720","text":"Ruihui Li"},{"@pid":"38/803","text":"Chi-Wing Fu"}]},"title":"CAFI-AR: Contact-aware Freehand Interaction with AR Objects.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"183:1-183:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/TangLF22","doi":"10.1145/3569499","ee":"https://doi.org/10.1145/3569499","url":"https://dblp.org/rec/journals/imwut/TangLF22"},
+"url":"URL#1312451"
+},
+{
+"@score":"1",
+"@id":"1312452",
+"info":{"authors":{"author":[{"@pid":"328/9138","text":"Kei Tanigaki"},{"@pid":"328/9288","text":"Tze Chuin Teoh"},{"@pid":"227/5171","text":"Naoya Yoshimura"},{"@pid":"38/2264","text":"Takuya Maekawa"},{"@pid":"40/2808","text":"Takahiro Hara"}]},"title":"Predicting Performance Improvement of Human Activity Recognition Model by Additional Data Collection.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"142:1-142:33","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/TanigakiTYMH22","doi":"10.1145/3550319","ee":"https://doi.org/10.1145/3550319","url":"https://dblp.org/rec/journals/imwut/TanigakiTYMH22"},
+"url":"URL#1312452"
+},
+{
+"@score":"1",
+"@id":"1312453",
+"info":{"authors":{"author":[{"@pid":"323/7583","text":"Miguel A. Chávez Tapia"},{"@pid":"158/8192","text":"Talia Xu"},{"@pid":"324/3970","text":"Zehang Wu"},{"@pid":"324/3872","text":"Marco Zúñiga Zamalloa"}]},"title":"SunBox: Screen-to-Camera Communication with Ambient Light.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"46:1-46:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/TapiaXWZ22","doi":"10.1145/3534602","ee":"https://doi.org/10.1145/3534602","url":"https://dblp.org/rec/journals/imwut/TapiaXWZ22"},
+"url":"URL#1312453"
+},
+{
+"@score":"1",
+"@id":"1312454",
+"info":{"authors":{"author":[{"@pid":"199/6422","text":"M. L. Tlachac"},{"@pid":"04/3409","text":"Ricardo Flores"},{"@pid":"299/6309","text":"Miranda Reisch"},{"@pid":"324/3879","text":"Katie Houskeeper"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"}]},"title":"DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected during the COVID-19 Pandemic to Screen for Mental Illnesses.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"75:1-75:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/TlachacFRHR22","doi":"10.1145/3534596","ee":"https://doi.org/10.1145/3534596","url":"https://dblp.org/rec/journals/imwut/TlachacFRHR22"},
+"url":"URL#1312454"
+},
+{
+"@score":"1",
+"@id":"1312455",
+"info":{"authors":{"author":[{"@pid":"199/6422","text":"M. L. Tlachac"},{"@pid":"04/3409","text":"Ricardo Flores"},{"@pid":"299/6309","text":"Miranda Reisch"},{"@pid":"312/5268","text":"Rimsha Kayastha"},{"@pid":"312/4511","text":"Nina Taurich"},{"@pid":"299/7504","text":"Veronica Melican"},{"@pid":"324/3978","text":"Connor Bruneau"},{"@pid":"324/3891","text":"Hunter Caouette"},{"@pid":"312/4936","text":"Joshua Lovering"},{"@pid":"45/8171","text":"Ermal Toto"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"}]},"title":"StudentSADD: Rapid Mobile Depression and Suicidal Ideation Screening of College Students during the Coronavirus Pandemic.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"76:1-76:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/TlachacFRKTMBCL22","doi":"10.1145/3534604","ee":"https://doi.org/10.1145/3534604","url":"https://dblp.org/rec/journals/imwut/TlachacFRKTMBCL22"},
+"url":"URL#1312455"
+},
+{
+"@score":"1",
+"@id":"1312456",
+"info":{"authors":{"author":[{"@pid":"202/5436","text":"Md. Azim Ullah"},{"@pid":"156/5695","text":"Soujanya Chatterjee"},{"@pid":"262/6639","text":"Christopher P. Fagundes"},{"@pid":"185/3988","text":"Cho Lam"},{"@pid":"167/8303","text":"Inbal Nahum-Shani"},{"@pid":"r/JMRehg","text":"James M. Rehg"},{"@pid":"185/3936","text":"David W. Wetter"},{"@pid":"07/2616-1","text":"Santosh Kumar 0001"}]},"title":"mRisk: Continuous Risk Estimation for Smoking Lapse from Noisy Sensor Data with Incomplete and Positive-Only Labels.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"143:1-143:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/UllahCFLNRWK22","doi":"10.1145/3550308","ee":"https://doi.org/10.1145/3550308","url":"https://dblp.org/rec/journals/imwut/UllahCFLNRWK22"},
+"url":"URL#1312456"
+},
+{
+"@score":"1",
+"@id":"1312457",
+"info":{"authors":{"author":[{"@pid":"298/3763","text":"Haoran Wan"},{"@pid":"181/2817-152","text":"Lei Wang 0152"},{"@pid":"34/528","text":"Ting Zhao"},{"@pid":"69/476-12","text":"Ke Sun 0012"},{"@pid":"123/9215","text":"Shuyu Shi"},{"@pid":"124/6911","text":"Haipeng Dai 0001"},{"@pid":"51/1742","text":"Guihai Chen"},{"@pid":"185/9853","text":"Haodong Liu"},{"@pid":"w/WeiWang2","text":"Wei Wang 0002"}]},"title":"VECTOR: Velocity Based Temperature-field Monitoring with Distributed Acoustic Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"144:1-144:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WanWZSSDCLW22","doi":"10.1145/3550336","ee":"https://doi.org/10.1145/3550336","url":"https://dblp.org/rec/journals/imwut/WanWZSSDCLW22"},
+"url":"URL#1312457"
+},
+{
+"@score":"1",
+"@id":"1312458",
+"info":{"authors":{"author":[{"@pid":"95/6543","text":"Zhi Wang"},{"@pid":"75/1099","text":"Beihong Jin"},{"@pid":"312/9450","text":"Siheng Li"},{"@pid":"68/10002","text":"Fusang Zhang"},{"@pid":"31/966-6","text":"Wenbo Zhang 0006"}]},"title":"ECG-grained Cardiac Monitoring Using UWB Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"186:1-186:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangJLZZ22","doi":"10.1145/3569503","ee":"https://doi.org/10.1145/3569503","url":"https://dblp.org/rec/journals/imwut/WangJLZZ22"},
+"url":"URL#1312458"
+},
+{
+"@score":"1",
+"@id":"1312459",
+"info":{"authors":{"author":[{"@pid":"188/7759-97","text":"Chao Wang 0097"},{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"139/5759","text":"Zhongjie Ba"},{"@pid":"21/3626-10","text":"Fan Zhang 0010"},{"@pid":"11/6689","text":"Wenyao Xu"},{"@pid":"20/6179-1","text":"Kui Ren 0001"}]},"title":"Wavesdropper: Through-wall Word Detection of Human Speech via Commercial mmWave Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"77:1-77:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangLBZXR22","doi":"10.1145/3534592","ee":"https://doi.org/10.1145/3534592","url":"https://dblp.org/rec/journals/imwut/WangLBZXR22"},
+"url":"URL#1312459"
+},
+{
+"@score":"1",
+"@id":"1312460",
+"info":{"authors":{"author":[{"@pid":"43/1941","text":"Weiguo Wang"},{"@pid":"64/4903","text":"Jinming Li"},{"@pid":"11/1735-4","text":"Yuan He 0004"},{"@pid":"188/8787","text":"Xiuzhen Guo"},{"@pid":"27/2403","text":"Yunhao Liu 0001"}]},"title":"MotorBeat: Acoustic Communication for Home Appliances via Variable Pulse Width Modulation.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"31:1-31:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangLHGL22","doi":"10.1145/3517255","ee":"https://doi.org/10.1145/3517255","url":"https://dblp.org/rec/journals/imwut/WangLHGL22"},
+"url":"URL#1312460"
+},
+{
+"@score":"1",
+"@id":"1312461",
+"info":{"authors":{"author":[{"@pid":"59/2227-57","text":"Yan Wang 0057"},{"@pid":"207/5837","text":"Zhuying Li"},{"@pid":"35/7555","text":"Rohit Ashok Khot"},{"@pid":"m/FlorianMueller-1","text":"Florian &apos;Floyd&apos; Mueller"}]},"title":"Toward Understanding Playful Beverage-based Gustosonic Experiences.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"33:1-33:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangLKM22","doi":"10.1145/3517228","ee":"https://doi.org/10.1145/3517228","url":"https://dblp.org/rec/journals/imwut/WangLKM22"},
+"url":"URL#1312461"
+},
+{
+"@score":"1",
+"@id":"1312462",
+"info":{"authors":{"author":[{"@pid":"181/2817-152","text":"Lei Wang 0152"},{"@pid":"64/6025-59","text":"Wei Li 0059"},{"@pid":"69/476-12","text":"Ke Sun 0012"},{"@pid":"68/10002","text":"Fusang Zhang"},{"@pid":"65/4916","text":"Tao Gu 0001"},{"@pid":"94/8865","text":"Chenren Xu"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"145:1-145:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangLSZGXZ22","doi":"10.1145/3550293","ee":"https://doi.org/10.1145/3550293","url":"https://dblp.org/rec/journals/imwut/WangLSZGXZ22"},
+"url":"URL#1312462"
+},
+{
+"@score":"1",
+"@id":"1312463",
+"info":{"authors":{"author":[{"@pid":"334/0477","text":"Hanchen David Wang"},{"@pid":"46/11008","text":"Meiyi Ma"}]},"title":"PhysiQ: Off-site Quality Assessment of Exercise in Physical Therapy.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"208:1-208:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangM22","doi":"10.1145/3570349","ee":"https://doi.org/10.1145/3570349","url":"https://dblp.org/rec/journals/imwut/WangM22"},
+"url":"URL#1312463"
+},
+{
+"@score":"1",
+"@id":"1312464",
+"info":{"authors":{"author":[{"@pid":"357/8025","text":"Weichen Wang 0001"},{"@pid":"243/6457","text":"Subigya Nepal"},{"@pid":"217/5362","text":"Jeremy F. Huckins"},{"@pid":"324/3960","text":"Lessley Hernandez"},{"@pid":"319/3814","text":"Vlado Vojdanovski"},{"@pid":"324/3868","text":"Dante Mack"},{"@pid":"324/3973","text":"Jane Plomp"},{"@pid":"213/2651","text":"Arvind Pillai"},{"@pid":"185/5096","text":"Mikio Obuchi"},{"@pid":"217/5321","text":"Alex daSilva"},{"@pid":"262/6856","text":"Eilis Murphy"},{"@pid":"262/6711","text":"Elin Hedlund"},{"@pid":"262/6840","text":"Courtney Rogers"},{"@pid":"319/3509","text":"Meghan Meyer"},{"@pid":"c/AndrewTCampbell","text":"Andrew Campbell 0001"}]},"title":"First-Gen Lens: Assessing Mental Health of First-Generation Students across Their First Year at College Using Mobile Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"95:1-95:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangNHHVMPPOdMH22","doi":"10.1145/3543194","ee":"https://doi.org/10.1145/3543194","url":"https://dblp.org/rec/journals/imwut/WangNHHVMPPOdMH22"},
+"url":"URL#1312464"
+},
+{
+"@score":"1",
+"@id":"1312465",
+"info":{"authors":{"author":[{"@pid":"43/2614","text":"Xuanzhi Wang"},{"@pid":"67/229-3","text":"Kai Niu 0003"},{"@pid":"75/198-1","text":"Jie Xiong 0001"},{"@pid":"320/0062","text":"Bochong Qian"},{"@pid":"319/9679","text":"Zhiyun Yao"},{"@pid":"320/0359","text":"Tairong Lou"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"Placement Matters: Understanding the Effects of Device Placement for WiFi Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"32:1-32:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangNXQYLZ22","doi":"10.1145/3517237","ee":"https://doi.org/10.1145/3517237","url":"https://dblp.org/rec/journals/imwut/WangNXQYLZ22"},
+"url":"URL#1312465"
+},
+{
+"@score":"1",
+"@id":"1312466",
+"info":{"authors":{"author":[{"@pid":"78/8711-3","text":"Zi Wang 0003"},{"@pid":"28/9860","text":"Yili Ren"},{"@pid":"18/2343-1","text":"Yingying Chen 0001"},{"@pid":"12/1198-3","text":"Jie Yang 0003"}]},"title":"ToothSonic: Earable Authentication via Acoustic Toothprint.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"78:1-78:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangRCY22","doi":"10.1145/3534606","ee":"https://doi.org/10.1145/3534606","url":"https://dblp.org/rec/journals/imwut/WangRCY22"},
+"url":"URL#1312466"
+},
+{
+"@score":"1",
+"@id":"1312467",
+"info":{"authors":{"author":[{"@pid":"153/8510","text":"Jingxian Wang"},{"@pid":"296/1669","text":"Vaishnavi Nattar Ranganathan"},{"@pid":"98/2892","text":"Jonathan Lester"},{"@pid":"44/8737","text":"Swarun Kumar"}]},"title":"Ultra Low-Latency Backscatter for Fast-Moving Location Tracking.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"30:1-30:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangRLK22","doi":"10.1145/3517242","ee":"https://doi.org/10.1145/3517242","url":"https://dblp.org/rec/journals/imwut/WangRLK22"},
+"url":"URL#1312467"
+},
+{
+"@score":"1",
+"@id":"1312468",
+"info":{"authors":{"author":[{"@pid":"34/5591-3","text":"Ge Wang 0003"},{"@pid":"237/7597","text":"Shouqian Shi"},{"@pid":"186/6880","text":"Minmei Wang"},{"@pid":"70/3604-1","text":"Chen Qian 0001"},{"@pid":"25/5509-6","text":"Cong Zhao 0006"},{"@pid":"88/886-2","text":"Han Ding 0002"},{"@pid":"10/264","text":"Wei Xi"},{"@pid":"59/4694","text":"Jizhong Zhao"}]},"title":"RF-Chain: Decentralized, Credible, and Counterfeit-proof Supply Chain Management with Commodity RFIDs.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"184:1-184:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangSWQZDXZ22","doi":"10.1145/3569493","ee":"https://doi.org/10.1145/3569493","url":"https://dblp.org/rec/journals/imwut/WangSWQZDXZ22"},
+"url":"URL#1312468"
+},
+{
+"@score":"1",
+"@id":"1312469",
+"info":{"authors":{"author":[{"@pid":"181/2834-54","text":"Zheng Wang 0054"},{"@pid":"08/7722-1","text":"Yanwen Wang 0001"},{"@pid":"148/9699-5","text":"Mi Tian 0005"},{"@pid":"193/6060","text":"Jiaxing Shen"}]},"title":"HearFire: Indoor Fire Detection via Inaudible Acoustic Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"185:1-185:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WangWTS22","doi":"10.1145/3569500","ee":"https://doi.org/10.1145/3569500","url":"https://dblp.org/rec/journals/imwut/WangWTS22"},
+"url":"URL#1312469"
+},
+{
+"@score":"1",
+"@id":"1312470",
+"info":{"authors":{"author":[{"@pid":"217/9625","text":"Amanda Watson"},{"@pid":"336/7183","text":"Claire Kendell"},{"@pid":"336/7576","text":"Anush Niranjan Lingamoorthy"},{"@pid":"l/InsupLee","text":"Insup Lee 0001"},{"@pid":"79/11048","text":"James Weimer"}]},"title":"Lumos: An Open-Source Device for Wearable Spectroscopy Research.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"187:1-187:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WatsonKLLW22","doi":"10.1145/3569502","ee":"https://doi.org/10.1145/3569502","url":"https://dblp.org/rec/journals/imwut/WatsonKLLW22"},
+"url":"URL#1312470"
+},
+{
+"@score":"1",
+"@id":"1312471",
+"info":{"authors":{"author":[{"@pid":"324/3984","text":"Haowen Wei"},{"@pid":"166/5895","text":"Ziheng Li"},{"@pid":"324/3883","text":"Alexander D. Galvan"},{"@pid":"261/5730","text":"Zhuoran Su"},{"@pid":"49/4478","text":"Xiao Zhang"},{"@pid":"04/83","text":"Kaveh Pahlavan"},{"@pid":"44/6474","text":"Erin Treacy Solovey"}]},"title":"IndexPen: Two-Finger Text Input with Millimeter-Wave Radar.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"79:1-79:39","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WeiLGSZPS22","doi":"10.1145/3534601","ee":"https://doi.org/10.1145/3534601","url":"https://dblp.org/rec/journals/imwut/WeiLGSZPS22"},
+"url":"URL#1312471"
+},
+{
+"@score":"1",
+"@id":"1312472",
+"info":{"authors":{"author":[{"@pid":"168/0791","text":"Yuezhong Wu"},{"@pid":"10/2899","text":"Mahbub Hassan"},{"@pid":"01/6410-1","text":"Wen Hu 0001"}]},"title":"SafeGait: Safeguarding Gait-based Key Generation against Vision-based Side Channel Attack Using Generative Adversarial Network.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"80:1-80:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WuHH22","doi":"10.1145/3534607","ee":"https://doi.org/10.1145/3534607","url":"https://dblp.org/rec/journals/imwut/WuHH22"},
+"url":"URL#1312472"
+},
+{
+"@score":"1",
+"@id":"1312473",
+"info":{"authors":{"author":[{"@pid":"322/6647","text":"Chuxiong Wu"},{"@pid":"45/1827-1","text":"Xiaopeng Li 0001"},{"@pid":"08/2047","text":"Fei Zuo"},{"@pid":"153/5297","text":"Lannan Luo"},{"@pid":"22/5535","text":"Xiaojiang Du"},{"@pid":"69/1260","text":"Jia Di"},{"@pid":"81/583-1","text":"Qiang Zeng 0001"}]},"title":"Use It-No Need to Shake It!: Accurate Implicit Authentication for Everyday Objects with Smart Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"146:1-146:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WuLZLDDZ22","doi":"10.1145/3550322","ee":"https://doi.org/10.1145/3550322","url":"https://dblp.org/rec/journals/imwut/WuLZLDDZ22"},
+"url":"URL#1312473"
+},
+{
+"@score":"1",
+"@id":"1312474",
+"info":{"authors":{"author":[{"@pid":"52/328-2","text":"Di Wu 0002"},{"@pid":"328/9103","text":"Jinhui Ouyang"},{"@pid":"156/9169","text":"Ningyi Dai"},{"@pid":"29/2840","text":"Mingzhu Wu"},{"@pid":"180/7920","text":"Haodan Tan"},{"@pid":"289/7107","text":"Hanhui Deng"},{"@pid":"328/8907","text":"Yongmei Fan"},{"@pid":"161/3389","text":"Dakuo Wang"},{"@pid":"93/5912","text":"Zhanpeng Jin"}]},"title":"DeepBrain: Enabling Fine-Grained Brain-Robot Interaction through Human-Centered Learning of Coarse EEG Signals from Low-Cost Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"147:1-147:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/WuODWTDFWJ22","doi":"10.1145/3550334","ee":"https://doi.org/10.1145/3550334","url":"https://dblp.org/rec/journals/imwut/WuODWTDFWJ22"},
+"url":"URL#1312474"
+},
+{
+"@score":"1",
+"@id":"1312475",
+"info":{"authors":{"author":[{"@pid":"264/6119","text":"Chengshuo Xia"},{"@pid":"151/8990","text":"Xinrui Fang"},{"@pid":"228/8306","text":"Riku Arakawa"},{"@pid":"83/7556","text":"Yuta Sugiura"}]},"title":"VoLearn: A Cross-Modal Operable Motion-Learning System Combined with Virtual Avatar and Auditory Feedback.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"81:1-81:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/XiaFAS22","doi":"10.1145/3534576","ee":"https://doi.org/10.1145/3534576","url":"https://dblp.org/rec/journals/imwut/XiaFAS22"},
+"url":"URL#1312475"
+},
+{
+"@score":"1",
+"@id":"1312476",
+"info":{"authors":{"author":[{"@pid":"217/5708","text":"Xiaoyang Xie"},{"@pid":"248/4120","text":"Zhiqing Hong"},{"@pid":"122/2668-1","text":"Zhou Qin 0001"},{"@pid":"162/3674","text":"Zhihan Fang"},{"@pid":"39/5423-1","text":"Yuan Tian 0001"},{"@pid":"15/8612","text":"Desheng Zhang"}]},"title":"TransRisk: Mobility Privacy Risk Prediction based on Transferred Knowledge.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"82:1-82:19","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/XieHQFTZ22","doi":"10.1145/3534581","ee":"https://doi.org/10.1145/3534581","url":"https://dblp.org/rec/journals/imwut/XieHQFTZ22"},
+"url":"URL#1312476"
+},
+{
+"@score":"1",
+"@id":"1312477",
+"info":{"authors":{"author":[{"@pid":"182/4001","text":"Wentao Xie"},{"@pid":"192/3850","text":"Qingyong Hu"},{"@pid":"43/6657-1","text":"Jin Zhang 0001"},{"@pid":"04/2024-1","text":"Qian Zhang 0001"}]},"title":"EarSpiro: Earphone-based Spirometry for Lung Function Assessment.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"188:1-188:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/XieHZZ22","doi":"10.1145/3569480","ee":"https://doi.org/10.1145/3569480","url":"https://dblp.org/rec/journals/imwut/XieHZZ22"},
+"url":"URL#1312477"
+},
+{
+"@score":"1",
+"@id":"1312478",
+"info":{"authors":{"author":[{"@pid":"297/4384","text":"Zhiqing Xie"},{"@pid":"00/1531","text":"Haiyong Luo"},{"@pid":"125/2864","text":"Xiaotian Zhang"},{"@pid":"46/5036","text":"Hao Xiong"},{"@pid":"72/4898-3","text":"Fang Zhao 0003"},{"@pid":"46/4444","text":"Zhaohui Li"},{"@pid":"19/6124","text":"Qi Ye"},{"@pid":"262/2957","text":"Bojie Rong"},{"@pid":"321/6832","text":"Jiuchong Gao"}]},"title":"TransFloor: Transparent Floor Localization for Crowdsourcing Instant Delivery.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"189:1-189:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/XieLZXZLYRG22","doi":"10.1145/3569470","ee":"https://doi.org/10.1145/3569470","url":"https://dblp.org/rec/journals/imwut/XieLZXZLYRG22"},
+"url":"URL#1312478"
+},
+{
+"@score":"1",
+"@id":"1312479",
+"info":{"authors":{"author":[{"@pid":"217/9515","text":"Jingyu Xin"},{"@pid":"18/5695","text":"Vir V. Phoha"},{"@pid":"131/0606","text":"Asif Salekin"}]},"title":"Combating False Data Injection Attacks on Human-Centric Sensing Applications.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"83:1-83:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/XinPS22","doi":"10.1145/3534577","ee":"https://doi.org/10.1145/3534577","url":"https://dblp.org/rec/journals/imwut/XinPS22"},
+"url":"URL#1312479"
+},
+{
+"@score":"1",
+"@id":"1312480",
+"info":{"authors":{"author":[{"@pid":"198/0980","text":"Xuhai Xu"},{"@pid":"76/1820-34","text":"Xin Liu 0034"},{"@pid":"26/4189-4","text":"Han Zhang 0004"},{"@pid":"357/8025","text":"Weichen Wang 0001"},{"@pid":"243/6457","text":"Subigya Nepal"},{"@pid":"161/7770","text":"Yasaman S. Sefidgar"},{"@pid":"195/3840","text":"Woosuk Seo"},{"@pid":"252/5977","text":"Kevin S. Kuehn"},{"@pid":"217/5362","text":"Jeremy F. Huckins"},{"@pid":"48/2283","text":"Margaret E. Morris"},{"@pid":"252/6197","text":"Paula S. Nurius"},{"@pid":"61/6980","text":"Eve A. Riskin"},{"@pid":"p/ShwetakNPatel","text":"Shwetak N. Patel"},{"@pid":"119/1352","text":"Tim Althoff"},{"@pid":"c/AndrewTCampbell","text":"Andrew Campbell 0001"},{"@pid":"04/4652","text":"Anind K. Dey"},{"@pid":"84/6721","text":"Jennifer Mankoff"}]},"title":"GLOBEM: Cross-Dataset Generalization of Longitudinal Human Behavior Modeling.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"190:1-190:34","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/XuLZWNSSKHMNRPA22","doi":"10.1145/3569485","ee":"https://doi.org/10.1145/3569485","url":"https://dblp.org/rec/journals/imwut/XuLZWNSSKHMNRPA22"},
+"url":"URL#1312480"
+},
+{
+"@score":"1",
+"@id":"1312481",
+"info":{"authors":{"author":[{"@pid":"34/6611","text":"Meng Xue"},{"@pid":"50/10586","text":"Yanjiao Chen"},{"@pid":"268/5832","text":"Xueluan Gong"},{"@pid":"07/314-10","text":"Jian Zhang 0010"},{"@pid":"324/3890","text":"Chunkai Fan"}]},"title":"Wet-Ra: Monitoring Diapers Wetness with Wireless Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"84:1-84:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/XueCGZF22","doi":"10.1145/3534599","ee":"https://doi.org/10.1145/3534599","url":"https://dblp.org/rec/journals/imwut/XueCGZF22"},
+"url":"URL#1312481"
+},
+{
+"@score":"1",
+"@id":"1312482",
+"info":{"authors":{"author":[{"@pid":"225/9896","text":"Zihan Yan"},{"@pid":"40/263","text":"Jiayi Zhou"},{"@pid":"319/3563","text":"Yufei Wu 0014"},{"@pid":"239/7683","text":"Guanhong Liu"},{"@pid":"248/7565","text":"Danli Luo"},{"@pid":"306/2943","text":"Zihong Zhou"},{"@pid":"89/7739","text":"Haipeng Mi"},{"@pid":"55/4732","text":"Lingyun Sun"},{"@pid":"72/10926","text":"Xiang &apos;Anthony&apos; Chen"},{"@pid":"84/4248-1","text":"Ye Tao 0001"},{"@pid":"06/6785-41","text":"Yang Zhang 0041"},{"@pid":"141/4090","text":"Guanyun Wang"}]},"title":"Shoes++: A Smart Detachable Sole for Social Foot-to-foot Interaction.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"85:1-85:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YanZWLLZMSCTZW22","doi":"10.1145/3534620","ee":"https://doi.org/10.1145/3534620","url":"https://dblp.org/rec/journals/imwut/YanZWLLZMSCTZW22"},
+"url":"URL#1312482"
+},
+{
+"@score":"1",
+"@id":"1312483",
+"info":{"authors":{"author":[{"@pid":"62/5839","text":"Jing Yang"},{"@pid":"264/1931","text":"Baishun Dong"},{"@pid":"75/3699","text":"Jiliang Wang"}]},"title":"VULoc: Accurate UWB Localization for Countless Targets without Synchronization.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"148:1-148:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YangDW22","doi":"10.1145/3550286","ee":"https://doi.org/10.1145/3550286","url":"https://dblp.org/rec/journals/imwut/YangDW22"},
+"url":"URL#1312483"
+},
+{
+"@score":"1",
+"@id":"1312484",
+"info":{"authors":{"author":[{"@pid":"00/6508","text":"Xiaoying Yang"},{"@pid":"328/9141","text":"Jacob Sayono"},{"@pid":"328/9346","text":"Jess Xu"},{"@pid":"328/9044","text":"Jiahao Nick Li"},{"@pid":"143/9139","text":"Josiah D. Hester"},{"@pid":"06/6785-41","text":"Yang Zhang 0041"}]},"title":"MiniKers: Interaction-Powered Smart Environment Automation.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"149:1-149:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YangSXLHZ22","doi":"10.1145/3550287","ee":"https://doi.org/10.1145/3550287","url":"https://dblp.org/rec/journals/imwut/YangSXLHZ22"},
+"url":"URL#1312484"
+},
+{
+"@score":"1",
+"@id":"1312485",
+"info":{"authors":{"author":[{"@pid":"15/3199","text":"Qian Yang"},{"@pid":"240/1568","text":"Hengxin Wu"},{"@pid":"133/3873","text":"Qianyi Huang"},{"@pid":"43/6657-1","text":"Jin Zhang 0001"},{"@pid":"175/3324","text":"Hao Chen"},{"@pid":"94/1464-1","text":"Weichao Li 0001"},{"@pid":"96/6496","text":"Xiaofeng Tao"},{"@pid":"04/2024-1","text":"Qian Zhang 0001"}]},"title":"Side-lobe Can Know More: Towards Simultaneous Communication and Sensing for mmWave.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"191:1-191:34","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YangWHZCLTZ22","doi":"10.1145/3569498","ee":"https://doi.org/10.1145/3569498","url":"https://dblp.org/rec/journals/imwut/YangWHZCLTZ22"},
+"url":"URL#1312485"
+},
+{
+"@score":"1",
+"@id":"1312486",
+"info":{"authors":{"author":[{"@pid":"187/1683","text":"Yanni Yang"},{"@pid":"34/6318","text":"Huafeng Xu"},{"@pid":"23/9743","text":"Qianyi Chen"},{"@pid":"c/JiannongCao","text":"Jiannong Cao 0001"},{"@pid":"08/7722-1","text":"Yanwen Wang 0001"}]},"title":"Multi-Vib: Precise Multi-point Vibration Monitoring Using mmWave Radar.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"192:1-192:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YangXCCW22","doi":"10.1145/3569496","ee":"https://doi.org/10.1145/3569496","url":"https://dblp.org/rec/journals/imwut/YangXCCW22"},
+"url":"URL#1312486"
+},
+{
+"@score":"1",
+"@id":"1312487",
+"info":{"authors":{"author":[{"@pid":"215/1872","text":"Fan Yi"},{"@pid":"167/5888","text":"Yaxiong Xie"},{"@pid":"j/KyleJamieson","text":"Kyle Jamieson"}]},"title":"Cellular-Assisted, Deep Learning Based COVID-19 Contact Tracing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"150:1-150:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YiXJ22","doi":"10.1145/3550332","ee":"https://doi.org/10.1145/3550332","url":"https://dblp.org/rec/journals/imwut/YiXJ22"},
+"url":"URL#1312487"
+},
+{
+"@score":"1",
+"@id":"1312488",
+"info":{"authors":{"author":[{"@pid":"96/1542","text":"Zhigang Yin"},{"@pid":"156/2468","text":"Mohan Liyanage"},{"@pid":"338/7433","text":"Abdul-Rasheed Ottun"},{"@pid":"232/7683","text":"Souvik Paul"},{"@pid":"236/3860","text":"Agustin Zuniga"},{"@pid":"83/3006","text":"Petteri Nurmi"},{"@pid":"70/10096","text":"Huber Flores"}]},"title":"HIPPO: Pervasive Hand-Grip Estimation from Everyday Interactions.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"209:1-209:30","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YinLOPZNF22","doi":"10.1145/3570344","ee":"https://doi.org/10.1145/3570344","url":"https://dblp.org/rec/journals/imwut/YinLOPZNF22"},
+"url":"URL#1312488"
+},
+{
+"@score":"1",
+"@id":"1312489",
+"info":{"authors":{"author":[{"@pid":"227/5171","text":"Naoya Yoshimura"},{"@pid":"38/2264","text":"Takuya Maekawa"},{"@pid":"40/2808","text":"Takahiro Hara"},{"@pid":"51/273","text":"Atsushi Wada"}]},"title":"Acceleration-based Activity Recognition of Repetitive Works with Lightweight Ordered-work Segmentation Network.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"86:1-86:39","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YoshimuraMHW22","doi":"10.1145/3534572","ee":"https://doi.org/10.1145/3534572","url":"https://dblp.org/rec/journals/imwut/YoshimuraMHW22"},
+"url":"URL#1312489"
+},
+{
+"@score":"1",
+"@id":"1312490",
+"info":{"authors":{"author":[{"@pid":"194/9646","text":"Shichao Yue"},{"@pid":"18/813-11","text":"Hao He 0011"},{"@pid":"06/5143","text":"Peng Cao"},{"@pid":"213/6159","text":"Kaiwen Zha"},{"@pid":"49/964","text":"Masayuki Koizumi"},{"@pid":"k/DinaKatabi","text":"Dina Katabi"}]},"title":"CornerRadar: RF-Based Indoor Localization Around Corners.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"34:1-34:24","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/YueHCZKK22","doi":"10.1145/3517226","ee":"https://doi.org/10.1145/3517226","url":"https://dblp.org/rec/journals/imwut/YueHCZKK22"},
+"url":"URL#1312490"
+},
+{
+"@score":"1",
+"@id":"1312491",
+"info":{"authors":{"author":[{"@pid":"151/3796","text":"Camellia Zakaria"},{"@pid":"323/4629","text":"Gizem Yilmaz"},{"@pid":"217/6913","text":"Priyanka Mary Mammen"},{"@pid":"00/8266","text":"Michael Chee 0001"},{"@pid":"s/PrashantJShenoy","text":"Prashant J. Shenoy"},{"@pid":"51/6146","text":"Rajesh Balan"}]},"title":"SleepMore: Inferring Sleep Duration at Scale via Multi-Device WiFi Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"193:1-193:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZakariaYMCSB22","doi":"10.1145/3569489","ee":"https://doi.org/10.1145/3569489","url":"https://dblp.org/rec/journals/imwut/ZakariaYMCSB22"},
+"url":"URL#1312491"
+},
+{
+"@score":"1",
+"@id":"1312492",
+"info":{"authors":{"author":[{"@pid":"97/2067","text":"Xianan Zhang"},{"@pid":"320/0175","text":"Lieke Chen"},{"@pid":"132/7808","text":"Mingjie Feng"},{"@pid":"j/TaoJiang-2","text":"Tao Jiang 0002"}]},"title":"Toward Reliable Non-Line-of-Sight Localization Using Multipath Reflections.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"36:1-36:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangCFJ22","doi":"10.1145/3517244","ee":"https://doi.org/10.1145/3517244","url":"https://dblp.org/rec/journals/imwut/ZhangCFJ22"},
+"url":"URL#1312492"
+},
+{
+"@score":"1",
+"@id":"1312493",
+"info":{"authors":{"author":[{"@pid":"43/6657-13","text":"Jin Zhang 0013"},{"@pid":"224/1766","text":"Zhuangzhuang Chen"},{"@pid":"136/1154-1","text":"Chengwen Luo 0001"},{"@pid":"15/3756-3","text":"Bo Wei 0003"},{"@pid":"42/840","text":"Salil S. Kanhere"},{"@pid":"08/2185-1","text":"Jianqiang Li 0001"}]},"title":"MetaGanFi: Cross-Domain Unseen Individual Identification Using WiFi Signals.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"152:1-152:21","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangCLWKL22","doi":"10.1145/3550306","ee":"https://doi.org/10.1145/3550306","url":"https://dblp.org/rec/journals/imwut/ZhangCLWKL22"},
+"url":"URL#1312493"
+},
+{
+"@score":"1",
+"@id":"1312494",
+"info":{"authors":{"author":[{"@pid":"68/10002","text":"Fusang Zhang"},{"@pid":"169/5440","text":"Zhaoxin Chang 0001"},{"@pid":"75/198-1","text":"Jie Xiong 0001"},{"@pid":"151/6862-2","text":"Junqi Ma 0002"},{"@pid":"208/0028","text":"Jiazhi Ni"},{"@pid":"31/966-6","text":"Wenbo Zhang 0006"},{"@pid":"75/1099","text":"Beihong Jin"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"Embracing Consumer-level UWB-equipped Devices for Fine-grained Wireless Sensing.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"194:1-194:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangCXMNZJZ22","doi":"10.1145/3569487","ee":"https://doi.org/10.1145/3569487","url":"https://dblp.org/rec/journals/imwut/ZhangCXMNZJZ22"},
+"url":"URL#1312494"
+},
+{
+"@score":"1",
+"@id":"1312495",
+"info":{"authors":{"author":[{"@pid":"04/2024-12","text":"Qian Zhang 0012"},{"@pid":"302/8768","text":"JiaZhen Jing"},{"@pid":"40/3934-24","text":"Dong Wang 0024"},{"@pid":"124/6274","text":"Run Zhao"}]},"title":"WearSign: Pushing the Limit of Sign Language Translation Using Inertial and EMG Wearables.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"35:1-35:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangJWZ22","doi":"10.1145/3517257","ee":"https://doi.org/10.1145/3517257","url":"https://dblp.org/rec/journals/imwut/ZhangJWZ22"},
+"url":"URL#1312495"
+},
+{
+"@score":"1",
+"@id":"1312496",
+"info":{"authors":{"author":[{"@pid":"11/2983","text":"Jingwen Zhang"},{"@pid":"217/1512","text":"Dingwen Li"},{"@pid":"256/6547","text":"Ruixuan Dai"},{"@pid":"324/3937","text":"Heidy Cos"},{"@pid":"324/3956","text":"Gregory A. Williams"},{"@pid":"324/3944","text":"Lacey Raper"},{"@pid":"324/3965","text":"Chet W. Hammill"},{"@pid":"88/683","text":"Chenyang Lu 0001"}]},"title":"Predicting Post-Operative Complications with Wearables: A Case Study with Patients Undergoing Pancreatic Surgery.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"87:1-87:27","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangLDCWRHL22","doi":"10.1145/3534578","ee":"https://doi.org/10.1145/3534578","url":"https://dblp.org/rec/journals/imwut/ZhangLDCWRHL22"},
+"url":"URL#1312496"
+},
+{
+"@score":"1",
+"@id":"1312497",
+"info":{"authors":{"author":[{"@pid":"07/2889","text":"Shijia Zhang"},{"@pid":"08/275","text":"Yilin Liu"},{"@pid":"116/0691","text":"Mahanth Gowda"}]},"title":"I Spy You: Eavesdropping Continuous Speech on Smartphones via Motion Sensors.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"197:1-197:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangLG22","doi":"10.1145/3569486","ee":"https://doi.org/10.1145/3569486","url":"https://dblp.org/rec/journals/imwut/ZhangLG22"},
+"url":"URL#1312497"
+},
+{
+"@score":"1",
+"@id":"1312498",
+"info":{"authors":{"author":[{"@pid":"201/8078","text":"Tengxiang Zhang"},{"@pid":"338/6230","text":"Zitong Lan"},{"@pid":"94/8865","text":"Chenren Xu"},{"@pid":"23/5593","text":"Yanrong Li"},{"@pid":"48/1091-1","text":"Yiqiang Chen 0001"}]},"title":"BLEselect: Gestural IoT Device Selection via Bluetooth Angle of Arrival Estimation from Smart Glasses.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"198:1-198:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangLXLC22","doi":"10.1145/3569482","ee":"https://doi.org/10.1145/3569482","url":"https://dblp.org/rec/journals/imwut/ZhangLXLC22"},
+"url":"URL#1312498"
+},
+{
+"@score":"1",
+"@id":"1312499",
+"info":{"authors":{"author":[{"@pid":"141/9087","text":"Yunfan Zhang"},{"@pid":"272/1986","text":"Tim Scargill"},{"@pid":"319/9373","text":"Ashutosh Vaishnav"},{"@pid":"166/9448","text":"Gopika Premsankar"},{"@pid":"48/1923","text":"Mario Di Francesco"},{"@pid":"58/7552","text":"Maria Gorlatova"}]},"title":"InDepth: Real-time Depth Inpainting for Mobile Augmented Reality.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"37:1-37:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangSVPFG22","doi":"10.1145/3517260","ee":"https://doi.org/10.1145/3517260","url":"https://dblp.org/rec/journals/imwut/ZhangSVPFG22"},
+"url":"URL#1312499"
+},
+{
+"@score":"1",
+"@id":"1312500",
+"info":{"authors":{"author":[{"@pid":"147/0497","text":"Ye Zhang"},{"@pid":"202/1700","text":"Longguang Wang"},{"@pid":"309/0955","text":"Huiling Chen"},{"@pid":"302/3512","text":"Aosheng Tian"},{"@pid":"50/10340","text":"Shilin Zhou"},{"@pid":"127/0477","text":"Yulan Guo"}]},"title":"IF-ConvTransformer: A Framework for Human Activity Recognition Using IMU Fusion and ConvTransformer.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"88:1-88:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangWCTZG22","doi":"10.1145/3534584","ee":"https://doi.org/10.1145/3534584","url":"https://dblp.org/rec/journals/imwut/ZhangWCTZG22"},
+"url":"URL#1312500"
+},
+{
+"@score":"1",
+"@id":"1312501",
+"info":{"authors":{"author":[{"@pid":"162/8546","text":"Hualei Zhang"},{"@pid":"03/6588-1","text":"Zhu Wang 0001"},{"@pid":"20/7354-2","text":"Zhuo Sun 0002"},{"@pid":"87/3353","text":"Wenchao Song"},{"@pid":"338/5468","text":"Zhihui Ren"},{"@pid":"z/YuZhiwen","text":"Zhiwen Yu 0001"},{"@pid":"86/2663-1","text":"Bin Guo 0001"}]},"title":"Understanding the Mechanism of Through-Wall Wireless Sensing: A Model-based Perspective.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"195:1-195:28","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangWSSRYG22","doi":"10.1145/3569494","ee":"https://doi.org/10.1145/3569494","url":"https://dblp.org/rec/journals/imwut/ZhangWSSRYG22"},
+"url":"URL#1312501"
+},
+{
+"@score":"1",
+"@id":"1312502",
+"info":{"authors":{"author":[{"@pid":"229/4234","text":"Lefan Zhang"},{"@pid":"338/6410","text":"Cyrus Zhou"},{"@pid":"l/MLLittman","text":"Michael L. Littman"},{"@pid":"66/9786","text":"Blase Ur"},{"@pid":"31/5916-1","text":"Shan Lu 0001"}]},"title":"Helping Users Debug Trigger-Action Programs.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"196:1-196:32","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangZLUL22","doi":"10.1145/3569506","ee":"https://doi.org/10.1145/3569506","url":"https://dblp.org/rec/journals/imwut/ZhangZLUL22"},
+"url":"URL#1312502"
+},
+{
+"@score":"1",
+"@id":"1312503",
+"info":{"authors":{"author":[{"@pid":"80/2266","text":"Jia Zhang"},{"@pid":"273/5178","text":"Yinian Zhou"},{"@pid":"122/9104","text":"Rui Xi"},{"@pid":"57/2281","text":"Shuai Li"},{"@pid":"220/7067","text":"Junchen Guo"},{"@pid":"11/1735-4","text":"Yuan He 0004"}]},"title":"AmbiEar: mmWave Based Voice Recognition in NLoS Scenarios.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"151:1-151:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhangZXLGH22","doi":"10.1145/3550320","ee":"https://doi.org/10.1145/3550320","url":"https://dblp.org/rec/journals/imwut/ZhangZXLGH22"},
+"url":"URL#1312503"
+},
+{
+"@score":"1",
+"@id":"1312504",
+"info":{"authors":{"author":[{"@pid":"166/3018","text":"Yingying Zhao"},{"@pid":"292/3508","text":"Yuhu Chang"},{"@pid":"227/7770","text":"Yutian Lu"},{"@pid":"125/0429-1","text":"Yujiang Wang 0001"},{"@pid":"118/4806","text":"Mingzhi Dong"},{"@pid":"11/808","text":"Qin Lv"},{"@pid":"84/523","text":"Robert P. Dick"},{"@pid":"29/3081-1","text":"Fan Yang 0001"},{"@pid":"41/2472","text":"Tun Lu"},{"@pid":"68/3554","text":"Ning Gu"},{"@pid":"32/4492","text":"Li Shang"}]},"title":"Do Smart Glasses Dream of Sentimental Visions?: Deep Emotionship Analysis for Eyewear Devices.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"38:1-38:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhaoCLWDLDYLGS22","doi":"10.1145/3517250","ee":"https://doi.org/10.1145/3517250","url":"https://dblp.org/rec/journals/imwut/ZhaoCLWDLDYLGS22"},
+"url":"URL#1312504"
+},
+{
+"@score":"1",
+"@id":"1312505",
+"info":{"authors":{"author":[{"@pid":"166/3018","text":"Yingying Zhao"},{"@pid":"14/5410","text":"Ning Li"},{"@pid":"145/4297","text":"Wentao Pan"},{"@pid":"125/0429-1","text":"Yujiang Wang 0001"},{"@pid":"118/4806","text":"Mingzhi Dong"},{"@pid":"39/805","text":"Sharon Xianghua Ding"},{"@pid":"11/808","text":"Qin Lv"},{"@pid":"84/523","text":"Robert P. Dick"},{"@pid":"254/0830-2","text":"Dongsheng Li 0002"},{"@pid":"29/3081-1","text":"Fan Yang 0001"},{"@pid":"41/2472","text":"Tun Lu"},{"@pid":"68/3554","text":"Ning Gu"},{"@pid":"32/4492","text":"Li Shang"}]},"title":"Unveiling Causal Attention in Dogs&apos; Eyes with Smart Eyewear.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"199:1-199:33","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhaoLPWDDLDLYLG22","doi":"10.1145/3569490","ee":"https://doi.org/10.1145/3569490","url":"https://dblp.org/rec/journals/imwut/ZhaoLPWDDLDLYLG22"},
+"url":"URL#1312505"
+},
+{
+"@score":"1",
+"@id":"1312506",
+"info":{"authors":{"author":[{"@pid":"226/1863","text":"Yiqin Zhao"},{"@pid":"97/7593","text":"Chongyang Ma"},{"@pid":"82/1981","text":"Haibin Huang"},{"@pid":"55/3523-1","text":"Tian Guo 0001"}]},"title":"LITAR: Visually Coherent Lighting for Mobile Augmented Reality.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"3","pages":"153:1-153:29","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhaoMHG22","doi":"10.1145/3550291","ee":"https://doi.org/10.1145/3550291","url":"https://dblp.org/rec/journals/imwut/ZhaoMHG22"},
+"url":"URL#1312506"
+},
+{
+"@score":"1",
+"@id":"1312507",
+"info":{"authors":{"author":[{"@pid":"148/1918-2","text":"Yiran Zhao 0002"},{"@pid":"57/7650","text":"Yujie Tao"},{"@pid":"338/5972","text":"Grace Le"},{"@pid":"338/7260","text":"Rui Maki"},{"@pid":"338/7207","text":"Alexander Adams"},{"@pid":"37/7457-1","text":"Pedro Lopes 0001"},{"@pid":"86/45","text":"Tanzeem Choudhury"}]},"title":"Affective Touch as Immediate and Passive Wearable Intervention.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"200:1-200:23","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhaoTLMALC22","doi":"10.1145/3569484","ee":"https://doi.org/10.1145/3569484","url":"https://dblp.org/rec/journals/imwut/ZhaoTLMALC22"},
+"url":"URL#1312507"
+},
+{
+"@score":"1",
+"@id":"1312508",
+"info":{"authors":{"author":[{"@pid":"19/2223","text":"Yang Zhen"},{"@pid":"188/0338","text":"Masato Sugasaki"},{"@pid":"87/4652","text":"Yoshihiro Kawahara"},{"@pid":"70/1077","text":"Kota Tsubouchi"},{"@pid":"233/0129","text":"Matthew Ishige"},{"@pid":"53/5557","text":"Hiroaki Murakami"},{"@pid":"54/3547","text":"Masamichi Shimosaka"}]},"title":"Efficient Adaptive Beacon Deployment Optimization for Indoor Crowd Monitoring Applications.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"201:1-201:22","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhenSKTIMS22","doi":"10.1145/3569462","ee":"https://doi.org/10.1145/3569462","url":"https://dblp.org/rec/journals/imwut/ZhenSKTIMS22"},
+"url":"URL#1312508"
+},
+{
+"@score":"1",
+"@id":"1312509",
+"info":{"authors":{"author":[{"@pid":"172/9870","text":"Yuxuan Zhou"},{"@pid":"202/8474","text":"Huangxun Chen"},{"@pid":"08/359","text":"Chenyu Huang"},{"@pid":"04/2024-1","text":"Qian Zhang 0001"}]},"title":"WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"92:1-92:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhouCHZ22","doi":"10.1145/3534618","ee":"https://doi.org/10.1145/3534618","url":"https://dblp.org/rec/journals/imwut/ZhouCHZ22"},
+"url":"URL#1312509"
+},
+{
+"@score":"1",
+"@id":"1312510",
+"info":{"authors":{"author":[{"@pid":"63/778-1","text":"Hao Zhou 0001"},{"@pid":"295/8747","text":"Taiting Lu"},{"@pid":"08/275","text":"Yilin Liu"},{"@pid":"07/2889","text":"Shijia Zhang"},{"@pid":"116/0691","text":"Mahanth Gowda"}]},"title":"Learning on the Rings: Self-Supervised 3D Finger Motion Tracking Using Wearable Sensors.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"90:1-90:31","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhouLLZG22","doi":"10.1145/3534587","ee":"https://doi.org/10.1145/3534587","url":"https://dblp.org/rec/journals/imwut/ZhouLLZG22"},
+"url":"URL#1312510"
+},
+{
+"@score":"1",
+"@id":"1312511",
+"info":{"authors":{"author":[{"@pid":"19/225","text":"Heng Zhou"},{"@pid":"38/2264","text":"Takuya Maekawa"}]},"title":"GPS-assisted Indoor Pedestrian Dead Reckoning.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"4","pages":"166:1-166:36","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhouM22","doi":"10.1145/3569467","ee":"https://doi.org/10.1145/3569467","url":"https://dblp.org/rec/journals/imwut/ZhouM22"},
+"url":"URL#1312511"
+},
+{
+"@score":"1",
+"@id":"1312512",
+"info":{"authors":{"author":[{"@pid":"65/3628-5","text":"Bo Zhou 0005"},{"@pid":"48/10247","text":"Sungho Suh"},{"@pid":"164/8198","text":"Vítor Fortes Rey"},{"@pid":"210/1467","text":"Carlos Andres Velez Altamirano"},{"@pid":"l/PaulLukowicz","text":"Paul Lukowicz"}]},"title":"Quali-Mat: Evaluating the Quality of Execution in Body-Weight Exercises with a Pressure Sensitive Sports Mat.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"89:1-89:45","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhouSRAL22","doi":"10.1145/3534610","ee":"https://doi.org/10.1145/3534610","url":"https://dblp.org/rec/journals/imwut/ZhouSRAL22"},
+"url":"URL#1312512"
+},
+{
+"@score":"1",
+"@id":"1312513",
+"info":{"authors":{"author":[{"@pid":"192/6936","text":"Pengyuan Zhou"},{"@pid":"275/9187","text":"Hengwei Xu"},{"@pid":"203/8146","text":"Lik Hang Lee"},{"@pid":"116/6856","text":"Pei Fang"},{"@pid":"62/1272-1","text":"Pan Hui 0001"}]},"title":"Are You Left Out?: An Efficient and Fair Federated Learning for Personalized Profiles on Wearable Devices of Inferior Networking Conditions.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"2","pages":"91:1-91:25","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhouXLFH22","doi":"10.1145/3534585","ee":"https://doi.org/10.1145/3534585","url":"https://dblp.org/rec/journals/imwut/ZhouXLFH22"},
+"url":"URL#1312513"
+},
+{
+"@score":"1",
+"@id":"1312514",
+"info":{"authors":{"author":[{"@pid":"282/6169","text":"Huadi Zhu"},{"@pid":"69/2238","text":"Tianhao Li"},{"@pid":"73/8605","text":"Chaowei Wang"},{"@pid":"196/7070","text":"Wenqiang Jin"},{"@pid":"43/6289","text":"Srinivasan Murali"},{"@pid":"99/4843","text":"Mingyan Xiao"},{"@pid":"319/9991","text":"Dongqing Ye"},{"@pid":"l/MingLi6","text":"Ming Li 0006"}]},"title":"EyeQoE: A Novel QoE Assessment Model for 360-degree Videos Using Ocular Behaviors.","venue":"Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.","volume":"6","number":"1","pages":"39:1-39:26","year":"2022","type":"Journal Articles","access":"closed","key":"journals/imwut/ZhuLWJMXYL22","doi":"10.1145/3517240","ee":"https://doi.org/10.1145/3517240","url":"https://dblp.org/rec/journals/imwut/ZhuLWJMXYL22"},
+"url":"URL#1312514"
+}
+]
+}
+}
+}

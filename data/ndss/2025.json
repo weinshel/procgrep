@@ -1,0 +1,1304 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/ndss/ndss2025.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"76.66"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"212",
+"@dc":"212",
+"@oc":"212",
+"@id":"48236777",
+"text":":facetid:toc:db/conf/ndss/ndss2025.bht"
+}
+},
+"hits":{
+"@total":"212",
+"@computed":"212",
+"@sent":"212",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"100660",
+"info":{"authors":{"author":[{"@pid":"205/5551-1","text":"Zitao Chen 0001"},{"@pid":"91/5344","text":"Karthik Pattabiraman"}]},"title":"A Method to Facilitate Membership Inference Attacks in Deep Learning Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0001P25","ee":"https://www.ndss-symposium.org/ndss-paper/a-method-to-facilitate-membership-inference-attacks-in-deep-learning-models/","url":"https://dblp.org/rec/conf/ndss/0001P25"},
+"url":"URL#100660"
+},
+{
+"@score":"1",
+"@id":"100661",
+"info":{"authors":{"author":[{"@pid":"139/1152-1","text":"Yansong Gao 0001"},{"@pid":"368/2179","text":"Huaibing Peng"},{"@pid":"60/887","text":"Hua Ma"},{"@pid":"36/5594-1","text":"Zhi Zhang 0001"},{"@pid":"63/1591-12","text":"Shuo Wang 0012"},{"@pid":"362/6044","text":"Rayne Holland"},{"@pid":"88/9558","text":"Anmin Fu"},{"@pid":"166/1912","text":"Minhui Xue 0001"},{"@pid":"a/DerekAbbott","text":"Derek Abbott"}]},"title":"Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0001PM00HF0A25","ee":"https://www.ndss-symposium.org/ndss-paper/try-to-poison-my-deep-learning-data-nowhere-to-hide-your-trajectory-spectrum/","url":"https://dblp.org/rec/conf/ndss/0001PM00HF0A25"},
+"url":"URL#100661"
+},
+{
+"@score":"1",
+"@id":"100662",
+"info":{"authors":{"author":[{"@pid":"57/9813-1","text":"Wenhao Wang 0001"},{"@pid":"281/6013","text":"Linke Song"},{"@pid":"238/7713","text":"Benshan Mei"},{"@pid":"58/6609","text":"Shuang Liu"},{"@pid":"145/1637","text":"Shijun Zhao"},{"@pid":"08/6611","text":"Shoumeng Yan"},{"@pid":"06/6268","text":"XiaoFeng Wang 0001"},{"@pid":"01/2538","text":"Dan Meng"},{"@pid":"79/3631-1","text":"Rui Hou 0001"}]},"title":"The Road to Trust: Building Enclaves within Confidential VMs.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0001SMLZY0M025","ee":"https://www.ndss-symposium.org/ndss-paper/the-road-to-trust-building-enclaves-within-confidential-vms/","url":"https://dblp.org/rec/conf/ndss/0001SMLZY0M025"},
+"url":"URL#100662"
+},
+{
+"@score":"1",
+"@id":"100663",
+"info":{"authors":{"author":[{"@pid":"63/10765-2","text":"Rui Wen 0002"},{"@pid":"b/MichaelBackes1","text":"Michael Backes 0001"},{"@pid":"06/6785-16","text":"Yang Zhang 0016"}]},"title":"Understanding Data Importance in Machine Learning Attacks: Does Valuable Data Pose Greater Harm?","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/00020025","ee":"https://www.ndss-symposium.org/ndss-paper/understanding-data-importance-in-machine-learning-attacks-does-valuable-data-pose-greater-harm/","url":"https://dblp.org/rec/conf/ndss/00020025"},
+"url":"URL#100663"
+},
+{
+"@score":"1",
+"@id":"100664",
+"info":{"authors":{"author":[{"@pid":"192/4957-2","text":"Yutong Ye 0002"},{"@pid":"145/3288-1","text":"Tianhao Wang 0001"},{"@pid":"83/5342-43","text":"Min Zhang 0043"},{"@pid":"79/2089","text":"Dengguo Feng"}]},"title":"Revisiting EM-based Estimation for Locally Differentially Private Protocols.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/000200F25","ee":"https://www.ndss-symposium.org/ndss-paper/revisiting-em-based-estimation-for-locally-differentially-private-protocols/","url":"https://dblp.org/rec/conf/ndss/000200F25"},
+"url":"URL#100664"
+},
+{
+"@score":"1",
+"@id":"100665",
+"info":{"authors":{"author":[{"@pid":"147/6644-2","text":"Kaiyuan Zhang 0002"},{"@pid":"263/7049","text":"Siyuan Cheng 0005"},{"@pid":"216/6403","text":"Guangyu Shen"},{"@pid":"15/606","text":"Bruno Ribeiro 0001"},{"@pid":"168/9413","text":"Shengwei An"},{"@pid":"39/8969","text":"Pin-Yu Chen"},{"@pid":"95/3760-1","text":"Xiangyu Zhang 0001"},{"@pid":"l/NinghuiLi","text":"Ninghui Li"}]},"title":"CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/00020S0AC0L25","ee":"https://www.ndss-symposium.org/ndss-paper/censor-defense-against-gradient-inversion-via-orthogonal-subspace-bayesian-sampling/","url":"https://dblp.org/rec/conf/ndss/00020S0AC0L25"},
+"url":"URL#100665"
+},
+{
+"@score":"1",
+"@id":"100666",
+"info":{"authors":{"author":[{"@pid":"154/6303-2","text":"Shuo Shao 0002"},{"@pid":"l/YimingLi-4","text":"Yiming Li 0004"},{"@pid":"139/4887","text":"Hongwei Yao"},{"@pid":"347/7148","text":"Yiling He"},{"@pid":"148/4477","text":"Zhan Qin"},{"@pid":"20/6179-1","text":"Kui Ren 0001"}]},"title":"Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/00020YHQ025","ee":"https://www.ndss-symposium.org/ndss-paper/explanation-as-a-watermark-towards-harmless-and-multi-bit-model-ownership-verification-via-watermarking-feature-attribution/","url":"https://dblp.org/rec/conf/ndss/00020YHQ025"},
+"url":"URL#100666"
+},
+{
+"@score":"1",
+"@id":"100667",
+"info":{"authors":{"author":[{"@pid":"94/1463-2","text":"Rui Xiao 0002"},{"@pid":"36/10238","text":"Xiankai Chen"},{"@pid":"144/8954","text":"Yinghui He"},{"@pid":"02/3721-1","text":"Jun Han 0001"},{"@pid":"96/6606","text":"Jinsong Han"}]},"title":"Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0002CH0H25","ee":"https://www.ndss-symposium.org/ndss-paper/lend-me-your-beam-privacy-implications-of-plaintext-beamforming-feedback-in-wifi/","url":"https://dblp.org/rec/conf/ndss/0002CH0H25"},
+"url":"URL#100667"
+},
+{
+"@score":"1",
+"@id":"100668",
+"info":{"authors":{"author":[{"@pid":"359/5798","text":"Dzung Pham 0002"},{"@pid":"228/3098","text":"Shreyas Kulkarni"},{"@pid":"22/1797","text":"Amir Houmansadr"}]},"title":"RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with Adversarial Data Manipulation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0002KH25","ee":"https://www.ndss-symposium.org/ndss-paper/raifle-reconstruction-attacks-on-interaction-based-federated-learning-with-adversarial-data-manipulation/","url":"https://dblp.org/rec/conf/ndss/0002KH25"},
+"url":"URL#100668"
+},
+{
+"@score":"1",
+"@id":"100669",
+"info":{"authors":{"author":[{"@pid":"251/5347-2","text":"Robert Dumitru 0002"},{"@pid":"191/5956","text":"Thorben Moos"},{"@pid":"39/9878","text":"Andrew Wabnitz"},{"@pid":"90/10901","text":"Yuval Yarom"}]},"title":"On Borrowed Time - Preventing Static Side-Channel Analysis.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0002MWY25","ee":"https://www.ndss-symposium.org/ndss-paper/on-borrowed-time-preventing-static-side-channel-analysis/","url":"https://dblp.org/rec/conf/ndss/0002MWY25"},
+"url":"URL#100669"
+},
+{
+"@score":"1",
+"@id":"100670",
+"info":{"authors":{"author":[{"@pid":"294/1743","text":"Yuqing Yang 0003"},{"@pid":"47/722-25","text":"Yue Zhang 0025"},{"@pid":"49/4102-1","text":"Zhiqiang Lin 0001"}]},"title":"Understanding Miniapp Malware: Identification, Dissection, and Characterization.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/00030025","ee":"https://www.ndss-symposium.org/ndss-paper/understanding-miniapp-malware-identification-dissection-and-characterization/","url":"https://dblp.org/rec/conf/ndss/00030025"},
+"url":"URL#100670"
+},
+{
+"@score":"1",
+"@id":"100671",
+"info":{"authors":{"author":[{"@pid":"50/4043-3","text":"Tao Ni 0003"},{"@pid":"150/3753-1","text":"Yuefeng Du 0001"},{"@pid":"156/1033","text":"Qingchuan Zhao"},{"@pid":"18/2771-1","text":"Cong Wang 0001"}]},"title":"Non-intrusive and Unconstrained Keystroke Inference in VR Platforms via Infrared Side Channel.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/00030Z025","ee":"https://www.ndss-symposium.org/ndss-paper/non-intrusive-and-unconstrained-keystroke-inference-in-vr-platforms-via-infrared-side-channel/","url":"https://dblp.org/rec/conf/ndss/00030Z025"},
+"url":"URL#100671"
+},
+{
+"@score":"1",
+"@id":"100672",
+"info":{"authors":{"author":[{"@pid":"117/6165-3","text":"Xiaochen Zhu 0003"},{"@pid":"146/1133","text":"Xinjian Luo"},{"@pid":"172/5536","text":"Yuncheng Wu"},{"@pid":"278/8831-1","text":"Yangfan Jiang 0001"},{"@pid":"33/1903","text":"Xiaokui Xiao"},{"@pid":"o/BengChinOoi","text":"Beng Chin Ooi"}]},"title":"Passive Inference Attacks on Split Learning via Adversarial Regularization.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0003LWJXO25","ee":"https://www.ndss-symposium.org/ndss-paper/passive-inference-attacks-on-split-learning-via-adversarial-regularization/","url":"https://dblp.org/rec/conf/ndss/0003LWJXO25"},
+"url":"URL#100672"
+},
+{
+"@score":"1",
+"@id":"100673",
+"info":{"authors":{"author":[{"@pid":"308/8567-3","text":"Mahdi Rahimi 0003"},{"@pid":"177/1859","text":"Piyush Kumar Sharma"},{"@pid":"d/ClaudiaDiaz","text":"Claudia Díaz"}]},"title":"LAMP: Lightweight Approaches for Latency Minimization in Mixnets with Practical Deployment Considerations.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0003SD25","ee":"https://www.ndss-symposium.org/ndss-paper/lamp-lightweight-approaches-for-latency-minimization-in-mixnets-with-practical-deployment-considerations/","url":"https://dblp.org/rec/conf/ndss/0003SD25"},
+"url":"URL#100673"
+},
+{
+"@score":"1",
+"@id":"100674",
+"info":{"authors":{"author":[{"@pid":"21/8587-5","text":"Chen Gong 0005"},{"@pid":"361/7589","text":"Kecen Li"},{"@pid":"45/3006","text":"Jin Yao"},{"@pid":"145/3288-1","text":"Tianhao Wang 0001"}]},"title":"TrajDeleter: Enabling Trajectory Forgetting in Offline Reinforcement Learning Agents.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0005LY025","ee":"https://www.ndss-symposium.org/ndss-paper/trajdeleter-enabling-trajectory-forgetting-in-offline-reinforcement-learning-agents/","url":"https://dblp.org/rec/conf/ndss/0005LY025"},
+"url":"URL#100674"
+},
+{
+"@score":"1",
+"@id":"100675",
+"info":{"authors":{"author":[{"@pid":"80/6791-7","text":"Yue Xiao 0007"},{"@pid":"76/10638","text":"Dhilung Kirat"},{"@pid":"74/10805","text":"Douglas Lee Schales"},{"@pid":"58/688","text":"Jiyong Jang"},{"@pid":"34/8412","text":"Luyi Xing"},{"@pid":"129/1113","text":"Xiaojing Liao"}]},"title":"JBomAudit: Assessing the Landscape, Compliance, and Security Implications of Java SBOMs.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0007KSJXL25","ee":"https://www.ndss-symposium.org/ndss-paper/jbomaudit-assessing-the-landscape-compliance-and-security-implications-of-java-sboms/","url":"https://dblp.org/rec/conf/ndss/0007KSJXL25"},
+"url":"URL#100675"
+},
+{
+"@score":"1",
+"@id":"100676",
+"info":{"authors":{"author":[{"@pid":"382/4745","text":"Jiayi Lin 0007"},{"@pid":"63/5407","text":"Qingyu Zhang"},{"@pid":"157/0971","text":"Junzhe Li"},{"@pid":"226/9872","text":"Chenxin Sun"},{"@pid":"63/778","text":"Hao Zhou"},{"@pid":"294/1088","text":"Changhua Luo"},{"@pid":"147/2276","text":"Chenxiong Qian"}]},"title":"Automatic Library Fuzzing through API Relation Evolvement.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0007ZLSZLQ25","ee":"https://www.ndss-symposium.org/ndss-paper/automatic-library-fuzzing-through-api-relation-evolvement/","url":"https://dblp.org/rec/conf/ndss/0007ZLSZLQ25"},
+"url":"URL#100676"
+},
+{
+"@score":"1",
+"@id":"100677",
+"info":{"authors":{"author":[{"@pid":"364/5622","text":"Ruixuan Li 0008"},{"@pid":"223/6794","text":"Chaoyi Lu"},{"@pid":"89/10754","text":"Baojun Liu"},{"@pid":"44/4491","text":"Yunyi Zhang"},{"@pid":"227/9082","text":"Geng Hong"},{"@pid":"36/5143","text":"Haixin Duan"},{"@pid":"331/2560","text":"Yanzhong Lin"},{"@pid":"245/2668","text":"Qingfeng Pan"},{"@pid":"02/1640-2","text":"Min Yang 0002"},{"@pid":"09/5442-1","text":"Jun Shao 0001"}]},"title":"HADES Attack: Understanding and Evaluating Manipulation Risks of Email Blocklists.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0008LLZHDLP0025","ee":"https://www.ndss-symposium.org/ndss-paper/hades-attack-understanding-and-evaluating-manipulation-risks-of-email-blocklists/","url":"https://dblp.org/rec/conf/ndss/0008LLZHDLP0025"},
+"url":"URL#100677"
+},
+{
+"@score":"1",
+"@id":"100678",
+"info":{"authors":{"author":[{"@pid":"02/3672-8","text":"Heng Li 0008"},{"@pid":"05/8235","text":"Zhiyuan Yao"},{"@pid":"220/9034","text":"Bang Wu"},{"@pid":"231/3370","text":"Cuiying Gao"},{"@pid":"349/6022","text":"Teng Xu"},{"@pid":"67/2268","text":"Wei Yuan"},{"@pid":"53/1565","text":"Xiapu Luo"}]},"title":"Automated Mass Malware Factory: The Convergence of Piggybacking and Adversarial Example in Android Malicious Software Generation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0008YWGXYL25","ee":"https://www.ndss-symposium.org/ndss-paper/automated-mass-malware-factory-the-convergence-of-piggybacking-and-adversarial-example-in-android-malicious-software-generation/","url":"https://dblp.org/rec/conf/ndss/0008YWGXYL25"},
+"url":"URL#100678"
+},
+{
+"@score":"1",
+"@id":"100679",
+"info":{"authors":{"author":[{"@pid":"49/6156-12","text":"Hang Zhang 0012"},{"@pid":"47/2896","text":"Jangha Kim"},{"@pid":"296/6815","text":"Chuhong Yuan"},{"@pid":"31/8302","text":"Zhiyun Qian"},{"@pid":"38/8882","text":"Taesoo Kim"}]},"title":"Statically Discover Cross-Entry Use-After-Free Vulnerabilities in the Linux Kernel.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0012KYQK25","ee":"https://www.ndss-symposium.org/ndss-paper/statically-discover-cross-entry-use-after-free-vulnerabilities-in-the-linux-kernel/","url":"https://dblp.org/rec/conf/ndss/0012KYQK25"},
+"url":"URL#100679"
+},
+{
+"@score":"1",
+"@id":"100680",
+"info":{"authors":{"author":[{"@pid":"96/2615-12","text":"Ye Liu 0012"},{"@pid":"83/7503","text":"Yue Xue"},{"@pid":"144/7556","text":"Daoyuan Wu"},{"@pid":"36/7625-1","text":"Yuqiang Sun 0001"},{"@pid":"59/871-8","text":"Yi Li 0008"},{"@pid":"367/4816","text":"Miaolei Shi"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0012XW00S025","ee":"https://www.ndss-symposium.org/ndss-paper/propertygpt-llm-driven-formal-verification-of-smart-contracts-through-retrieval-augmented-property-generation/","url":"https://dblp.org/rec/conf/ndss/0012XW00S025"},
+"url":"URL#100680"
+},
+{
+"@score":"1",
+"@id":"100681",
+"info":{"authors":{"author":[{"@pid":"76/5416-30","text":"Yiming Zhang 0030"},{"@pid":"20/11242","text":"Fengwei Zhang"},{"@pid":"53/1565","text":"Xiapu Luo"},{"@pid":"79/3631-1","text":"Rui Hou 0001"},{"@pid":"99/1702","text":"Xuhua Ding"},{"@pid":"99/4951","text":"Zhenkai Liang"},{"@pid":"08/6611","text":"Shoumeng Yan"},{"@pid":"64/5099","text":"Tao Wei"},{"@pid":"79/7449","text":"Zhengyu He"}]},"title":"SCRUTINIZER: Towards Secure Forensics on Compromised TrustZone.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/0030ZL0DLYWH25","ee":"https://www.ndss-symposium.org/ndss-paper/scrutinizer-towards-secure-forensics-on-compromised-trustzone/","url":"https://dblp.org/rec/conf/ndss/0030ZL0DLYWH25"},
+"url":"URL#100681"
+},
+{
+"@score":"1",
+"@id":"100682",
+"info":{"authors":{"author":[{"@pid":"162/4180","text":"Aydin Abadi"},{"@pid":"265/3527","text":"Vishnu Asutosh Dasu"},{"@pid":"04/693","text":"Sumanta Sarkar"}]},"title":"Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/AbadiDS25","ee":"https://www.ndss-symposium.org/ndss-paper/privacy-preserving-data-deduplication-for-enhancing-federated-learning-of-language-models/","url":"https://dblp.org/rec/conf/ndss/AbadiDS25"},
+"url":"URL#100682"
+},
+{
+"@score":"1",
+"@id":"100683",
+"info":{"authors":{"author":[{"@pid":"309/4510","text":"Andrick Adhikari"},{"@pid":"217/7358","text":"Sanchari Das"},{"@pid":"26/2836","text":"Rinku Dewri"}]},"title":"PolicyPulse: Precision Semantic Role Extraction for Enhanced Privacy Policy Comprehension.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/AdhikariDD25","ee":"https://www.ndss-symposium.org/ndss-paper/policypulse-precision-semantic-role-extraction-for-enhanced-privacy-policy-comprehension/","url":"https://dblp.org/rec/conf/ndss/AdhikariDD25"},
+"url":"URL#100683"
+},
+{
+"@score":"1",
+"@id":"100684",
+"info":{"authors":{"author":[{"@pid":"338/5026","text":"Boladji Vinny Adjibi"},{"@pid":"295/0457","text":"Athanasios Avgetidis"},{"@pid":"26/216","text":"Manos Antonakakis"},{"@pid":"359/0958","text":"Michael D. Bailey"},{"@pid":"50/6700","text":"Fabian Monrose"}]},"title":"The Guardians of Name Street: Studying the Defensive Registration Practices of the Fortune 500.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/AdjibiAABM25","ee":"https://www.ndss-symposium.org/ndss-paper/the-guardians-of-name-street-studying-the-defensive-registration-practices-of-the-fortune-500/","url":"https://dblp.org/rec/conf/ndss/AdjibiAABM25"},
+"url":"URL#100684"
+},
+{
+"@score":"1",
+"@id":"100685",
+"info":{"authors":{"author":[{"@pid":"220/1016","text":"Angeliki Aktypi"},{"@pid":"01/4779","text":"Kasper Rasmussen"}]},"title":"Iris: Dynamic Privacy Preserving Search in Authenticated Chord Peer-to-Peer Networks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/AktypiR25","ee":"https://www.ndss-symposium.org/ndss-paper/iris-dynamic-privacy-preserving-search-in-authenticated-chord-peer-to-peer-networks/","url":"https://dblp.org/rec/conf/ndss/AktypiR25"},
+"url":"URL#100685"
+},
+{
+"@score":"1",
+"@id":"100686",
+"info":{"authors":{"author":[{"@pid":"353/7519","text":"Abdullah AlHamdan"},{"@pid":"179/8624","text":"Cristian-Alexandru Staicu"}]},"title":"Welcome to Jurassic Park: A Comprehensive Study of Security Risks in Deno and its Ecosystem.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/AlHamdanS25","ee":"https://www.ndss-symposium.org/ndss-paper/welcome-to-jurassic-park-a-comprehensive-study-of-security-risks-in-deno-and-its-ecosystem/","url":"https://dblp.org/rec/conf/ndss/AlHamdanS25"},
+"url":"URL#100686"
+},
+{
+"@score":"1",
+"@id":"100687",
+"info":{"authors":{"author":[{"@pid":"304/2721","text":"Ammar Askar"},{"@pid":"271/4845","text":"Fabian Fleischer"},{"@pid":"k/ChristopherKruegel","text":"Christopher Kruegel"},{"@pid":"v/GiovanniVigna","text":"Giovanni Vigna"},{"@pid":"38/8882","text":"Taesoo Kim"}]},"title":"MALintent: Coverage Guided Intent Fuzzing Framework for Android.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/AskarFKVK25","ee":"https://www.ndss-symposium.org/ndss-paper/malintent-coverage-guided-intent-fuzzing-framework-for-android/","url":"https://dblp.org/rec/conf/ndss/AskarFKVK25"},
+"url":"URL#100687"
+},
+{
+"@score":"1",
+"@id":"100688",
+"info":{"authors":{"author":[{"@pid":"197/6885","text":"Kushal Babel"},{"@pid":"263/7221","text":"Andrey Chursin"},{"@pid":"11/1148","text":"George Danezis"},{"@pid":"134/6580","text":"Anastasios Kichidis"},{"@pid":"176/5301","text":"Lefteris Kokoris-Kogias"},{"@pid":"400/5089","text":"Arun Koshy"},{"@pid":"170/4315","text":"Alberto Sonnino"},{"@pid":"126/0527","text":"Mingwei Tian"}]},"title":"Mysticeti: Reaching the Latency Limits with Uncertified DAGs.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/BabelCDKKKST25","ee":"https://www.ndss-symposium.org/ndss-paper/mysticeti-reaching-the-latency-limits-with-uncertified-dags/","url":"https://dblp.org/rec/conf/ndss/BabelCDKKKST25"},
+"url":"URL#100688"
+},
+{
+"@score":"1",
+"@id":"100689",
+"info":{"authors":{"author":[{"@pid":"400/4490","text":"Nicolas Badoux"},{"@pid":"88/9958","text":"Flavio Toffalini"},{"@pid":"125/8622","text":"Yuseok Jeon"},{"@pid":"31/1273","text":"Mathias Payer"}]},"title":"type++: Prohibiting Type Confusion with Inline Type Information.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/BadouxTJP25","ee":"https://www.ndss-symposium.org/ndss-paper/type-prohibiting-type-confusion-with-inline-type-information/","url":"https://dblp.org/rec/conf/ndss/BadouxTJP25"},
+"url":"URL#100689"
+},
+{
+"@score":"1",
+"@id":"100690",
+"info":{"authors":{"author":[{"@pid":"b/DanielJBernstein","text":"Daniel J. Bernstein"},{"@pid":"56/2224","text":"Tanja Lange 0001"},{"@pid":"224/2391-2","text":"Jonathan Levin 0002"},{"@pid":"37/4997","text":"Bo-Yin Yang"}]},"title":"PQConnect: Automated Post-Quantum End-to-End Tunnels.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Bernstein00Y25","ee":"https://www.ndss-symposium.org/ndss-paper/pqconnect-automated-post-quantum-end-to-end-tunnels/","url":"https://dblp.org/rec/conf/ndss/Bernstein00Y25"},
+"url":"URL#100690"
+},
+{
+"@score":"1",
+"@id":"100691",
+"info":{"authors":{"author":[{"@pid":"228/0653","text":"Marzieh Bitaab"},{"@pid":"80/4850","text":"Alireza Karimi"},{"@pid":"285/4821","text":"Zhuoer Lyu"},{"@pid":"72/10989","text":"Adam Oest"},{"@pid":"218/5259","text":"Dhruv Kuchhal"},{"@pid":"181/5807-1","text":"Muhammad Saad 0001"},{"@pid":"a/GailJoonAhn","text":"Gail-Joon Ahn"},{"@pid":"127/9829","text":"Ruoyu Wang 0001"},{"@pid":"150/5198","text":"Tiffany Bao"},{"@pid":"119/7712","text":"Yan Shoshitaishvili"},{"@pid":"28/8280","text":"Adam Doupé"}]},"title":"SCAMMAGNIFIER: Piercing the Veil of Fraudulent Shopping Website Campaigns.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/BitaabKLOK0A0BS25","ee":"https://www.ndss-symposium.org/ndss-paper/scammagnifier-piercing-the-veil-of-fraudulent-shopping-website-campaigns/","url":"https://dblp.org/rec/conf/ndss/BitaabKLOK0A0BS25"},
+"url":"URL#100691"
+},
+{
+"@score":"1",
+"@id":"100692",
+"info":{"authors":{"author":[{"@pid":"344/8676","text":"Elijah Robert Bouma-Sims"},{"@pid":"384/6195","text":"Lily Klucinec"},{"@pid":"383/1781","text":"Mandy Lanyon"},{"@pid":"78/1081","text":"Julie Downs"},{"@pid":"03/1595","text":"Lorrie Faith Cranor"}]},"title":"The Kids Are All Right: Investigating the Susceptibility of Teens and Adults to YouTube Giveaway Scams.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Bouma-SimsKLDC25","ee":"https://www.ndss-symposium.org/ndss-paper/the-kids-are-all-right-investigating-the-susceptibility-of-teens-and-adults-to-youtube-giveaway-scams/","url":"https://dblp.org/rec/conf/ndss/Bouma-SimsKLDC25"},
+"url":"URL#100692"
+},
+{
+"@score":"1",
+"@id":"100693",
+"info":{"authors":{"author":[{"@pid":"207/6593","text":"Darion Cassel"},{"@pid":"351/2399","text":"Nuno Sabino"},{"@pid":"184/5464","text":"Min-Chien Hsu"},{"@pid":"14/8296","text":"Ruben Martins"},{"@pid":"89/161-1","text":"Limin Jia 0001"}]},"title":"NodeMedic-FINE: Automatic Detection and Exploit Synthesis for Node.js Vulnerabilities.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/CasselSHM025","ee":"https://www.ndss-symposium.org/ndss-paper/nodemedic-fine-automatic-detection-and-exploit-synthesis-for-node-js-vulnerabilities/","url":"https://dblp.org/rec/conf/ndss/CasselSHM025"},
+"url":"URL#100693"
+},
+{
+"@score":"1",
+"@id":"100694",
+"info":{"authors":{"author":[{"@pid":"367/9458","text":"Derin Cayir"},{"@pid":"158/9223-3","text":"Reham Mohamed Aburas"},{"@pid":"87/7355","text":"Riccardo Lazzeretti"},{"@pid":"118/6511","text":"Marco Angelini"},{"@pid":"195/5992","text":"Abbas Acar"},{"@pid":"82/4386","text":"Mauro Conti"},{"@pid":"143/2298","text":"Z. Berkay Celik"},{"@pid":"46/1500","text":"A. Selcuk Uluagac"}]},"title":"Speak Up, I&apos;m Listening: Extracting Speech from Zero-Permission VR Sensors.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/CayirALAACCU25","ee":"https://www.ndss-symposium.org/ndss-paper/speak-up-im-listening-extracting-speech-from-zero-permission-vr-sensors/","url":"https://dblp.org/rec/conf/ndss/CayirALAACCU25"},
+"url":"URL#100694"
+},
+{
+"@score":"1",
+"@id":"100695",
+"info":{"authors":{"author":[{"@pid":"296/2589","text":"Sofía Celi"},{"@pid":"177/2253","text":"Alex Davidson"},{"@pid":"33/5454","text":"Hamed Haddadi"},{"@pid":"153/2131","text":"Gonçalo Pestana"},{"@pid":"277/3475","text":"Joe Rowell"}]},"title":"DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/CeliDHPR25","ee":"https://www.ndss-symposium.org/ndss-paper/distefano-decentralized-infrastructure-for-sharing-trusted-encrypted-facts-and-nothing-more/","url":"https://dblp.org/rec/conf/ndss/CeliDHPR25"},
+"url":"URL#100695"
+},
+{
+"@score":"1",
+"@id":"100696",
+"info":{"authors":{"author":[{"@pid":"34/7013","text":"Jung-Woo Chang"},{"@pid":"69/476","text":"Ke Sun"},{"@pid":"217/1912","text":"Nasimeh Heydaribeni"},{"@pid":"78/5474","text":"Seira Hidano"},{"@pid":"58/4582","text":"Xinyu Zhang"},{"@pid":"k/FarinazKoushanfar","text":"Farinaz Koushanfar"}]},"title":"Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based Wireless Communication Systems.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ChangSHHZK25","ee":"https://www.ndss-symposium.org/ndss-paper/magmaw-modality-agnostic-adversarial-attacks-on-machine-learning-based-wireless-communication-systems/","url":"https://dblp.org/rec/conf/ndss/ChangSHHZK25"},
+"url":"URL#100696"
+},
+{
+"@score":"1",
+"@id":"100697",
+"info":{"authors":{"author":[{"@pid":"298/7898","text":"Chunjiang Che"},{"@pid":"119/2630","text":"Songze Li"},{"@pid":"223/8062","text":"Xuechao Wang"}]},"title":"Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/CheLW25","ee":"https://www.ndss-symposium.org/ndss-paper/manifoldchain-maximizing-blockchain-throughput-via-bandwidth-clustered-sharding/","url":"https://dblp.org/rec/conf/ndss/CheLW25"},
+"url":"URL#100697"
+},
+{
+"@score":"1",
+"@id":"100698",
+"info":{"authors":{"author":[{"@pid":"381/1608","text":"Pinji Chen"},{"@pid":"20/1036-5","text":"Jianjun Chen 0005"},{"@pid":"29/3959","text":"Mingming Zhang"},{"@pid":"19/1924","text":"Qi Wang"},{"@pid":"76/5416-9","text":"Yiming Zhang 0009"},{"@pid":"18/6055","text":"Mingwei Xu"},{"@pid":"36/5143","text":"Haixin Duan"}]},"title":"Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Chen0ZW0XD25","ee":"https://www.ndss-symposium.org/ndss-paper/cross-origin-web-attacks-via-http-2-server-push-and-signed-http-exchange/","url":"https://dblp.org/rec/conf/ndss/Chen0ZW0XD25"},
+"url":"URL#100698"
+},
+{
+"@score":"1",
+"@id":"100699",
+"info":{"authors":{"author":[{"@pid":"29/6497","text":"Zhuo Chen"},{"@pid":"187/2673","text":"Yufeng Hu"},{"@pid":"65/10102","text":"Bowen He"},{"@pid":"88/7","text":"Dong Luo"},{"@pid":"68/5597-12","text":"Lei Wu 0012"},{"@pid":"15/7381","text":"Yajin Zhou"}]},"title":"Dissecting Payload-based Transaction Phishing on Ethereum.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ChenHHL0Z25","ee":"https://www.ndss-symposium.org/ndss-paper/dissecting-payload-based-transaction-phishing-on-ethereum/","url":"https://dblp.org/rec/conf/ndss/ChenHHL0Z25"},
+"url":"URL#100699"
+},
+{
+"@score":"1",
+"@id":"100700",
+"info":{"authors":{"author":[{"@pid":"292/7423","text":"Yanzuo Chen"},{"@pid":"193/9286","text":"Zhibo Liu"},{"@pid":"295/5277","text":"Yuanyuan Yuan"},{"@pid":"248/2303","text":"Sihang Hu"},{"@pid":"120/6487","text":"Tianxiang Li"},{"@pid":"42/1503-11","text":"Shuai Wang 0011"}]},"title":"Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ChenLYHL025","ee":"https://www.ndss-symposium.org/ndss-paper/compiled-models-built-in-exploits-uncovering-pervasive-bit-flip-attack-surfaces-in-dnn-executables/","url":"https://dblp.org/rec/conf/ndss/ChenLYHL025"},
+"url":"URL#100700"
+},
+{
+"@score":"1",
+"@id":"100701",
+"info":{"authors":{"author":[{"@pid":"292/7423","text":"Yanzuo Chen"},{"@pid":"295/5277","text":"Yuanyuan Yuan"},{"@pid":"193/9286","text":"Zhibo Liu"},{"@pid":"248/2303","text":"Sihang Hu"},{"@pid":"120/6487","text":"Tianxiang Li"},{"@pid":"42/1503-11","text":"Shuai Wang 0011"}]},"title":"BitShield: Defending Against Bit-Flip Attacks on DNN Executables.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ChenYLHL025","ee":"https://www.ndss-symposium.org/ndss-paper/bitshield-defending-against-bit-flip-attacks-on-dnn-executables/","url":"https://dblp.org/rec/conf/ndss/ChenYLHL025"},
+"url":"URL#100701"
+},
+{
+"@score":"1",
+"@id":"100702",
+"info":{"authors":{"author":[{"@pid":"252/5255","text":"Guangke Chen"},{"@pid":"230/8027","text":"Yedi Zhang"},{"@pid":"09/10016","text":"Fu Song"},{"@pid":"12/2633-4","text":"Ting Wang 0004"},{"@pid":"97/6476-1","text":"Xiaoning Du 0001"},{"@pid":"51/3710-3","text":"Yang Liu 0003"}]},"title":"SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ChenZS00025","ee":"https://www.ndss-symposium.org/ndss-paper/songbsab-a-dual-prevention-approach-against-singing-voice-conversion-based-illegal-song-covers/","url":"https://dblp.org/rec/conf/ndss/ChenZS00025"},
+"url":"URL#100702"
+},
+{
+"@score":"1",
+"@id":"100703",
+"info":{"authors":{"author":[{"@pid":"119/3679","text":"Eduardo Chielle"},{"@pid":"56/1494","text":"Michail Maniatakos"}]},"title":"Recurrent Private Set Intersection for Unbalanced Databases with Cuckoo Hashing and Leveled FHE.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ChielleM25","ee":"https://www.ndss-symposium.org/ndss-paper/recurrent-private-set-intersection-for-unbalanced-databases-with-cuckoo-hashing-and-leveled-fhe/","url":"https://dblp.org/rec/conf/ndss/ChielleM25"},
+"url":"URL#100703"
+},
+{
+"@score":"1",
+"@id":"100704",
+"info":{"authors":{"author":[{"@pid":"348/4799","text":"Navnil Choudhury"},{"@pid":"336/4225","text":"Chaithanya Naik Mude"},{"@pid":"56/6267","text":"Sanjay Das"},{"@pid":"395/1646","text":"Preetham Chandra Tikkireddi"},{"@pid":"207/1837","text":"Swamit Tannu"},{"@pid":"08/1330","text":"Kanad Basu"}]},"title":"Crosstalk-induced Side Channel Threats in Multi-Tenant NISQ Computers.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ChoudhuryMDTTB25","ee":"https://www.ndss-symposium.org/ndss-paper/crosstalk-induced-side-channel-threats-in-multi-tenant-nisq-computers/","url":"https://dblp.org/rec/conf/ndss/ChoudhuryMDTTB25"},
+"url":"URL#100704"
+},
+{
+"@score":"1",
+"@id":"100705",
+"info":{"authors":{"author":[{"@pid":"155/8567","text":"Jiska Classen"},{"@pid":"248/1693","text":"Alexander Heinrich"},{"@pid":"400/4901","text":"Fabian Portner"},{"@pid":"200/7292","text":"Felix Rohrbach"},{"@pid":"95/1816","text":"Matthias Hollick"}]},"title":"Starshields for iOS: Navigating the Security Cosmos in Satellite Communication.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ClassenHPRH25","ee":"https://www.ndss-symposium.org/ndss-paper/starshields-for-ios-navigating-the-security-cosmos-in-satellite-communication/","url":"https://dblp.org/rec/conf/ndss/ClassenHPRH25"},
+"url":"URL#100705"
+},
+{
+"@score":"1",
+"@id":"100706",
+"info":{"authors":{"author":[{"@pid":"41/5360","text":"Jian Cui"},{"@pid":"132/8044","text":"Hanna Kim"},{"@pid":"294/0262","text":"Eugene Jang"},{"@pid":"372/3769","text":"Dayeon Yim"},{"@pid":"11/3587","text":"Kicheol Kim"},{"@pid":"99/1170","text":"Yongjae Lee"},{"@pid":"47/9656","text":"Jin-Woo Chung"},{"@pid":"84/3319-1","text":"Seungwon Shin 0001"},{"@pid":"129/1113","text":"Xiaojing Liao"}]},"title":"Tweezers: A Framework for Security Event Detection via Event Attribution-centric Tweet Embedding.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/CuiKJYKLC0L25","ee":"https://www.ndss-symposium.org/ndss-paper/tweezers-a-framework-for-security-event-detection-via-event-attribution-centric-tweet-embedding/","url":"https://dblp.org/rec/conf/ndss/CuiKJYKLC0L25"},
+"url":"URL#100706"
+},
+{
+"@score":"1",
+"@id":"100707",
+"info":{"authors":{"author":[{"@pid":"243/3091","text":"Jiangyi Deng"},{"@pid":"04/8388","text":"Xinfeng Li"},{"@pid":"50/10586","text":"Yanjiao Chen"},{"@pid":"298/2788","text":"Yijie Bai"},{"@pid":"169/7167","text":"Haiqin Weng"},{"@pid":"150/4295","text":"Yan Liu"},{"@pid":"64/5099","text":"Tao Wei"},{"@pid":"10/3878-1","text":"Wenyuan Xu 0001"}]},"title":"RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/DengLCBWLW025","ee":"https://www.ndss-symposium.org/ndss-paper/raconteur-a-knowledgeable-insightful-and-portable-llm-powered-shell-command-explainer/","url":"https://dblp.org/rec/conf/ndss/DengLCBWLW025"},
+"url":"URL#100707"
+},
+{
+"@score":"1",
+"@id":"100708",
+"info":{"authors":{"author":[{"@pid":"312/9316","text":"Yangtao Deng"},{"@pid":"61/591","text":"Qian Wu"},{"@pid":"148/1959","text":"Zeqi Lai"},{"@pid":"91/2047","text":"Chenwei Gu"},{"@pid":"51/8276","text":"Hewu Li"},{"@pid":"75/10258","text":"Yuanjie Li"},{"@pid":"95/3736-63","text":"Jun Liu 0063"}]},"title":"Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/DengWLGLLL25","ee":"https://www.ndss-symposium.org/ndss-paper/time-varying-bottleneck-links-in-leo-satellite-networks-identification-exploits-and-countermeasures/","url":"https://dblp.org/rec/conf/ndss/DengWLGLLL25"},
+"url":"URL#100708"
+},
+{
+"@score":"1",
+"@id":"100709",
+"info":{"authors":{"author":[{"@pid":"228/7706","text":"Ruyi Ding"},{"@pid":"30/97-2","text":"Tong Zhou 0002"},{"@pid":"87/221","text":"Lili Su"},{"@pid":"50/3020","text":"Aidong Adam Ding"},{"@pid":"15/1040-1","text":"Xiaolin Xu 0001"},{"@pid":"67/5667","text":"Yunsi Fei"}]},"title":"Probe-Me-Not: Protecting Pre-trained Encoders from Malicious Probing.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Ding0SD0F25","ee":"https://www.ndss-symposium.org/ndss-paper/probe-me-not-protecting-pre-trained-encoders-from-malicious-probing/","url":"https://dblp.org/rec/conf/ndss/Ding0SD0F25"},
+"url":"URL#100709"
+},
+{
+"@score":"1",
+"@id":"100710",
+"info":{"authors":{"author":[{"@pid":"25/8475","text":"Tian Dong"},{"@pid":"166/1912","text":"Minhui Xue 0001"},{"@pid":"05/1884","text":"Guoxing Chen"},{"@pid":"362/6044","text":"Rayne Holland"},{"@pid":"43/1032-1","text":"Yan Meng 0001"},{"@pid":"15/8202","text":"Shaofeng Li"},{"@pid":"77/35-8","text":"Zhen Liu 0008"},{"@pid":"22/5702","text":"Haojin Zhu"}]},"title":"The Philosopher&apos;s Stone: Trojaning Plugins of Large Language Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Dong0CH0L0Z25","ee":"https://www.ndss-symposium.org/ndss-paper/the-philosophers-stone-trojaning-plugins-of-large-language-models/","url":"https://dblp.org/rec/conf/ndss/Dong0CH0L0Z25"},
+"url":"URL#100710"
+},
+{
+"@score":"1",
+"@id":"100711",
+"info":{"authors":{"author":[{"@pid":"99/10801","text":"Wentao Dong"},{"@pid":"137/9780-2","text":"Peipei Jiang 0002"},{"@pid":"191/7808","text":"Huayi Duan"},{"@pid":"18/2771-1","text":"Cong Wang 0001"},{"@pid":"227/7192","text":"Lingchen Zhao"},{"@pid":"75/5723-2","text":"Qian Wang 0002"}]},"title":"Ring of Gyges: Accountable Anonymous Broadcast via Secret-Shared Shuffle.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Dong0D0Z025","ee":"https://www.ndss-symposium.org/ndss-paper/ring-of-gyges-accountable-anonymous-broadcast-via-secret-shared-shuffle/","url":"https://dblp.org/rec/conf/ndss/Dong0D0Z025"},
+"url":"URL#100711"
+},
+{
+"@score":"1",
+"@id":"100712",
+"info":{"authors":{"author":[{"@pid":"301/5896","text":"Yusra Elbitar"},{"@pid":"220/4654","text":"Alexander Hart"},{"@pid":"31/7561","text":"Sven Bugiel"}]},"title":"The Power of Words: A Comprehensive Analysis of Rationales and Their Effects on Users&apos; Permission Decisions.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ElbitarHB25","ee":"https://www.ndss-symposium.org/ndss-paper/the-power-of-words-a-comprehensive-analysis-of-rationales-and-their-effects-on-users-permission-decisions/","url":"https://dblp.org/rec/conf/ndss/ElbitarHB25"},
+"url":"URL#100712"
+},
+{
+"@score":"1",
+"@id":"100713",
+"info":{"authors":{"author":[{"@pid":"26/7995","text":"Christopher Ellis"},{"@pid":"47/722-25","text":"Yue Zhang 0025"},{"@pid":"301/5827","text":"Mohit Kumar Jangid"},{"@pid":"258/4274-2","text":"Shixuan Zhao 0002"},{"@pid":"49/4102-1","text":"Zhiqiang Lin 0001"}]},"title":"Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs &amp; Mitigation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Ellis0J0025","ee":"https://www.ndss-symposium.org/ndss-paper/deanonymizing-device-identities-via-side-channel-attacks-in-exclusive-use-iots-mitigation/","url":"https://dblp.org/rec/conf/ndss/Ellis0J0025"},
+"url":"URL#100713"
+},
+{
+"@score":"1",
+"@id":"100714",
+"info":{"authors":{"author":[{"@pid":"400/4401","text":"Shencha Fan"},{"@pid":"327/9719","text":"Jackson Sippe"},{"@pid":"400/4572","text":"Sakamoto San"},{"@pid":"350/8054","text":"Jade Sheffey"},{"@pid":"116/4822","text":"David Fifield"},{"@pid":"22/1797","text":"Amir Houmansadr"},{"@pid":"400/4987","text":"Elson Wedwards"},{"@pid":"60/8733","text":"Eric Wustrow"}]},"title":"Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/FanSSSFHWW25","ee":"https://www.ndss-symposium.org/ndss-paper/wallbleed-a-memory-disclosure-vulnerability-in-the-great-firewall-of-china/","url":"https://dblp.org/rec/conf/ndss/FanSSSFHWW25"},
+"url":"URL#100714"
+},
+{
+"@score":"1",
+"@id":"100715",
+"info":{"authors":{"author":[{"@pid":"157/0863","text":"Minghong Fang"},{"@pid":"332/1031","text":"Seyedsina Nabavirazavi"},{"@pid":"195/1161","text":"Zhuqing Liu"},{"@pid":"09/5042","text":"Wei Sun"},{"@pid":"i/SSitharamaIyengar","text":"Sundaraja Sitharama Iyengar"},{"@pid":"43/7829-1","text":"Haibo Yang 0001"}]},"title":"Do We Really Need to Design New Byzantine-robust Aggregation Rules?","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/FangNLSI025","ee":"https://www.ndss-symposium.org/ndss-paper/do-we-really-need-to-design-new-byzantine-robust-aggregation-rules/","url":"https://dblp.org/rec/conf/ndss/FangNLSI025"},
+"url":"URL#100715"
+},
+{
+"@score":"1",
+"@id":"100716",
+"info":{"authors":{"author":[{"@pid":"53/8376","text":"Xuewei Feng"},{"@pid":"59/5778","text":"Yuxiang Yang"},{"@pid":"181/2688-2","text":"Qi Li 0002"},{"@pid":"391/6006","text":"Xingxiang Zhan"},{"@pid":"30/3530-1","text":"Kun Sun 0001"},{"@pid":"68/2002","text":"Ziqiang Wang"},{"@pid":"87/3443","text":"Ao Wang"},{"@pid":"391/4777","text":"Ganqiu Du"},{"@pid":"181/2626-2","text":"Ke Xu 0002"}]},"title":"ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/FengY0Z0WWD025","ee":"https://www.ndss-symposium.org/ndss-paper/redan-an-empirical-study-on-remote-dos-attacks-against-nat-networks/","url":"https://dblp.org/rec/conf/ndss/FengY0Z0WWD025"},
+"url":"URL#100716"
+},
+{
+"@score":"1",
+"@id":"100717",
+"info":{"authors":{"author":[{"@pid":"295/0439","text":"Justin Furuness"},{"@pid":"295/1435","text":"Cameron Morris"},{"@pid":"191/7891","text":"Reynaldo Morillo"},{"@pid":"400/4463","text":"Arvind Kasiliya"},{"@pid":"06/1909-1","text":"Bing Wang 0001"},{"@pid":"62/3150","text":"Amir Herzberg"}]},"title":"Securing BGP ASAP: ASPA and other Post-ROV Defenses.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/FurunessMMK0H25","ee":"https://www.ndss-symposium.org/ndss-paper/securing-bgp-asap-aspa-and-other-post-rov-defenses/","url":"https://dblp.org/rec/conf/ndss/FurunessMMK0H25"},
+"url":"URL#100717"
+},
+{
+"@score":"1",
+"@id":"100718",
+"info":{"authors":{"author":[{"@pid":"307/3291","text":"Stefan Gast"},{"@pid":"400/5248","text":"Hannes Weissteiner"},{"@pid":"279/3409","text":"Robin Leander Schröder"},{"@pid":"166/1494","text":"Daniel Gruss"}]},"title":"CounterSEVeillance: Performance-Counter Attacks on AMD SEV-SNP.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GastWSG25","ee":"https://www.ndss-symposium.org/ndss-paper/counterseveillance-performance-counter-attacks-on-amd-sev-snp/","url":"https://dblp.org/rec/conf/ndss/GastWSG25"},
+"url":"URL#100718"
+},
+{
+"@score":"1",
+"@id":"100719",
+"info":{"authors":{"author":[{"@pid":"400/5069","text":"Connor Glosner"},{"@pid":"133/8188","text":"Aravind Machiry"}]},"title":"FUZZUER: Enabling Fuzzing of UEFI Interfaces on EDK-2.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GlosnerM25","ee":"https://www.ndss-symposium.org/ndss-paper/fuzzuer-enabling-fuzzing-of-uefi-interfaces-on-edk-2/","url":"https://dblp.org/rec/conf/ndss/GlosnerM25"},
+"url":"URL#100719"
+},
+{
+"@score":"1",
+"@id":"100720",
+"info":{"authors":{"author":[{"@pid":"213/7355","text":"Vasudev Gohil"},{"@pid":"367/9381","text":"Matthew DeLorenzo"},{"@pid":"393/0207","text":"Veera Vishwa Achuta Sai Venkat Nallam"},{"@pid":"393/5039","text":"Joey See"},{"@pid":"79/9006","text":"Jeyavijayan Rajendran"}]},"title":"LLMPirate: LLMs for Black-box Hardware IP Piracy.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GohilDNSR25","ee":"https://www.ndss-symposium.org/ndss-paper/llmpirate-llms-for-black-box-hardware-ip-piracy/","url":"https://dblp.org/rec/conf/ndss/GohilDNSR25"},
+"url":"URL#100720"
+},
+{
+"@score":"1",
+"@id":"100721",
+"info":{"authors":{"author":[{"@pid":"199/1716","text":"Yichen Gong"},{"@pid":"360/5049","text":"Delong Ran"},{"@pid":"227/7262-1","text":"Xinlei He 0001"},{"@pid":"233/3780","text":"Tianshuo Cong"},{"@pid":"116/4536","text":"Anyu Wang 0001"},{"@pid":"w/XiaoyunWang","text":"Xiaoyun Wang 0001"}]},"title":"Safety Misalignment Against Large Language Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GongR0C0025","ee":"https://www.ndss-symposium.org/ndss-paper/safety-misalignment-against-large-language-models/","url":"https://dblp.org/rec/conf/ndss/GongR0C0025"},
+"url":"URL#100721"
+},
+{
+"@score":"1",
+"@id":"100722",
+"info":{"authors":{"author":[{"@pid":"321/4200","text":"Matthew Gregoire"},{"@pid":"394/4518","text":"Margaret Pierce"},{"@pid":"198/0935","text":"Saba Eskandarian"}]},"title":"Onion Franking: Abuse Reports for Mix-Based Private Messaging.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GregoirePE25","ee":"https://www.ndss-symposium.org/ndss-paper/onion-franking-abuse-reports-for-mix-based-private-messaging/","url":"https://dblp.org/rec/conf/ndss/GregoirePE25"},
+"url":"URL#100722"
+},
+{
+"@score":"1",
+"@id":"100723",
+"info":{"authors":{"author":[{"@pid":"06/6808","text":"Fangming Gu"},{"@pid":"157/1827","text":"Qingli Guo"},{"@pid":"39/2936","text":"Jie Lu"},{"@pid":"400/4779","text":"Qinghe Xie"},{"@pid":"207/5433","text":"Beibei Zhao"},{"@pid":"67/10639","text":"Kangjie Lu"},{"@pid":"93/6234","text":"Hong Li"},{"@pid":"33/10782","text":"Xiaorui Gong"}]},"title":"Sheep&apos;s Clothing, Wolf&apos;s Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GuGLXZLLG25","ee":"https://www.ndss-symposium.org/ndss-paper/sheeps-clothing-wolfs-data-detecting-server-induced-client-vulnerabilities-in-windows-remote-ipc/","url":"https://dblp.org/rec/conf/ndss/GuGLXZLLG25"},
+"url":"URL#100723"
+},
+{
+"@score":"1",
+"@id":"100724",
+"info":{"authors":{"author":[{"@pid":"164/9677","text":"Xiangyu Guo"},{"@pid":"400/4745","text":"Akshay Kawlay"},{"@pid":"54/6550","text":"Eric Liu"},{"@pid":"l/DavidLie","text":"David Lie"}]},"title":"EvoCrawl: Exploring Web Application Code and State using Evolutionary Search.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GuoKLL25","ee":"https://www.ndss-symposium.org/ndss-paper/evocrawl-exploring-web-application-code-and-state-using-evolutionary-search/","url":"https://dblp.org/rec/conf/ndss/GuoKLL25"},
+"url":"URL#100724"
+},
+{
+"@score":"1",
+"@id":"100725",
+"info":{"authors":{"author":[{"@pid":"322/3969","text":"Yinggang Guo"},{"@pid":"24/10098","text":"Zicheng Wang"},{"@pid":"353/5181","text":"Weiheng Bai"},{"@pid":"66/3005-2","text":"Qingkai Zeng 0002"},{"@pid":"67/10639","text":"Kangjie Lu"}]},"title":"BULKHEAD: Secure, Scalable, and Efficient Kernel Compartmentalization with PKS.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/GuoWB0L25","ee":"https://www.ndss-symposium.org/ndss-paper/bulkhead-secure-scalable-and-efficient-kernel-compartmentalization-with-pks/","url":"https://dblp.org/rec/conf/ndss/GuoWB0L25"},
+"url":"URL#100725"
+},
+{
+"@score":"1",
+"@id":"100726",
+"info":{"authors":{"author":[{"@pid":"361/1652","text":"Maria Hellenthal"},{"@pid":"400/5258","text":"Lena Gotsche"},{"@pid":"353/7605","text":"Rafael Mrowczynski"},{"@pid":"400/4708","text":"Sarah Kugel"},{"@pid":"40/1587","text":"Michael Schilling 0001"},{"@pid":"136/8343","text":"Ben Stock"}]},"title":"The (Un)usual Suspects - Studying Reasons for Lacking Updates in WordPress.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/HellenthalGMK0S25","ee":"https://www.ndss-symposium.org/ndss-paper/the-unusual-suspects-studying-reasons-for-lacking-updates-in-wordpress/","url":"https://dblp.org/rec/conf/ndss/HellenthalGMK0S25"},
+"url":"URL#100726"
+},
+{
+"@score":"1",
+"@id":"100727",
+"info":{"authors":{"author":[{"@pid":"246/4566","text":"René Helmke"},{"@pid":"61/2236","text":"Elmar Padilla"},{"@pid":"93/317","text":"Nils Aschenbruck"}]},"title":"Mens Sana In Corpore Sano: Sound Firmware Corpora for Vulnerability Research.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/HelmkePA25","ee":"https://www.ndss-symposium.org/ndss-paper/mens-sana-in-corpore-sano-sound-firmware-corpora-for-vulnerability-research/","url":"https://dblp.org/rec/conf/ndss/HelmkePA25"},
+"url":"URL#100727"
+},
+{
+"@score":"1",
+"@id":"100728",
+"info":{"authors":{"author":[{"@pid":"400/4039","text":"Jan-Ulrich Holtgrave"},{"@pid":"400/5220","text":"Kay Friedrich"},{"@pid":"400/4324","text":"Fabian Fischer 0009"},{"@pid":"213/7298","text":"Nicolas Huaman"},{"@pid":"273/7091","text":"Niklas Busch"},{"@pid":"325/3232","text":"Jan H. Klemmer"},{"@pid":"138/4883","text":"Marcel Fourné"},{"@pid":"186/0348","text":"Oliver Wiese"},{"@pid":"203/1800","text":"Dominik Wermke"},{"@pid":"38/9378","text":"Sascha Fahl"}]},"title":"Attributing Open-Source Contributions is Critical but Difficult: A Systematic Analysis of GitHub Practices and Their Impact on Software Supply Chain Security.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/HoltgraveFFHBKF25","ee":"https://www.ndss-symposium.org/ndss-paper/attributing-open-source-contributions-is-critical-but-difficult-a-systematic-analysis-of-github-practices-and-their-impact-on-software-supply-chain-security/","url":"https://dblp.org/rec/conf/ndss/HoltgraveFFHBKF25"},
+"url":"URL#100728"
+},
+{
+"@score":"1",
+"@id":"100729",
+"info":{"authors":{"author":[{"@pid":"386/7776","text":"Molly Zhuangtong Huang"},{"@pid":"57/3582","text":"Rui Jiang"},{"@pid":"221/3567","text":"Tanusree Sharma"},{"@pid":"44/6292-17","text":"Kanye Ye Wang"}]},"title":"Exploring User Perceptions of Security Auditing in the Web3 Ecosystem.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/HuangJSW25","ee":"https://www.ndss-symposium.org/ndss-paper/exploring-user-perceptions-of-security-auditing-in-the-web3-ecosystem/","url":"https://dblp.org/rec/conf/ndss/HuangJSW25"},
+"url":"URL#100729"
+},
+{
+"@score":"1",
+"@id":"100730",
+"info":{"authors":{"author":[{"@pid":"263/9985","text":"Jaewon Hur"},{"@pid":"207/1961","text":"Juheon Yi"},{"@pid":"331/2591","text":"Cheolwoo Myung"},{"@pid":"85/6907","text":"Sangyun Kim"},{"@pid":"51/343","text":"Youngki Lee"},{"@pid":"45/7986","text":"Byoungyoung Lee"}]},"title":"DLBox: New Model Training Framework for Protecting Training Data.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/HurYMKLL25","ee":"https://www.ndss-symposium.org/ndss-paper/dlbox-new-model-training-framework-for-protecting-training-data/","url":"https://dblp.org/rec/conf/ndss/HurYMKLL25"},
+"url":"URL#100730"
+},
+{
+"@score":"1",
+"@id":"100731",
+"info":{"authors":{"author":[{"@pid":"11/6484","text":"Yan Jiang"},{"@pid":"39/1697-1","text":"Xiaoyu Ji 0001"},{"@pid":"325/0401","text":"Yancheng Jiang"},{"@pid":"78/2022","text":"Kai Wang"},{"@pid":"94/8865","text":"Chenren Xu"},{"@pid":"10/3878-1","text":"Wenyuan Xu 0001"}]},"title":"PowerRadio: Manipulate Sensor Measurement via Power GND Radiation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Jiang0JWX025","ee":"https://www.ndss-symposium.org/ndss-paper/powerradio-manipulate-sensor-measurement-via-power-gnd-radiation/","url":"https://dblp.org/rec/conf/ndss/Jiang0JWX025"},
+"url":"URL#100731"
+},
+{
+"@score":"1",
+"@id":"100732",
+"info":{"authors":{"author":[{"@pid":"239/4866","text":"Linxi Jiang"},{"@pid":"68/3340","text":"Xin Jin"},{"@pid":"49/4102-1","text":"Zhiqiang Lin 0001"}]},"title":"Beyond Classification: Inferring Function Names in Stripped Binaries via Domain Adapted LLMs.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/JiangJ025","ee":"https://www.ndss-symposium.org/ndss-paper/beyond-classification-inferring-function-names-in-stripped-binaries-via-domain-adapted-llms/","url":"https://dblp.org/rec/conf/ndss/JiangJ025"},
+"url":"URL#100732"
+},
+{
+"@score":"1",
+"@id":"100733",
+"info":{"authors":{"author":[{"@pid":"319/7840","text":"Zizhi Jin"},{"@pid":"262/3567","text":"Qinhong Jiang"},{"@pid":"354/6407","text":"Xuancun Lu"},{"@pid":"46/1162-1","text":"Chen Yan 0001"},{"@pid":"39/1697-1","text":"Xiaoyu Ji 0001"},{"@pid":"10/3878-1","text":"Wenyuan Xu 0001"}]},"title":"PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/JinJL00025","ee":"https://www.ndss-symposium.org/ndss-paper/phantomlidar-cross-modality-signal-injection-attacks-against-lidar/","url":"https://dblp.org/rec/conf/ndss/JinJL00025"},
+"url":"URL#100733"
+},
+{
+"@score":"1",
+"@id":"100734",
+"info":{"authors":{"author":[{"@pid":"68/3340","text":"Xin Jin"},{"@pid":"172/8745","text":"Shiqing Ma"},{"@pid":"49/4102-1","text":"Zhiqiang Lin 0001"}]},"title":"Repurposing Neural Networks for Efficient Cryptographic Computation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/JinM025","ee":"https://www.ndss-symposium.org/ndss-paper/repurposing-neural-networks-for-efficient-cryptographic-computation/","url":"https://dblp.org/rec/conf/ndss/JinM025"},
+"url":"URL#100734"
+},
+{
+"@score":"1",
+"@id":"100735",
+"info":{"authors":{"author":[{"@pid":"207/7615","text":"Jonas Juffinger"},{"@pid":"362/2615","text":"Fabian Rauscher"},{"@pid":"400/5241","text":"Giuseppe La Manna"},{"@pid":"166/1494","text":"Daniel Gruss"}]},"title":"Secret Spilling Drive: Leaking User Behavior through SSD Contention.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/JuffingerRMG25","ee":"https://www.ndss-symposium.org/ndss-paper/secret-spilling-drive-leaking-user-behavior-through-ssd-contention/","url":"https://dblp.org/rec/conf/ndss/JuffingerRMG25"},
+"url":"URL#100735"
+},
+{
+"@score":"1",
+"@id":"100736",
+"info":{"authors":{"author":[{"@pid":"400/4049","text":"Joonkyo Jung"},{"@pid":"322/1323","text":"Jisoo Jang"},{"@pid":"400/4552","text":"Yongwan Jo"},{"@pid":"304/2422","text":"Jonas Vinck"},{"@pid":"137/0215","text":"Alexios Voulimeneas"},{"@pid":"127/6103","text":"Stijn Volckaert"},{"@pid":"210/0976","text":"Dokyung Song"}]},"title":"Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/JungJJVVVS25","ee":"https://www.ndss-symposium.org/ndss-paper/moneta-ex-vivo-gpu-driver-fuzzing-by-recalling-in-vivo-execution-states/","url":"https://dblp.org/rec/conf/ndss/JungJJVVVS25"},
+"url":"URL#100736"
+},
+{
+"@score":"1",
+"@id":"100737",
+"info":{"authors":{"author":[{"@pid":"400/4027","text":"Inon Kaplan"},{"@pid":"319/7665","text":"Ron Even"},{"@pid":"98/3396","text":"Amit Klein 0001"}]},"title":"You Can Rand but You Can&apos;t Hide: A Holistic Security Analysis of Google Fuchsia&apos;s (and gVisor&apos;s) Network Stack.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KaplanE025","ee":"https://www.ndss-symposium.org/ndss-paper/you-can-rand-but-you-cant-hide-a-holistic-security-analysis-of-google-fuchsias-and-gvisors-network-stack/","url":"https://dblp.org/rec/conf/ndss/KaplanE025"},
+"url":"URL#100737"
+},
+{
+"@score":"1",
+"@id":"100738",
+"info":{"authors":{"author":[{"@pid":"400/4038","text":"Andes Y. L. Kei"},{"@pid":"c/ShermanSMChow","text":"Sherman S. M. Chow"}]},"title":"SHAFT: Secure, Handy, Accurate and Fast Transformer Inference.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KeiC25","ee":"https://www.ndss-symposium.org/ndss-paper/shaft-secure-handy-accurate-and-fast-transformer-inference/","url":"https://dblp.org/rec/conf/ndss/KeiC25"},
+"url":"URL#100738"
+},
+{
+"@score":"1",
+"@id":"100739",
+"info":{"authors":{"author":[{"@pid":"246/4771","text":"Soheil Khodayari"},{"@pid":"400/4686","text":"Kai Glauber"},{"@pid":"35/9056","text":"Giancarlo Pellegrino"}]},"title":"Do (Not) Follow the White Rabbit: Challenging the Myth of Harmless Open Redirection.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KhodayariGP25","ee":"https://www.ndss-symposium.org/ndss-paper/do-not-follow-the-white-rabbit-challenging-the-myth-of-harmless-open-redirection/","url":"https://dblp.org/rec/conf/ndss/KhodayariGP25"},
+"url":"URL#100739"
+},
+{
+"@score":"1",
+"@id":"100740",
+"info":{"authors":{"author":[{"@pid":"220/5405","text":"Byeongwook Kim"},{"@pid":"263/9985","text":"Jaewon Hur"},{"@pid":"205/3202","text":"Adil Ahmad"},{"@pid":"45/7986","text":"Byoungyoung Lee"}]},"title":"Secure Data Analytics in Apache Spark with Fine-grained Policy Enforcement and Isolated Execution.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KimHAL25","ee":"https://www.ndss-symposium.org/ndss-paper/secure-data-analytics-in-apache-spark-with-fine-grained-policy-enforcement-and-isolated-execution/","url":"https://dblp.org/rec/conf/ndss/KimHAL25"},
+"url":"URL#100740"
+},
+{
+"@score":"1",
+"@id":"100741",
+"info":{"authors":{"author":[{"@pid":"332/2935","text":"Sian Kim"},{"@pid":"381/1578","text":"Seyed Mohammad Mehdi Mirnajafizadeh"},{"@pid":"84/6149","text":"Bara Kim"},{"@pid":"202/9093","text":"Rhongho Jang"},{"@pid":"13/3903","text":"DaeHun Nyang"}]},"title":"SketchFeature: High-Quality Per-Flow Feature Extractor Towards Security-Aware Data Plane.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KimMKJN25","ee":"https://www.ndss-symposium.org/ndss-paper/sketchfeature-high-quality-per-flow-feature-extractor-towards-security-aware-data-plane/","url":"https://dblp.org/rec/conf/ndss/KimMKJN25"},
+"url":"URL#100741"
+},
+{
+"@score":"1",
+"@id":"100742",
+"info":{"authors":{"author":[{"@pid":"211/4792","text":"Daniel Klischies"},{"@pid":"371/2757","text":"Philipp Mackensen"},{"@pid":"20/11342","text":"Veelasha Moonsamy"}]},"title":"Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KlischiesMM25","ee":"https://www.ndss-symposium.org/ndss-paper/vulnerability-where-art-thou-an-investigation-of-vulnerability-management-in-android-smartphone-chipsets/","url":"https://dblp.org/rec/conf/ndss/KlischiesMM25"},
+"url":"URL#100742"
+},
+{
+"@score":"1",
+"@id":"100743",
+"info":{"authors":{"author":[{"@pid":"241/3655","text":"Zelun Kong"},{"@pid":"195/7457","text":"Minkyung Park"},{"@pid":"137/5266","text":"Le Guan"},{"@pid":"181/2597-17","text":"Ning Zhang 0017"},{"@pid":"122/2010","text":"Chung Hwan Kim"}]},"title":"TZ-DATASHIELD: Automated Data Protection for Embedded Systems via Data-Flow-Based Compartmentalization.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KongPG0K25","ee":"https://www.ndss-symposium.org/ndss-paper/tz-datashield-automated-data-protection-for-embedded-systems-via-data-flow-based-compartmentalization/","url":"https://dblp.org/rec/conf/ndss/KongPG0K25"},
+"url":"URL#100743"
+},
+{
+"@score":"1",
+"@id":"100744",
+"info":{"authors":{"author":[{"@pid":"44/10958","text":"Platon Kotzias"},{"@pid":"245/9101","text":"Michalis Pachilakis"},{"@pid":"152/2371","text":"Javier Aldana-Iuit"},{"@pid":"35/3587","text":"Juan Caballero"},{"@pid":"165/2039","text":"Iskander Sánchez-Rola"},{"@pid":"15/6037","text":"Leyla Bilge"}]},"title":"Ctrl+Alt+Deceive: Quantifying User Exposure to Online Scams.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KotziasPACSB25","ee":"https://www.ndss-symposium.org/ndss-paper/ctrlaltdeceive-quantifying-user-exposure-to-online-scams/","url":"https://dblp.org/rec/conf/ndss/KotziasPACSB25"},
+"url":"URL#100744"
+},
+{
+"@score":"1",
+"@id":"100745",
+"info":{"authors":{"author":[{"@pid":"124/3795","text":"Kavita Kumari"},{"@pid":"360/0060","text":"Maryam Abbasihafshejani"},{"@pid":"344/3222","text":"Alessandro Pegoraro"},{"@pid":"283/4641","text":"Phillip Rieger"},{"@pid":"351/0486","text":"Kamyar Arshi"},{"@pid":"09/5967","text":"Murtuza Jadliwala"},{"@pid":"s/AhmadRezaSadeghi","text":"Ahmad-Reza Sadeghi"}]},"title":"VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/KumariAPRAJS25","ee":"https://www.ndss-symposium.org/ndss-paper/voiceradar-voice-deepfake-detection-using-micro-frequency-and-compositional-analysis/","url":"https://dblp.org/rec/conf/ndss/KumariAPRAJS25"},
+"url":"URL#100745"
+},
+{
+"@score":"1",
+"@id":"100746",
+"info":{"authors":{"author":[{"@pid":"301/5833","text":"Leona Lassak"},{"@pid":"382/4288","text":"Hanna Püschel"},{"@pid":"344/8727","text":"Oliver D. Reithmaier"},{"@pid":"221/7142","text":"Tobias Gostomzyk"},{"@pid":"36/3665","text":"Markus Dürmuth"}]},"title":"Balancing Privacy and Data Utilization: A Comparative Vignette Study on User Acceptance of Data Trustees in Germany and the US.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LassakPRGD25","ee":"https://www.ndss-symposium.org/ndss-paper/balancing-privacy-and-data-utilization-a-comparative-vignette-study-on-user-acceptance-of-data-trustees-in-germany-and-the-us/","url":"https://dblp.org/rec/conf/ndss/LassakPRGD25"},
+"url":"URL#100746"
+},
+{
+"@score":"1",
+"@id":"100747",
+"info":{"authors":{"author":[{"@pid":"256/4676","text":"Zeyu Lei"},{"@pid":"118/3426","text":"Güliz Seray Tuncay"},{"@pid":"400/4283","text":"Beatrice Carissa Williem"},{"@pid":"143/2298","text":"Z. Berkay Celik"},{"@pid":"99/3883","text":"Antonio Bianchi"}]},"title":"ScopeVerif: Analyzing the Security of Android&apos;s Scoped Storage via Differential Analysis.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LeiTWCB25","ee":"https://www.ndss-symposium.org/ndss-paper/scopeverif-analyzing-the-security-of-androids-scoped-storage-via-differential-analysis/","url":"https://dblp.org/rec/conf/ndss/LeiTWCB25"},
+"url":"URL#100747"
+},
+{
+"@score":"1",
+"@id":"100748",
+"info":{"authors":{"author":[{"@pid":"290/4045","text":"Matteo Leonelli"},{"@pid":"309/4549","text":"Addison Crump"},{"@pid":"93/6765","text":"Meng Wang"},{"@pid":"387/0971","text":"Florian Bauckholt"},{"@pid":"335/2439","text":"Keno Hassler"},{"@pid":"73/2297-2","text":"Ali Abbasi 0002"},{"@pid":"h/ThorstenHolz","text":"Thorsten Holz"}]},"title":"TWINFUZZ: Differential Testing of Video Hardware Acceleration Stacks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LeonelliCWBH0H25","ee":"https://www.ndss-symposium.org/ndss-paper/twinfuzz-differential-testing-of-video-hardware-acceleration-stacks/","url":"https://dblp.org/rec/conf/ndss/LeonelliCWBH0H25"},
+"url":"URL#100748"
+},
+{
+"@score":"1",
+"@id":"100749",
+"info":{"authors":{"author":[{"@pid":"86/6196","text":"Yuan Li"},{"@pid":"94/3019-8","text":"Chao Zhang 0008"},{"@pid":"239/8352","text":"Jinhao Zhu"},{"@pid":"81/8013-1","text":"Penghui Li 0001"},{"@pid":"15/1523","text":"Chenyang Li"},{"@pid":"150/3809","text":"Songtao Yang"},{"@pid":"228/6653","text":"Wende Tan"}]},"title":"VulShield: Protecting Vulnerable Code Before Deploying Patches.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Li0ZLLYT25","ee":"https://www.ndss-symposium.org/ndss-paper/vulshield-protecting-vulnerable-code-before-deploying-patches/","url":"https://dblp.org/rec/conf/ndss/Li0ZLLYT25"},
+"url":"URL#100749"
+},
+{
+"@score":"1",
+"@id":"100750",
+"info":{"authors":{"author":[{"@pid":"322/0007","text":"Adrian Shuai Li"},{"@pid":"i/ArunIyengar","text":"Arun Iyengar"},{"@pid":"65/4168","text":"Ashish Kundu"},{"@pid":"b/ElisaBertino","text":"Elisa Bertino"}]},"title":"Revisiting Concept Drift in Windows Malware Detection: Adaptation to Real Drifted Malware with Minimal Samples.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiIKB25","ee":"https://www.ndss-symposium.org/ndss-paper/revisiting-concept-drift-in-windows-malware-detection-adaptation-to-real-drifted-malware-with-minimal-samples/","url":"https://dblp.org/rec/conf/ndss/LiIKB25"},
+"url":"URL#100750"
+},
+{
+"@score":"1",
+"@id":"100751",
+"info":{"authors":{"author":[{"@pid":"77/8119","text":"Caihua Li"},{"@pid":"129/9942","text":"Seung-Seob Lee"},{"@pid":"27/2552-1","text":"Lin Zhong 0001"}]},"title":"Blindfold: Confidential Memory Management by Untrusted Operating System.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiL025","ee":"https://www.ndss-symposium.org/ndss-paper/blindfold-confidential-memory-management-by-untrusted-operating-system/","url":"https://dblp.org/rec/conf/ndss/LiL025"},
+"url":"URL#100751"
+},
+{
+"@score":"1",
+"@id":"100752",
+"info":{"authors":{"author":[{"@pid":"46/1349","text":"Xiaoguang Li"},{"@pid":"220/3927","text":"Zitao Li"},{"@pid":"l/NinghuiLi","text":"Ninghui Li"},{"@pid":"130/3626","text":"Wenhai Sun"}]},"title":"On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiLLS25","ee":"https://www.ndss-symposium.org/ndss-paper/on-the-robustness-of-ldp-protocols-for-numerical-attributes-under-data-poisoning-attacks/","url":"https://dblp.org/rec/conf/ndss/LiLLS25"},
+"url":"URL#100752"
+},
+{
+"@score":"1",
+"@id":"100753",
+"info":{"authors":{"author":[{"@pid":"12/3242","text":"Jiawei Li"},{"@pid":"173/5146","text":"Jiahao Liu"},{"@pid":"09/193","text":"Jian Mao"},{"@pid":"04/1346-6","text":"Jun Zeng 0006"},{"@pid":"99/4951","text":"Zhenkai Liang"}]},"title":"UI-CTX: Understanding UI Behaviors with Code Contexts for Mobile Applications.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiLMZL25","ee":"https://www.ndss-symposium.org/ndss-paper/ui-ctx-understanding-ui-behaviors-with-code-contexts-for-mobile-applications/","url":"https://dblp.org/rec/conf/ndss/LiLMZL25"},
+"url":"URL#100753"
+},
+{
+"@score":"1",
+"@id":"100754",
+"info":{"authors":{"author":[{"@pid":"49/1510","text":"Xiaochen Li"},{"@pid":"148/4477","text":"Zhan Qin"},{"@pid":"20/6179-1","text":"Kui Ren 0001"},{"@pid":"21/8587-5","text":"Chen Gong 0005"},{"@pid":"298/9381","text":"Shuya Feng"},{"@pid":"79/5433-1","text":"Yuan Hong 0001"},{"@pid":"145/3288-1","text":"Tianhao Wang 0001"}]},"title":"Delay-allowed Differentially Private Data Stream Release.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiQ00F0025","ee":"https://www.ndss-symposium.org/ndss-paper/delay-allowed-differentially-private-data-stream-release/","url":"https://dblp.org/rec/conf/ndss/LiQ00F0025"},
+"url":"URL#100754"
+},
+{
+"@score":"1",
+"@id":"100755",
+"info":{"authors":{"author":[{"@pid":"277/8174","text":"Ruishi Li"},{"@pid":"72/6811","text":"Bo Wang"},{"@pid":"92/9835","text":"Tianyu Li"},{"@pid":"90/105","text":"Prateek Saxena"},{"@pid":"65/4168","text":"Ashish Kundu"}]},"title":"Translating C To Rust: Lessons from a User Study.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiWLSK25","ee":"https://www.ndss-symposium.org/ndss-paper/translating-c-to-rust-lessons-from-a-user-study/","url":"https://dblp.org/rec/conf/ndss/LiWLSK25"},
+"url":"URL#100755"
+},
+{
+"@score":"1",
+"@id":"100756",
+"info":{"authors":{"author":[{"@pid":"11/444","text":"Wenhao Li"},{"@pid":"34/5354","text":"Jiahao Wang"},{"@pid":"163/3092","text":"Guoming Zhang"},{"@pid":"187/1683","text":"Yanni Yang"},{"@pid":"149/2739","text":"Riccardo Spolaor"},{"@pid":"c/XiuzhenCheng","text":"Xiuzhen Cheng 0001"},{"@pid":"71/9969-1","text":"Pengfei Hu 0001"}]},"title":"EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiWZYS0025","ee":"https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/","url":"https://dblp.org/rec/conf/ndss/LiWZYS0025"},
+"url":"URL#100756"
+},
+{
+"@score":"1",
+"@id":"100757",
+"info":{"authors":{"author":[{"@pid":"332/0890","text":"Kevin van Liebergen"},{"@pid":"301/7960","text":"Gibran Gómez"},{"@pid":"117/1997","text":"Srdjan Matic"},{"@pid":"35/3587","text":"Juan Caballero"}]},"title":"All your (data)base are belong to us: Characterizing Database Ransom(ware) Attacks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiebergenGMC25","ee":"https://www.ndss-symposium.org/ndss-paper/all-your-database-are-belong-to-us-characterizing-database-ransomware-attacks/","url":"https://dblp.org/rec/conf/ndss/LiebergenGMC25"},
+"url":"URL#100757"
+},
+{
+"@score":"1",
+"@id":"100758",
+"info":{"authors":{"author":[{"@pid":"353/7582","text":"Miaoqian Lin"},{"@pid":"c/KaiChen12","text":"Kai Chen 0012"},{"@pid":"33/4854","text":"Yi Yang"},{"@pid":"71/10082","text":"Jinghua Liu"}]},"title":"Uncovering the iceberg from the tip: Generating API Specifications for Bug Detection via Specification Propagation Analysis.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Lin0YL25","ee":"https://www.ndss-symposium.org/ndss-paper/uncovering-the-iceberg-from-the-tip-generating-api-specifications-for-bug-detection-via-specification-propagation-analysis/","url":"https://dblp.org/rec/conf/ndss/Lin0YL25"},
+"url":"URL#100758"
+},
+{
+"@score":"1",
+"@id":"100759",
+"info":{"authors":{"author":[{"@pid":"88/6731","text":"Jie Lin"},{"@pid":"70/2832","text":"David Mohaisen"}]},"title":"From Large to Mammoth: A Comparative Evaluation of Large Language Models in Vulnerability Detection.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LinM25","ee":"https://www.ndss-symposium.org/ndss-paper/from-large-to-mammoth-a-comparative-evaluation-of-large-language-models-in-vulnerability-detection/","url":"https://dblp.org/rec/conf/ndss/LinM25"},
+"url":"URL#100759"
+},
+{
+"@score":"1",
+"@id":"100760",
+"info":{"authors":{"author":[{"@pid":"52/4581","text":"Qi Ling"},{"@pid":"50/10309","text":"Yujun Liang"},{"@pid":"75/6568","text":"Yi Ren"},{"@pid":"31/11029","text":"Baris Kasikci"},{"@pid":"197/1353","text":"Shuwen Deng"}]},"title":"GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LingLRKD25","ee":"https://www.ndss-symposium.org/ndss-paper/gadgetmeter-quantitatively-and-accurately-gauging-the-exploitability-of-speculative-gadgets/","url":"https://dblp.org/rec/conf/ndss/LingLRKD25"},
+"url":"URL#100760"
+},
+{
+"@score":"1",
+"@id":"100761",
+"info":{"authors":{"author":[{"@pid":"83/8785","text":"Yizhong Liu"},{"@pid":"291/1511","text":"Andi Liu"},{"@pid":"10/5980-1","text":"Yuan Lu 0001"},{"@pid":"368/7479","text":"Zhuocheng Pan"},{"@pid":"166/5937","text":"Yinuo Li"},{"@pid":"43/3771-1","text":"Jianwei Liu 0001"},{"@pid":"179/7914","text":"Song Bian 0001"},{"@pid":"82/4386","text":"Mauro Conti"}]},"title":"Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiuL0PL00C25","ee":"https://www.ndss-symposium.org/ndss-paper/kronos-a-secure-and-generic-sharding-blockchain-consensus-with-optimized-overhead/","url":"https://dblp.org/rec/conf/ndss/LiuL0PL00C25"},
+"url":"URL#100761"
+},
+{
+"@score":"1",
+"@id":"100762",
+"info":{"authors":{"author":[{"@pid":"374/1187","text":"Taifeng Liu"},{"@pid":"51/3710-118","text":"Yang Liu 0118"},{"@pid":"91/7448-1","text":"Zhuo Ma 0001"},{"@pid":"44/7710-3","text":"Tong Yang 0003"},{"@pid":"193/2620","text":"Xinjing Liu"},{"@pid":"09/6669-3","text":"Teng Li 0003"},{"@pid":"12/6604-1","text":"Jianfeng Ma 0001"}]},"title":"L-HAWK: A Controllable Physical Adversarial Patch Against a Long-Distance Target.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiuLM0L0025","ee":"https://www.ndss-symposium.org/ndss-paper/l-hawk-a-controllable-physical-adversarial-patch-against-a-long-distance-target/","url":"https://dblp.org/rec/conf/ndss/LiuLM0L0025"},
+"url":"URL#100762"
+},
+{
+"@score":"1",
+"@id":"100763",
+"info":{"authors":{"author":[{"@pid":"199/6695","text":"Ziwen Liu"},{"@pid":"09/193","text":"Jian Mao"},{"@pid":"04/1346-6","text":"Jun Zeng 0006"},{"@pid":"12/3242","text":"Jiawei Li"},{"@pid":"243/3828","text":"Qixiao Lin"},{"@pid":"173/5146","text":"Jiahao Liu"},{"@pid":"15/3840","text":"Jianwei Zhuge"},{"@pid":"99/4951","text":"Zhenkai Liang"}]},"title":"ProvGuard: Detecting SDN Control Policy Manipulation via Contextual Semantics of Provenance Graphs.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiuMZLLLZL25","ee":"https://www.ndss-symposium.org/ndss-paper/provguard-detecting-sdn-control-policy-manipulation-via-contextual-semantics-of-provenance-graphs/","url":"https://dblp.org/rec/conf/ndss/LiuMZLLLZL25"},
+"url":"URL#100763"
+},
+{
+"@score":"1",
+"@id":"100764",
+"info":{"authors":{"author":[{"@pid":"250/6764","text":"Dazhuang Liu"},{"@pid":"322/9220","text":"Yanqi Qiao"},{"@pid":"06/2293-70","text":"Rui Wang 0070"},{"@pid":"126/6037","text":"Kaitai Liang"},{"@pid":"88/6355","text":"Georgios Smaragdakis"}]},"title":"LADDER: Multi-Objective Backdoor Attack via Evolutionary Algorithm.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiuQ0LS25","ee":"https://www.ndss-symposium.org/ndss-paper/ladder-multi-objective-backdoor-attack-via-evolutionary-algorithm/","url":"https://dblp.org/rec/conf/ndss/LiuQ0LS25"},
+"url":"URL#100764"
+},
+{
+"@score":"1",
+"@id":"100765",
+"info":{"authors":{"author":[{"@pid":"339/1659","text":"Zhanpeng Liu"},{"@pid":"34/4919","text":"Yi Rong"},{"@pid":"15/1523","text":"Chenyang Li"},{"@pid":"228/6653","text":"Wende Tan"},{"@pid":"86/6196","text":"Yuan Li"},{"@pid":"38/2577","text":"Xinhui Han"},{"@pid":"150/3809","text":"Songtao Yang"},{"@pid":"94/3019-8","text":"Chao Zhang 0008"}]},"title":"CCTAG: Configurable and Combinable Tagged Architecture.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiuRLTLHY025","ee":"https://www.ndss-symposium.org/ndss-paper/cctag-configurable-and-combinable-tagged-architecture/","url":"https://dblp.org/rec/conf/ndss/LiuRLTLHY025"},
+"url":"URL#100765"
+},
+{
+"@score":"1",
+"@id":"100766",
+"info":{"authors":{"author":[{"@pid":"71/10082","text":"Jinghua Liu"},{"@pid":"33/4854","text":"Yi Yang"},{"@pid":"c/KaiChen12","text":"Kai Chen 0012"},{"@pid":"353/7582","text":"Miaoqian Lin"}]},"title":"Generating API Parameter Security Rules with LLM for API Misuse Detection.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiuY0L25","ee":"https://www.ndss-symposium.org/ndss-paper/generating-api-parameter-security-rules-with-llm-for-api-misuse-detection/","url":"https://dblp.org/rec/conf/ndss/LiuY0L25"},
+"url":"URL#100766"
+},
+{
+"@score":"1",
+"@id":"100767",
+"info":{"authors":{"author":[{"@pid":"385/6824","text":"Hangtian Liu"},{"@pid":"86/5344","text":"Lei Zheng"},{"@pid":"153/0205","text":"Shuitao Gan"},{"@pid":"94/3019-8","text":"Chao Zhang 0008"},{"@pid":"263/9668","text":"Zicong Gao"},{"@pid":"15/693","text":"Hongqi Zhang"},{"@pid":"272/7212","text":"Yishun Zeng"},{"@pid":"129/1178","text":"Zhiyuan Jiang"},{"@pid":"62/2814","text":"Jiahai Yang"}]},"title":"EAGLEYE: Exposing Hidden Web Interfaces in IoT Devices via Routing Analysis.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LiuZG0GZZJY25","ee":"https://www.ndss-symposium.org/ndss-paper/eagleye-exposing-hidden-web-interfaces-in-iot-devices-via-routing-analysis/","url":"https://dblp.org/rec/conf/ndss/LiuZG0GZZJY25"},
+"url":"URL#100767"
+},
+{
+"@score":"1",
+"@id":"100768",
+"info":{"authors":{"author":[{"@pid":"231/4234","text":"Wen-jie Lu"},{"@pid":"128/9270","text":"Zhicong Huang"},{"@pid":"203/2388","text":"Zhen Gu"},{"@pid":"83/4644","text":"Jingyu Li"},{"@pid":"35/295-12","text":"Jian Liu 0012"},{"@pid":"78/10002-1","text":"Cheng Hong 0001"},{"@pid":"20/6179-1","text":"Kui Ren 0001"},{"@pid":"64/5099","text":"Tao Wei"},{"@pid":"60/810","text":"Wenguang Chen"}]},"title":"BumbleBee: Secure Two-party Inference Framework for Large Transformers.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LuHGL000WC25","ee":"https://www.ndss-symposium.org/ndss-paper/bumblebee-secure-two-party-inference-framework-for-large-transformers/","url":"https://dblp.org/rec/conf/ndss/LuHGL000WC25"},
+"url":"URL#100768"
+},
+{
+"@score":"1",
+"@id":"100769",
+"info":{"authors":{"author":[{"@pid":"305/8993","text":"Tianpei Lu"},{"@pid":"65/7564","text":"Bingsheng Zhang"},{"@pid":"12/2965","text":"Xiaoyuan Zhang"},{"@pid":"20/6179-1","text":"Kui Ren 0001"}]},"title":"A New PPML Paradigm for Quantized Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/LuZZ025","ee":"https://www.ndss-symposium.org/ndss-paper/a-new-ppml-paradigm-for-quantized-models/","url":"https://dblp.org/rec/conf/ndss/LuZZ025"},
+"url":"URL#100769"
+},
+{
+"@score":"1",
+"@id":"100770",
+"info":{"authors":{"author":[{"@pid":"204/8454","text":"Chenke Luo"},{"@pid":"09/6585-2","text":"Jiang Ming 0002"},{"@pid":"175/2667","text":"Mengfei Xie"},{"@pid":"30/4066","text":"Guojun Peng"},{"@pid":"44/2489","text":"Jianming Fu"}]},"title":"Retrofitting XoM for Stripped Binaries without Embedded Data Relocation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Luo0XPF25","ee":"https://www.ndss-symposium.org/ndss-paper/retrofitting-xom-for-stripped-binaries-without-embedded-data-relocation/","url":"https://dblp.org/rec/conf/ndss/Luo0XPF25"},
+"url":"URL#100770"
+},
+{
+"@score":"1",
+"@id":"100771",
+"info":{"authors":{"author":[{"@pid":"249/4978","text":"Zheyu Ma"},{"@pid":"61/3234-34","text":"Qiang Liu 0034"},{"@pid":"62/7776","text":"Zheming Li"},{"@pid":"40/4177","text":"Tingting Yin"},{"@pid":"228/6653","text":"Wende Tan"},{"@pid":"94/3019-8","text":"Chao Zhang 0008"},{"@pid":"31/1273","text":"Mathias Payer"}]},"title":"Truman: Constructing Device Behavior Models from OS Drivers to Fuzz Virtual Devices.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Ma0LYT0P25","ee":"https://www.ndss-symposium.org/ndss-paper/truman-constructing-device-behavior-models-from-os-drivers-to-fuzz-virtual-devices/","url":"https://dblp.org/rec/conf/ndss/Ma0LYT0P25"},
+"url":"URL#100771"
+},
+{
+"@score":"1",
+"@id":"100772",
+"info":{"authors":{"author":[{"@pid":"50/2019","text":"Shang Ma"},{"@pid":"245/3270","text":"Chaoran Chen"},{"@pid":"141/0090","text":"Shao Yang"},{"@pid":"177/8001","text":"Shifu Hou"},{"@pid":"158/9197","text":"Toby Jia-Jun Li"},{"@pid":"13/9656","text":"Xusheng Xiao"},{"@pid":"x/TaoXie","text":"Tao Xie 0001"},{"@pid":"07/4509","text":"Yanfang Ye 0001"}]},"title":"Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/MaCYHLX0025","ee":"https://www.ndss-symposium.org/ndss-paper/careful-about-what-app-promotion-ads-recommend-detecting-and-explaining-malware-promotion-via-app-promotion-graph/","url":"https://dblp.org/rec/conf/ndss/MaCYHLX0025"},
+"url":"URL#100772"
+},
+{
+"@score":"1",
+"@id":"100773",
+"info":{"authors":{"author":[{"@pid":"279/2838","text":"Eman Maali"},{"@pid":"127/7110","text":"Omar Alrawi"},{"@pid":"m/JulieAMcCann","text":"Julie A. McCann"}]},"title":"Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/MaaliAM25","ee":"https://www.ndss-symposium.org/ndss-paper/evaluating-machine-learning-based-iot-device-identification-models-for-security-applications/","url":"https://dblp.org/rec/conf/ndss/MaaliAM25"},
+"url":"URL#100773"
+},
+{
+"@score":"1",
+"@id":"100774",
+"info":{"authors":{"author":[{"@pid":"362/2411","text":"Lukas Maar"},{"@pid":"207/7615","text":"Jonas Juffinger"},{"@pid":"400/5276","text":"Thomas Steinbauer"},{"@pid":"166/1494","text":"Daniel Gruss"},{"@pid":"91/4831","text":"Stefan Mangard"}]},"title":"KernelSnitch: Side Channel-Attacks on Kernel Data Structures.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/MaarJSGM25","ee":"https://www.ndss-symposium.org/ndss-paper/kernelsnitch-side-channel-attacks-on-kernel-data-structures/","url":"https://dblp.org/rec/conf/ndss/MaarJSGM25"},
+"url":"URL#100774"
+},
+{
+"@score":"1",
+"@id":"100775",
+"info":{"authors":{"author":[{"@pid":"371/2757","text":"Philipp Mackensen"},{"@pid":"276/5458","text":"Paul Staat"},{"@pid":"181/2340-4","text":"Stefan Roth 0004"},{"@pid":"12/218","text":"Aydin Sezgin"},{"@pid":"p/ChristofPaar","text":"Christof Paar"},{"@pid":"20/11342","text":"Veelasha Moonsamy"}]},"title":"Spatial-Domain Wireless Jamming with Reconfigurable Intelligent Surfaces.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/MackensenS0SPM25","ee":"https://www.ndss-symposium.org/ndss-paper/spatial-domain-wireless-jamming-with-reconfigurable-intelligent-surfaces/","url":"https://dblp.org/rec/conf/ndss/MackensenS0SPM25"},
+"url":"URL#100775"
+},
+{
+"@score":"1",
+"@id":"100776",
+"info":{"authors":{"author":[{"@pid":"264/5290","text":"Matteo Marini"},{"@pid":"32/9698","text":"Daniele Cono D&apos;Elia"},{"@pid":"31/1273","text":"Mathias Payer"},{"@pid":"24/2123","text":"Leonardo Querzoni"}]},"title":"QMSan: Efficiently Detecting Uninitialized Memory Errors During Fuzzing.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/MariniDPQ25","ee":"https://www.ndss-symposium.org/ndss-paper/qmsan-efficiently-detecting-uninitialized-memory-errors-during-fuzzing/","url":"https://dblp.org/rec/conf/ndss/MariniDPQ25"},
+"url":"URL#100776"
+},
+{
+"@score":"1",
+"@id":"100777",
+"info":{"authors":{"author":[{"@pid":"336/5377","text":"Xuanji Meng"},{"@pid":"320/2137","text":"Xiao Sui"},{"@pid":"242/8778","text":"Zhaoxin Yang"},{"@pid":"121/8364","text":"Kang Rong"},{"@pid":"81/4590-2","text":"Wenbo Xu 0002"},{"@pid":"198/7854","text":"Shenglong Chen"},{"@pid":"77/4933-2","text":"Ying Yan 0002"},{"@pid":"146/0078","text":"Sisi Duan"}]},"title":"Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/MengSYR0C0D25","ee":"https://www.ndss-symposium.org/ndss-paper/rondo-scalable-and-reconfiguration-friendly-randomness-beacon/","url":"https://dblp.org/rec/conf/ndss/MengSYR0C0D25"},
+"url":"URL#100777"
+},
+{
+"@score":"1",
+"@id":"100778",
+"info":{"authors":{"author":[{"@pid":"400/4980","text":"Myungsuk Moon"},{"@pid":"209/6622","text":"Minhee Kim"},{"@pid":"400/4049","text":"Joonkyo Jung"},{"@pid":"210/0976","text":"Dokyung Song"}]},"title":"ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/MoonKJS25","ee":"https://www.ndss-symposium.org/ndss-paper/asgard-protecting-on-device-deep-neural-networks-with-virtualization-based-trusted-execution-environments/","url":"https://dblp.org/rec/conf/ndss/MoonKJS25"},
+"url":"URL#100778"
+},
+{
+"@score":"1",
+"@id":"100779",
+"info":{"authors":{"author":[{"@pid":"179/0339","text":"Dung Thuy Nguyen"},{"@pid":"259/8194","text":"Ngoc N. Tran"},{"@pid":"96/11505","text":"Taylor T. Johnson"},{"@pid":"133/3698","text":"Kevin Leach"}]},"title":"PBP: Post-training Backdoor Purification for Malware Classifiers.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/NguyenTJL25","ee":"https://www.ndss-symposium.org/ndss-paper/pbp-post-training-backdoor-purification-for-malware-classifiers/","url":"https://dblp.org/rec/conf/ndss/NguyenTJL25"},
+"url":"URL#100779"
+},
+{
+"@score":"1",
+"@id":"100780",
+"info":{"authors":{"author":[{"@pid":"381/1695","text":"Mathias Oberhuber"},{"@pid":"326/0603","text":"Martin Unterguggenberger"},{"@pid":"362/2411","text":"Lukas Maar"},{"@pid":"280/4649","text":"Andreas Kogler"},{"@pid":"91/4831","text":"Stefan Mangard"}]},"title":"Power-Related Side-Channel Attacks using the Android Sensor Framework.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/OberhuberUMKM25","ee":"https://www.ndss-symposium.org/ndss-paper/power-related-side-channel-attacks-using-the-android-sensor-framework/","url":"https://dblp.org/rec/conf/ndss/OberhuberUMKM25"},
+"url":"URL#100780"
+},
+{
+"@score":"1",
+"@id":"100781",
+"info":{"authors":{"author":[{"@pid":"392/3274","text":"Jens Opdenbusch"},{"@pid":"296/3944","text":"Jonas Hielscher"},{"@pid":"s/MASasse","text":"M. Angela Sasse"}]},"title":"&quot;Where Are We On Cyber?&quot; - A Qualitative Study On Boards&apos; Cybersecurity Risk Decision Making.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/OpdenbuschHS25","ee":"https://www.ndss-symposium.org/ndss-paper/where-are-we-on-cyber-a-qualitative-study-on-boards-cybersecurity-risk-decision-making/","url":"https://dblp.org/rec/conf/ndss/OpdenbuschHS25"},
+"url":"URL#100781"
+},
+{
+"@score":"1",
+"@id":"100782",
+"info":{"authors":{"author":[{"@pid":"35/1106","text":"Yan Pang"},{"@pid":"145/3288-1","text":"Tianhao Wang 0001"}]},"title":"Black-box Membership Inference Attacks against Fine-tuned Diffusion Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Pang025","ee":"https://www.ndss-symposium.org/ndss-paper/black-box-membership-inference-attacks-against-fine-tuned-diffusion-models/","url":"https://dblp.org/rec/conf/ndss/Pang025"},
+"url":"URL#100782"
+},
+{
+"@score":"1",
+"@id":"100783",
+"info":{"authors":{"author":[{"@pid":"35/1106","text":"Yan Pang"},{"@pid":"162/1393","text":"Aiping Xiong"},{"@pid":"06/6785-16","text":"Yang Zhang 0016"},{"@pid":"145/3288-1","text":"Tianhao Wang 0001"}]},"title":"Towards Understanding Unsafe Video Generation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/PangX0025","ee":"https://www.ndss-symposium.org/ndss-paper/towards-understanding-unsafe-video-generation/","url":"https://dblp.org/rec/conf/ndss/PangX0025"},
+"url":"URL#100783"
+},
+{
+"@score":"1",
+"@id":"100784",
+"info":{"authors":{"author":[{"@pid":"392/3205","text":"Magdalena Pasternak"},{"@pid":"250/9724","text":"Kevin Warren"},{"@pid":"320/8828","text":"Daniel Olszewski"},{"@pid":"158/4169","text":"Susan Nittrouer"},{"@pid":"14/3295","text":"Patrick Traynor"},{"@pid":"82/1935","text":"Kevin R. B. Butler"}]},"title":"Characterizing the Impact of Audio Deepfakes in the Presence of Cochlear Implant.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/PasternakWONTB25","ee":"https://www.ndss-symposium.org/ndss-paper/characterizing-the-impact-of-audio-deepfakes-in-the-presence-of-cochlear-implant/","url":"https://dblp.org/rec/conf/ndss/PasternakWONTB25"},
+"url":"URL#100784"
+},
+{
+"@score":"1",
+"@id":"100785",
+"info":{"authors":{"author":[{"@pid":"227/2618","text":"Eric Pauley"},{"@pid":"318/2839","text":"Kyle Domico"},{"@pid":"293/7182","text":"Blaine Hoak"},{"@pid":"195/5821","text":"Ryan Sheatsley"},{"@pid":"55/8327-2","text":"Quinn Burke 0002"},{"@pid":"265/2278","text":"Yohan Beugin"},{"@pid":"k/EnginKirda","text":"Engin Kirda"},{"@pid":"m/PatrickDrewMcDaniel","text":"Patrick D. McDaniel"}]},"title":"Secure IP Address Allocation at Cloud Scale.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/PauleyDHS0BKM25","ee":"https://www.ndss-symposium.org/ndss-paper/secure-ip-address-allocation-at-cloud-scale/","url":"https://dblp.org/rec/conf/ndss/PauleyDHS0BKM25"},
+"url":"URL#100785"
+},
+{
+"@score":"1",
+"@id":"100786",
+"info":{"authors":{"author":[{"@pid":"122/5631","text":"Yuefeng Peng"},{"@pid":"342/2869","text":"Ali Naseh"},{"@pid":"22/1797","text":"Amir Houmansadr"}]},"title":"Diffence: Fencing Membership Privacy With Diffusion Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/PengNH25","ee":"https://www.ndss-symposium.org/ndss-paper/diffence-fencing-membership-privacy-with-diffusion-models/","url":"https://dblp.org/rec/conf/ndss/PengNH25"},
+"url":"URL#100786"
+},
+{
+"@score":"1",
+"@id":"100787",
+"info":{"authors":{"author":[{"@pid":"224/7335","text":"Stijn Pletinckx"},{"@pid":"k/ChristopherKruegel","text":"Christopher Kruegel"},{"@pid":"v/GiovanniVigna","text":"Giovanni Vigna"}]},"title":"A Large-Scale Measurement Study of the PROXY Protocol and its Security Implications.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/PletinckxKV25","ee":"https://www.ndss-symposium.org/ndss-paper/a-large-scale-measurement-study-of-the-proxy-protocol-and-its-security-implications/","url":"https://dblp.org/rec/conf/ndss/PletinckxKV25"},
+"url":"URL#100787"
+},
+{
+"@score":"1",
+"@id":"100788",
+"info":{"authors":{"author":[{"@pid":"142/1169","text":"Yue Qin"},{"@pid":"80/6791-7","text":"Yue Xiao 0007"},{"@pid":"129/1113","text":"Xiaojing Liao"}]},"title":"Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Qin0L25","ee":"https://www.ndss-symposium.org/ndss-paper/automated-expansion-of-privacy-data-taxonomy-for-compliant-data-breach-notification/","url":"https://dblp.org/rec/conf/ndss/Qin0L25"},
+"url":"URL#100788"
+},
+{
+"@score":"1",
+"@id":"100789",
+"info":{"authors":{"author":[{"@pid":"362/2615","text":"Fabian Rauscher"},{"@pid":"400/4295","text":"Carina Fiedler"},{"@pid":"280/4649","text":"Andreas Kogler"},{"@pid":"166/1494","text":"Daniel Gruss"}]},"title":"A Systematic Evaluation of Novel and Existing Cache Side Channels.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/RauscherFKG25","ee":"https://www.ndss-symposium.org/ndss-paper/a-systematic-evaluation-of-novel-and-existing-cache-side-channels/","url":"https://dblp.org/rec/conf/ndss/RauscherFKG25"},
+"url":"URL#100789"
+},
+{
+"@score":"1",
+"@id":"100790",
+"info":{"authors":{"author":[{"@pid":"169/4595","text":"Yanze Ren"},{"@pid":"262/3567","text":"Qinhong Jiang"},{"@pid":"46/1162-1","text":"Chen Yan 0001"},{"@pid":"39/1697-1","text":"Xiaoyu Ji 0001"},{"@pid":"10/3878-1","text":"Wenyuan Xu 0001"}]},"title":"GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/RenJ00025","ee":"https://www.ndss-symposium.org/ndss-paper/ghostshot-manipulating-the-image-of-ccd-cameras-with-electromagnetic-interference/","url":"https://dblp.org/rec/conf/ndss/RenJ00025"},
+"url":"URL#100790"
+},
+{
+"@score":"1",
+"@id":"100791",
+"info":{"authors":{"author":[{"@pid":"283/4641","text":"Phillip Rieger"},{"@pid":"344/3222","text":"Alessandro Pegoraro"},{"@pid":"124/3795","text":"Kavita Kumari"},{"@pid":"180/3674","text":"Tigist Abera"},{"@pid":"386/7872","text":"Jonathan Knauer"},{"@pid":"s/AhmadRezaSadeghi","text":"Ahmad-Reza Sadeghi"}]},"title":"SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/RiegerPKAKS25","ee":"https://www.ndss-symposium.org/ndss-paper/safesplit-a-novel-defense-against-client-side-backdoor-attacks-in-split-learning/","url":"https://dblp.org/rec/conf/ndss/RiegerPKAKS25"},
+"url":"URL#100791"
+},
+{
+"@score":"1",
+"@id":"100792",
+"info":{"authors":{"author":[{"@pid":"354/7992","text":"Maryam Rostamipoor"},{"@pid":"238/1681","text":"Seyedhamed Ghavamnia"},{"@pid":"09/1231","text":"Michalis Polychronakis"}]},"title":"LeakLess: Selective Data Protection against Memory Leakage Attacks for Serverless Platforms.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/RostamipoorGP25","ee":"https://www.ndss-symposium.org/ndss-paper/leakless-selective-data-protection-against-memory-leakage-attacks-for-serverless-platforms/","url":"https://dblp.org/rec/conf/ndss/RostamipoorGP25"},
+"url":"URL#100792"
+},
+{
+"@score":"1",
+"@id":"100793",
+"info":{"authors":{"author":[{"@pid":"306/1347","text":"Sena Sahin"},{"@pid":"192/0397","text":"Burak Sahin"},{"@pid":"53/10825","text":"Frank Li 0001"}]},"title":"Was This You? Investigating the Design Considerations for Suspicious Login Notifications.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/SahinS025","ee":"https://www.ndss-symposium.org/ndss-paper/was-this-you-investigating-the-design-considerations-for-suspicious-login-notifications/","url":"https://dblp.org/rec/conf/ndss/SahinS025"},
+"url":"URL#100793"
+},
+{
+"@score":"1",
+"@id":"100794",
+"info":{"authors":{"author":[{"@pid":"212/7432","text":"Takami Sato"},{"@pid":"94/909","text":"Ryo Suzuki"},{"@pid":"75/9299","text":"Yuki Hayakawa"},{"@pid":"66/2007","text":"Kazuma Ikeda"},{"@pid":"400/5019","text":"Ozora Sako"},{"@pid":"400/4582","text":"Rokuto Nagata"},{"@pid":"44/2367","text":"Ryo Yoshida"},{"@pid":"150/3272","text":"Qi Alfred Chen"},{"@pid":"38/7609","text":"Kentaro Yoshioka"}]},"title":"On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/SatoSHISNYCY25","ee":"https://www.ndss-symposium.org/ndss-paper/on-the-realism-of-lidar-spoofing-attacks-against-autonomous-driving-vehicle-at-high-speed-and-long-distance/","url":"https://dblp.org/rec/conf/ndss/SatoSHISNYCY25"},
+"url":"URL#100794"
+},
+{
+"@score":"1",
+"@id":"100795",
+"info":{"authors":{"author":[{"@pid":"306/8308","text":"Giulia Scaffino"},{"@pid":"265/9073","text":"Lukas Aumayr"},{"@pid":"308/5805","text":"Mahsa Bastankhah"},{"@pid":"183/6375","text":"Zeta Avarikioti"},{"@pid":"25/3571","text":"Matteo Maffei"}]},"title":"Alba: The Dawn of Scalable Bridges for Blockchains.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ScaffinoABAM25","ee":"https://www.ndss-symposium.org/ndss-paper/alba-the-dawn-of-scalable-bridges-for-blockchains/","url":"https://dblp.org/rec/conf/ndss/ScaffinoABAM25"},
+"url":"URL#100795"
+},
+{
+"@score":"1",
+"@id":"100796",
+"info":{"authors":{"author":[{"@pid":"350/8174","text":"Sirus Shahini"},{"@pid":"37/2827","text":"Robert Ricci"}]},"title":"CHAOS: Exploiting Station Time Synchronization in 802.11 Networks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ShahiniR25","ee":"https://www.ndss-symposium.org/ndss-paper/chaos-exploiting-station-time-synchronization-in-802-11-networks/","url":"https://dblp.org/rec/conf/ndss/ShahiniR25"},
+"url":"URL#100796"
+},
+{
+"@score":"1",
+"@id":"100797",
+"info":{"authors":{"author":[{"@pid":"125/7842","text":"Jing Shang"},{"@pid":"39/449","text":"Jian Wang"},{"@pid":"249/5772","text":"Kailun Wang"},{"@pid":"27/4749","text":"Jiqiang Liu"},{"@pid":"06/4489","text":"Nan Jiang"},{"@pid":"218/7648","text":"Md. Armanuzzaman"},{"@pid":"11/7704-1","text":"Ziming Zhao 0001"}]},"title":"Defending Against Membership Inference Attacks on Iteratively Pruned Deep Neural Networks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ShangWWLJA025","ee":"https://www.ndss-symposium.org/ndss-paper/defending-against-membership-inference-attacks-on-iteratively-pruned-deep-neural-networks/","url":"https://dblp.org/rec/conf/ndss/ShangWWLJA025"},
+"url":"URL#100797"
+},
+{
+"@score":"1",
+"@id":"100798",
+"info":{"authors":{"author":[{"@pid":"280/7981","text":"Shanghao Shi"},{"@pid":"46/2005-22","text":"Ning Wang 0022"},{"@pid":"181/1848-10","text":"Yang Xiao 0010"},{"@pid":"256/7393","text":"Chaoyu Zhang"},{"@pid":"00/3680-1","text":"Yi Shi 0001"},{"@pid":"h/YTHou","text":"Y. Thomas Hou 0001"},{"@pid":"73/3673","text":"Wenjing Lou"}]},"title":"Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Shi00Z00L25","ee":"https://www.ndss-symposium.org/ndss-paper/scale-mia-a-scalable-model-inversion-attack-against-secure-federated-learning-via-latent-space-reconstruction/","url":"https://dblp.org/rec/conf/ndss/Shi00Z00L25"},
+"url":"URL#100798"
+},
+{
+"@score":"1",
+"@id":"100799",
+"info":{"authors":{"author":[{"@pid":"118/4779","text":"Ruisheng Shi"},{"@pid":"193/1602","text":"Zhiyuan Peng"},{"@pid":"05/10049","text":"Lina Lan"},{"@pid":"374/9829","text":"Yulian Ge"},{"@pid":"21/6121-5","text":"Peng Liu 0005"},{"@pid":"35/1647","text":"Qin Wang"},{"@pid":"74/3634-6","text":"Juan Wang 0006"}]},"title":"Eclipse Attacks on Monero&apos;s Peer-to-Peer Network.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ShiPLG0W025","ee":"https://www.ndss-symposium.org/ndss-paper/eclipse-attacks-on-moneros-peer-to-peer-network/","url":"https://dblp.org/rec/conf/ndss/ShiPLG0W025"},
+"url":"URL#100799"
+},
+{
+"@score":"1",
+"@id":"100800",
+"info":{"authors":{"author":[{"@pid":"266/4297","text":"Yizhe Shi"},{"@pid":"55/11040","text":"Zhemin Yang"},{"@pid":"400/4952","text":"Kangwei Zhong"},{"@pid":"153/5855","text":"Guangliang Yang 0001"},{"@pid":"83/89","text":"Yifan Yang"},{"@pid":"96/6053-1","text":"Xiaohan Zhang 0001"},{"@pid":"02/1640-2","text":"Min Yang 0002"}]},"title":"The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ShiYZ0Y0025","ee":"https://www.ndss-symposium.org/ndss-paper/the-skeleton-keys-a-large-scale-analysis-of-credential-leakage-in-mini-apps/","url":"https://dblp.org/rec/conf/ndss/ShiYZ0Y0025"},
+"url":"URL#100800"
+},
+{
+"@score":"1",
+"@id":"100801",
+"info":{"authors":{"author":[{"@pid":"246/9380","text":"He Shuang"},{"@pid":"140/6495","text":"Lianying Zhao"},{"@pid":"l/DavidLie","text":"David Lie"}]},"title":"Duumviri: Detecting Trackers and Mixed Trackers with a Breakage Detector.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ShuangZL25","ee":"https://www.ndss-symposium.org/ndss-paper/duumviri-detecting-trackers-and-mixed-trackers-with-a-breakage-detector/","url":"https://dblp.org/rec/conf/ndss/ShuangZL25"},
+"url":"URL#100801"
+},
+{
+"@score":"1",
+"@id":"100802",
+"info":{"authors":{"author":[{"@pid":"329/6082","text":"Christian van Sloun"},{"@pid":"400/5277","text":"Vincent Woeste"},{"@pid":"215/5849","text":"Konrad Wolsing"},{"@pid":"182/4743","text":"Jan Pennekamp"},{"@pid":"w/KlausWehrle","text":"Klaus Wehrle"}]},"title":"Detecting Ransomware Despite I/O Overhead: A Practical Multi-Staged Approach.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/SlounWWPW25","ee":"https://www.ndss-symposium.org/ndss-paper/detecting-ransomware-despite-i-o-overhead-a-practical-multi-staged-approach/","url":"https://dblp.org/rec/conf/ndss/SlounWWPW25"},
+"url":"URL#100802"
+},
+{
+"@score":"1",
+"@id":"100803",
+"info":{"authors":{"author":[{"@pid":"259/3559","text":"Qiyang Song"},{"@pid":"78/7690-1","text":"Heqing Huang 0001"},{"@pid":"41/761","text":"Xiaoqi Jia"},{"@pid":"327/7534","text":"Yuanbo Xie"},{"@pid":"218/8811","text":"Jiahao Cao"}]},"title":"Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Song0JXC25","ee":"https://www.ndss-symposium.org/ndss-paper/silence-false-alarms-identifying-anti-reentrancy-patterns-on-ethereum-to-refine-smart-contract-reentrancy-detection/","url":"https://dblp.org/rec/conf/ndss/Song0JXC25"},
+"url":"URL#100803"
+},
+{
+"@score":"1",
+"@id":"100804",
+"info":{"authors":{"author":[{"@pid":"248/0375","text":"Shixin Song"},{"@pid":"249/2614","text":"Joseph Zhang"},{"@pid":"137/0590","text":"Mengjia Yan 0001"}]},"title":"Oreo: Protecting ASLR Against Microarchitectural Attacks.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/SongZ025","ee":"https://www.ndss-symposium.org/ndss-paper/oreo-protecting-aslr-against-microarchitectural-attacks/","url":"https://dblp.org/rec/conf/ndss/SongZ025"},
+"url":"URL#100804"
+},
+{
+"@score":"1",
+"@id":"100805",
+"info":{"authors":{"author":[{"@pid":"381/1630","text":"Aleksei Stafeev"},{"@pid":"400/4621","text":"Tim Recktenwald"},{"@pid":"376/3400","text":"Gianluca De Stefano"},{"@pid":"246/4771","text":"Soheil Khodayari"},{"@pid":"35/9056","text":"Giancarlo Pellegrino"}]},"title":"YuraScanner: Leveraging LLMs for Task-driven Web App Scanning.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/StafeevRSKP25","ee":"https://www.ndss-symposium.org/ndss-paper/yurascanner-leveraging-llms-for-task-driven-web-app-scanning/","url":"https://dblp.org/rec/conf/ndss/StafeevRSKP25"},
+"url":"URL#100805"
+},
+{
+"@score":"1",
+"@id":"100806",
+"info":{"authors":{"author":[{"@pid":"350/5168","text":"Ka Fun Tang"},{"@pid":"400/4958","text":"Che Wei Tu"},{"@pid":"400/5272","text":"Sui Ling Angela Mak"},{"@pid":"201/9242","text":"Sze Yiu Chau"}]},"title":"A Multifaceted Study on the Use of TLS and Auto-detect in Email Ecosystems.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/TangTMC25","ee":"https://www.ndss-symposium.org/ndss-paper/a-multifaceted-study-on-the-use-of-tls-and-auto-detect-in-email-ecosystems/","url":"https://dblp.org/rec/conf/ndss/TangTMC25"},
+"url":"URL#100806"
+},
+{
+"@score":"1",
+"@id":"100807",
+"info":{"authors":{"author":[{"@pid":"400/4647","text":"Yunpeng Tian"},{"@pid":"62/2555-8","text":"Feng Dong 0008"},{"@pid":"400/4617","text":"Haoyi Liu"},{"@pid":"75/4287","text":"Meng Xu"},{"@pid":"140/5462","text":"Zhiniang Peng"},{"@pid":"400/5330","text":"Zesen Ye"},{"@pid":"55/10036","text":"Shenghui Li"},{"@pid":"53/1565","text":"Xiapu Luo"},{"@pid":"50/8499-1","text":"Haoyu Wang 0001"}]},"title":"Be Careful of What You Embed: Demystifying OLE Vulnerabilities.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Tian0LXPYLLW25","ee":"https://www.ndss-symposium.org/ndss-paper/be-careful-of-what-you-embed-demystifying-ole-vulnerabilities/","url":"https://dblp.org/rec/conf/ndss/Tian0LXPYLLW25"},
+"url":"URL#100807"
+},
+{
+"@score":"1",
+"@id":"100808",
+"info":{"authors":{"author":[{"@pid":"209/1549","text":"Jianwen Tian"},{"@pid":"32/1695","text":"Wei Kong"},{"@pid":"60/206","text":"Debin Gao"},{"@pid":"51/6856","text":"Tong Wang"},{"@pid":"318/8367","text":"Taotao Gu"},{"@pid":"254/7430","text":"Kefan Qiu"},{"@pid":"95/6543-14","text":"Zhi Wang 0014"},{"@pid":"18/1267","text":"Xiaohui Kuang"}]},"title":"Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/TianKGWGQ0K25","ee":"https://www.ndss-symposium.org/ndss-paper/density-boosts-everything-a-one-stop-strategy-for-improving-performance-robustness-and-sustainability-of-malware-detectors/","url":"https://dblp.org/rec/conf/ndss/TianKGWGQ0K25"},
+"url":"URL#100808"
+},
+{
+"@score":"1",
+"@id":"100809",
+"info":{"authors":{"author":[{"@pid":"273/0653","text":"Anqi Tian"},{"@pid":"216/6079","text":"Peifang Ni"},{"@pid":"295/8444","text":"Yingzi Gao"},{"@pid":"07/1951-2","text":"Jing Xu 0002"}]},"title":"Horcrux: Synthesize, Split, Shift and Stay Alive; Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/TianNG025","ee":"https://www.ndss-symposium.org/ndss-paper/horcrux-synthesize-split-shift-and-stay-alive-preventing-channel-depletion-via-universal-and-enhanced-multi-hop-payments/","url":"https://dblp.org/rec/conf/ndss/TianNG025"},
+"url":"URL#100809"
+},
+{
+"@score":"1",
+"@id":"100810",
+"info":{"authors":{"author":[{"@pid":"329/6688","text":"Leon Trampert"},{"@pid":"04/5465-7","text":"Daniel Weber 0007"},{"@pid":"156/3555","text":"Lukas Gerlach 0001"},{"@pid":"08/6024","text":"Christian Rossow"},{"@pid":"08/1117-1","text":"Michael Schwarz 0001"}]},"title":"Cascading Spy Sheets: Exploiting the Complexity of Modern CSS for Email and Browser Fingerprinting.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Trampert00R025","ee":"https://www.ndss-symposium.org/ndss-paper/cascading-spy-sheets-exploiting-the-complexity-of-modern-css-for-email-and-browser-fingerprinting/","url":"https://dblp.org/rec/conf/ndss/Trampert00R025"},
+"url":"URL#100810"
+},
+{
+"@score":"1",
+"@id":"100811",
+"info":{"authors":{"author":[{"@pid":"230/1098","text":"Maximilian von Tschirschnitz"},{"@pid":"303/6647","text":"Ludwig Peuckert"},{"@pid":"400/4977","text":"Moritz Buhl"},{"@pid":"28/3855","text":"Jens Grossklags"}]},"title":"Rediscovering Method Confusion in Proposed Security Fixes for Bluetooth.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/TschirschnitzPB25","ee":"https://www.ndss-symposium.org/ndss-paper/rediscovering-method-confusion-in-proposed-security-fixes-for-bluetooth/","url":"https://dblp.org/rec/conf/ndss/TschirschnitzPB25"},
+"url":"URL#100811"
+},
+{
+"@score":"1",
+"@id":"100812",
+"info":{"authors":{"author":[{"@pid":"335/5811","text":"Tyler Tucker"},{"@pid":"308/2301","text":"Nathaniel Bennett"},{"@pid":"265/6132","text":"Martin Kotuliak"},{"@pid":"294/8778","text":"Simon Erni"},{"@pid":"51/1639","text":"Srdjan Capkun"},{"@pid":"82/1935","text":"Kevin R. B. Butler"},{"@pid":"14/3295","text":"Patrick Traynor"}]},"title":"Detecting IMSI-Catchers by Characterizing Identity Exposing Messages in Cellular Traffic.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/TuckerBKECBT25","ee":"https://www.ndss-symposium.org/ndss-paper/detecting-imsi-catchers-by-characterizing-identity-exposing-messages-in-cellular-traffic/","url":"https://dblp.org/rec/conf/ndss/TuckerBKECBT25"},
+"url":"URL#100812"
+},
+{
+"@score":"1",
+"@id":"100813",
+"info":{"authors":{"author":[{"@pid":"326/0603","text":"Martin Unterguggenberger"},{"@pid":"220/3453","text":"Lukas Lamster"},{"@pid":"272/7215","text":"David Schrammel"},{"@pid":"223/9857","text":"Martin Schwarzl"},{"@pid":"91/4831","text":"Stefan Mangard"}]},"title":"TME-Box: Scalable In-Process Isolation through Intel TME-MK Memory Encryption.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Unterguggenberger25","ee":"https://www.ndss-symposium.org/ndss-paper/tme-box-scalable-in-process-isolation-through-intel-tme-mk-memory-encryption/","url":"https://dblp.org/rec/conf/ndss/Unterguggenberger25"},
+"url":"URL#100813"
+},
+{
+"@score":"1",
+"@id":"100814",
+"info":{"authors":{"author":[{"@pid":"380/9200","text":"Corban Villa"},{"@pid":"314/5471","text":"Constantine Doumanidis"},{"@pid":"345/7780","text":"Hithem Lamri"},{"@pid":"244/5063","text":"Prashant Hari Narayan Rajput"},{"@pid":"56/1494","text":"Michail Maniatakos"}]},"title":"ICSQuartz: Scan Cycle-Aware and Vendor-Agnostic Fuzzing for Industrial Control Systems.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/VillaDLRM25","ee":"https://www.ndss-symposium.org/ndss-paper/icsquartz-scan-cycle-aware-and-vendor-agnostic-fuzzing-for-industrial-control-systems/","url":"https://dblp.org/rec/conf/ndss/VillaDLRM25"},
+"url":"URL#100814"
+},
+{
+"@score":"1",
+"@id":"100815",
+"info":{"authors":{"author":[{"@pid":"400/4177","text":"Liam Wachter"},{"@pid":"400/4171","text":"Julian Gremminger"},{"@pid":"136/8406","text":"Christian Wressnegger"},{"@pid":"31/1273","text":"Mathias Payer"},{"@pid":"88/9958","text":"Flavio Toffalini"}]},"title":"DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WachterGWPT25","ee":"https://www.ndss-symposium.org/ndss-paper/dumpling-fine-grained-differential-javascript-engine-fuzzing/","url":"https://dblp.org/rec/conf/ndss/WachterGWPT25"},
+"url":"URL#100815"
+},
+{
+"@score":"1",
+"@id":"100816",
+"info":{"authors":{"author":[{"@pid":"170/8837","text":"Derui Wang"},{"@pid":"166/1912","text":"Minhui Xue 0001"},{"@pid":"50/3402-26","text":"Bo Li 0026"},{"@pid":"55/3548","text":"Seyit Camtepe"},{"@pid":"52/4318-1","text":"Liming Zhu 0001"}]},"title":"Provably Unlearnable Data Examples.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Wang00C025","ee":"https://www.ndss-symposium.org/ndss-paper/provably-unlearnable-data-examples/","url":"https://dblp.org/rec/conf/ndss/Wang00C025"},
+"url":"URL#100816"
+},
+{
+"@score":"1",
+"@id":"100817",
+"info":{"authors":{"author":[{"@pid":"67/3317","text":"Miaomiao Wang"},{"@pid":"120/6837","text":"Guang Hua 0001"},{"@pid":"23/3439-6","text":"Sheng Li 0006"},{"@pid":"44/2296","text":"Guorui Feng"}]},"title":"A Key-Driven Framework for Identity-Preserving Face Anonymization.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Wang00F25","ee":"https://www.ndss-symposium.org/ndss-paper/a-key-driven-framework-for-identity-preserving-face-anonymization/","url":"https://dblp.org/rec/conf/ndss/Wang00F25"},
+"url":"URL#100817"
+},
+{
+"@score":"1",
+"@id":"100818",
+"info":{"authors":{"author":[{"@pid":"92/4243","text":"Zhongming Wang"},{"@pid":"22/4460-1","text":"Tao Xiang 0001"},{"@pid":"176/6509","text":"Xiaoguo Li"},{"@pid":"171/1026","text":"Biwen Chen"},{"@pid":"78/2235","text":"Guomin Yang"},{"@pid":"87/5241-1","text":"Chuan Ma 0001"},{"@pid":"d/RobertHDeng","text":"Robert H. Deng"}]},"title":"Impact Tracing: Identifying the Culprit of Misinformation in Encrypted Messaging Systems.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Wang0LCY0D25","ee":"https://www.ndss-symposium.org/ndss-paper/impact-tracing-identifying-the-culprit-of-misinformation-in-encrypted-messaging-systems/","url":"https://dblp.org/rec/conf/ndss/Wang0LCY0D25"},
+"url":"URL#100818"
+},
+{
+"@score":"1",
+"@id":"100819",
+"info":{"authors":{"author":[{"@pid":"231/1852","text":"Yongpan Wang"},{"@pid":"93/6234-4","text":"Hong Li 0004"},{"@pid":"148/4491","text":"Xiaojie Zhu"},{"@pid":"63/9705","text":"Siyuan Li"},{"@pid":"337/2228","text":"Chaopeng Dong"},{"@pid":"189/2409","text":"Shouguo Yang"},{"@pid":"392/4165","text":"Kangyuan Qin"}]},"title":"BinEnhance: An Enhancement Framework Based on External Environment Semantics for Binary Code Search.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Wang0ZLDYQ25","ee":"https://www.ndss-symposium.org/ndss-paper/binenhance-an-enhancement-framework-based-on-external-environment-semantics-for-binary-code-search/","url":"https://dblp.org/rec/conf/ndss/Wang0ZLDYQ25"},
+"url":"URL#100819"
+},
+{
+"@score":"1",
+"@id":"100820",
+"info":{"authors":{"author":[{"@pid":"68/2002","text":"Ziqiang Wang"},{"@pid":"53/8376","text":"Xuewei Feng"},{"@pid":"181/2688-2","text":"Qi Li 0002"},{"@pid":"30/3530-1","text":"Kun Sun 0001"},{"@pid":"59/5778","text":"Yuxiang Yang"},{"@pid":"157/4437","text":"Mengyuan Li"},{"@pid":"391/4777","text":"Ganqiu Du"},{"@pid":"181/2626-2","text":"Ke Xu 0002"},{"@pid":"82/4905","text":"Jianping Wu"}]},"title":"Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangF00YLD0W25","ee":"https://www.ndss-symposium.org/ndss-paper/off-path-tcp-hijacking-in-wi-fi-networks-a-packet-size-side-channel-attack/","url":"https://dblp.org/rec/conf/ndss/WangF00YLD0W25"},
+"url":"URL#100820"
+},
+{
+"@score":"1",
+"@id":"100821",
+"info":{"authors":{"author":[{"@pid":"332/4313","text":"Haoqiang Wang"},{"@pid":"74/10236","text":"Yiwei Fang"},{"@pid":"72/8807","text":"Yichen Liu"},{"@pid":"169/4634","text":"Ze Jin"},{"@pid":"400/4229","text":"Emma Delph"},{"@pid":"22/5535","text":"Xiaojiang Du"},{"@pid":"66/1298","text":"Qixu Liu"},{"@pid":"34/8412","text":"Luyi Xing"}]},"title":"Hidden and Lost Control: on Security Design Risks in IoT User-Facing Matter Controller.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangFLJDDLX25","ee":"https://www.ndss-symposium.org/ndss-paper/hidden-and-lost-control-on-security-design-risks-in-iot-user-facing-matter-controller/","url":"https://dblp.org/rec/conf/ndss/WangFLJDDLX25"},
+"url":"URL#100821"
+},
+{
+"@score":"1",
+"@id":"100822",
+"info":{"authors":{"author":[{"@pid":"28/2128-5","text":"Weili Wang 0005"},{"@pid":"318/7210","text":"Honghan Ji"},{"@pid":"224/0885","text":"Peixuan He"},{"@pid":"57/3892","text":"Yao Zhang"},{"@pid":"50/3141","text":"Ye Wu"},{"@pid":"77/3503","text":"Yinqian Zhang"}]},"title":"WAVEN: WebAssembly Memory Virtualization for Enclaves.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangJHZWZ25","ee":"https://www.ndss-symposium.org/ndss-paper/waven-webassembly-memory-virtualization-for-enclaves/","url":"https://dblp.org/rec/conf/ndss/WangJHZWZ25"},
+"url":"URL#100822"
+},
+{
+"@score":"1",
+"@id":"100823",
+"info":{"authors":{"author":[{"@pid":"392/5823","text":"Xinqian Wang"},{"@pid":"51/5617-2","text":"Xiaoning Liu 0002"},{"@pid":"176/9676","text":"Shangqi Lai"},{"@pid":"94/4423","text":"Xun Yi"},{"@pid":"21/8884","text":"Xingliang Yuan"}]},"title":"SIGuard: Guarding Secure Inference with Post Data Privacy.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangLLYY25","ee":"https://www.ndss-symposium.org/ndss-paper/siguard-guarding-secure-inference-with-post-data-privacy/","url":"https://dblp.org/rec/conf/ndss/WangLLYY25"},
+"url":"URL#100823"
+},
+{
+"@score":"1",
+"@id":"100824",
+"info":{"authors":{"author":[{"@pid":"249/5823","text":"Yuejie Wang"},{"@pid":"381/9170","text":"Qiutong Men"},{"@pid":"257/4745","text":"Yongting Chen"},{"@pid":"120/0018","text":"Jiajin Liu"},{"@pid":"400/4730","text":"Gengyu Chen"},{"@pid":"13/6769-22","text":"Ying Zhang 0022"},{"@pid":"151/5134","text":"Guyue Liu"},{"@pid":"45/4044","text":"Vyas Sekar"}]},"title":"Heimdall: Towards Risk-Aware Network Management Outsourcing.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangMCLC0LS25","ee":"https://www.ndss-symposium.org/ndss-paper/heimdall-towards-risk-aware-network-management-outsourcing/","url":"https://dblp.org/rec/conf/ndss/WangMCLC0LS25"},
+"url":"URL#100824"
+},
+{
+"@score":"1",
+"@id":"100825",
+"info":{"authors":{"author":[{"@pid":"66/8430","text":"Lingzhi Wang"},{"@pid":"74/10776","text":"Xiangmin Shen"},{"@pid":"128/5278","text":"Weijian Li"},{"@pid":"252/3799","text":"Zhenyuan Li"},{"@pid":"90/1136-1","text":"R. Sekar 0001"},{"@pid":"35/2899","text":"Han Liu"},{"@pid":"88/2827-4","text":"Yan Chen 0004"}]},"title":"Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangSLL0L025","ee":"https://www.ndss-symposium.org/ndss-paper/incorporating-gradients-to-rules-towards-lightweight-adaptive-provenance-based-intrusion-detection/","url":"https://dblp.org/rec/conf/ndss/WangSLL0L025"},
+"url":"URL#100825"
+},
+{
+"@score":"1",
+"@id":"100826",
+"info":{"authors":{"author":[{"@pid":"24/4505","text":"Jianqiang Wang"},{"@pid":"93/6765","text":"Meng Wang"},{"@pid":"156/1247","text":"Qinying Wang"},{"@pid":"400/5147","text":"Nils Langius"},{"@pid":"400/4090","text":"Li Shi"},{"@pid":"73/2297-2","text":"Ali Abbasi 0002"},{"@pid":"h/ThorstenHolz","text":"Thorsten Holz"}]},"title":"A Comprehensive Memory Safety Analysis of Bootloaders.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangWWLS0H25","ee":"https://www.ndss-symposium.org/ndss-paper/a-comprehensive-memory-safety-analysis-of-bootloaders/","url":"https://dblp.org/rec/conf/ndss/WangWWLS0H25"},
+"url":"URL#100826"
+},
+{
+"@score":"1",
+"@id":"100827",
+"info":{"authors":{"author":[{"@pid":"232/2229","text":"Ningfei Wang"},{"@pid":"338/6707","text":"Shaoyuan Xie"},{"@pid":"212/7432","text":"Takami Sato"},{"@pid":"218/6969","text":"Yunpeng Luo"},{"@pid":"195/8175","text":"Kaidi Xu"},{"@pid":"150/3272","text":"Qi Alfred Chen"}]},"title":"Revisiting Physical-World Adversarial Attack on Traffic Sign Recognition: A Commercial Systems Perspective.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangXSLXC25","ee":"https://www.ndss-symposium.org/ndss-paper/revisiting-physical-world-adversarial-attack-on-traffic-sign-recognition-a-commercial-systems-perspective/","url":"https://dblp.org/rec/conf/ndss/WangXSLXC25"},
+"url":"URL#100827"
+},
+{
+"@score":"1",
+"@id":"100828",
+"info":{"authors":{"author":[{"@pid":"22/2874","text":"Shuguang Wang"},{"@pid":"88/123","text":"Qian Zhou"},{"@pid":"w/KuiWu","text":"Kui Wu 0001"},{"@pid":"400/4190","text":"Jinghuai Deng"},{"@pid":"88/1600","text":"Dapeng Wu 0001"},{"@pid":"50/3431","text":"Wei-Bin Lee"},{"@pid":"21/1550-1","text":"Jianping Wang 0001"}]},"title":"Interventional Root Cause Analysis of Failures in Multi-Sensor Fusion Perception Systems.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WangZWD0L025","ee":"https://www.ndss-symposium.org/ndss-paper/interventional-root-cause-analysis-of-failures-in-multi-sensor-fusion-perception-systems/","url":"https://dblp.org/rec/conf/ndss/WangZWD0L025"},
+"url":"URL#100828"
+},
+{
+"@score":"1",
+"@id":"100829",
+"info":{"authors":{"author":[{"@pid":"278/8144","text":"Tongxin Wei"},{"@pid":"99/4292","text":"Ding Wang"},{"@pid":"55/10759","text":"Yutong Li"},{"@pid":"99/3759","text":"Yuehuan Wang"}]},"title":"&quot;Who is Trying to Access My Account?&quot; Exploring User Perceptions and Reactions to Risk-based Authentication Notifications.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WeiWLW25","ee":"https://www.ndss-symposium.org/ndss-paper/who-is-trying-to-access-my-account-exploring-user-perceptions-and-reactions-to-risk-based-authentication-notifications/","url":"https://dblp.org/rec/conf/ndss/WeiWLW25"},
+"url":"URL#100829"
+},
+{
+"@score":"1",
+"@id":"100830",
+"info":{"authors":{"author":[{"@pid":"385/9113","text":"Shushang Wen"},{"@pid":"76/5416-9","text":"Yiming Zhang 0009"},{"@pid":"159/3885","text":"Yuxiang Shen"},{"@pid":"49/1389","text":"Bingyu Li"},{"@pid":"36/5143","text":"Haixin Duan"},{"@pid":"57/4208-1","text":"Jingqiang Lin 0001"}]},"title":"Automatic Insecurity: Exploring Email Auto-configuration in the Wild.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WenZSLD025","ee":"https://www.ndss-symposium.org/ndss-paper/automatic-insecurity-exploring-email-auto-configuration-in-the-wild/","url":"https://dblp.org/rec/conf/ndss/WenZSLD025"},
+"url":"URL#100830"
+},
+{
+"@score":"1",
+"@id":"100831",
+"info":{"authors":{"author":[{"@pid":"358/6488","text":"Annika Wilde"},{"@pid":"394/4795","text":"Tim Niklas Gruel"},{"@pid":"57/1338","text":"Claudio Soriente"},{"@pid":"36/1531","text":"Ghassan Karame"}]},"title":"The Forking Way: When TEEs Meet Consensus.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WildeGSK25","ee":"https://www.ndss-symposium.org/ndss-paper/the-forking-way-when-tees-meet-consensus/","url":"https://dblp.org/rec/conf/ndss/WildeGSK25"},
+"url":"URL#100831"
+},
+{
+"@score":"1",
+"@id":"100832",
+"info":{"authors":{"author":[{"@pid":"131/5695","text":"Mengying Wu"},{"@pid":"227/9082","text":"Geng Hong"},{"@pid":"14/7450","text":"Jinsong Chen"},{"@pid":"95/2446","text":"Qi Liu"},{"@pid":"329/5533","text":"Shujun Tang"},{"@pid":"277/4110","text":"Youhao Li"},{"@pid":"89/10754","text":"Baojun Liu"},{"@pid":"36/5143","text":"Haixin Duan"},{"@pid":"02/1640-2","text":"Min Yang 0002"}]},"title":"Revealing the Black Box of Device Search Engine: Scanning Assets, Strategies, and Ethical Consideration.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WuHCLTLLD025","ee":"https://www.ndss-symposium.org/ndss-paper/revealing-the-black-box-of-device-search-engine-scanning-assets-strategies-and-ethical-consideration/","url":"https://dblp.org/rec/conf/ndss/WuHCLTLLD025"},
+"url":"URL#100832"
+},
+{
+"@score":"1",
+"@id":"100833",
+"info":{"authors":{"author":[{"@pid":"01/3193","text":"Xiaoyuan Wu"},{"@pid":"400/4746","text":"Lydia Hu"},{"@pid":"202/7659","text":"Eric Zeng"},{"@pid":"179/4647","text":"Hana Habib"},{"@pid":"32/3440","text":"Lujo Bauer"}]},"title":"Transparency or Information Overload? Evaluating Users&apos; Comprehension and Perceptions of the iOS App Privacy Report.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WuHZHB25","ee":"https://www.ndss-symposium.org/ndss-paper/transparency-or-information-overload-evaluating-users-comprehension-and-perceptions-of-the-ios-app-privacy-report/","url":"https://dblp.org/rec/conf/ndss/WuHZHB25"},
+"url":"URL#100833"
+},
+{
+"@score":"1",
+"@id":"100834",
+"info":{"authors":{"author":[{"@pid":"166/4902","text":"Yuhao Wu"},{"@pid":"23/2758","text":"Franziska Roesner"},{"@pid":"k/TadayoshiKohno","text":"Tadayoshi Kohno"},{"@pid":"181/2597-17","text":"Ning Zhang 0017"},{"@pid":"08/8604-2","text":"Umar Iqbal 0002"}]},"title":"IsolateGPT: An Execution Isolation Architecture for LLM-Based Agentic Systems.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WuRK0025","ee":"https://www.ndss-symposium.org/ndss-paper/isolategpt-an-execution-isolation-architecture-for-llm-based-agentic-systems/","url":"https://dblp.org/rec/conf/ndss/WuRK0025"},
+"url":"URL#100834"
+},
+{
+"@score":"1",
+"@id":"100835",
+"info":{"authors":{"author":[{"@pid":"02/6957","text":"Hongwei Wu"},{"@pid":"16/5608-2","text":"Jianliang Wu 0002"},{"@pid":"40/5102","text":"Ruoyu Wu"},{"@pid":"307/2373","text":"Ayushi Sharma"},{"@pid":"133/8188","text":"Aravind Machiry"},{"@pid":"99/3883","text":"Antonio Bianchi"}]},"title":"VeriBin: Adaptive Verification of Patches at the Binary Level.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WuWWSMB25","ee":"https://www.ndss-symposium.org/ndss-paper/veribin-adaptive-verification-of-patches-at-the-binary-level/","url":"https://dblp.org/rec/conf/ndss/WuWWSMB25"},
+"url":"URL#100835"
+},
+{
+"@score":"1",
+"@id":"100836",
+"info":{"authors":{"author":[{"@pid":"312/5805","text":"Yutong Wu 0009"},{"@pid":"84/6889-2","text":"Jie Zhang 0002"},{"@pid":"26/5304","text":"Florian Kerschbaum"},{"@pid":"77/7902-4","text":"Tianwei Zhang 0004"}]},"title":"THEMIS: Regulating Textual Inversion for Personalized Concept Censorship.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WuZK025","ee":"https://www.ndss-symposium.org/ndss-paper/themis-regulating-textual-inversion-for-personalized-concept-censorship/","url":"https://dblp.org/rec/conf/ndss/WuZK025"},
+"url":"URL#100836"
+},
+{
+"@score":"1",
+"@id":"100837",
+"info":{"authors":{"author":[{"@pid":"400/5243","text":"Guanlong Wu"},{"@pid":"181/2621","text":"Zheng Zhang"},{"@pid":"57/3892","text":"Yao Zhang"},{"@pid":"28/2128-5","text":"Weili Wang 0005"},{"@pid":"161/2037","text":"Jianyu Niu"},{"@pid":"50/3141","text":"Ye Wu"},{"@pid":"77/3503","text":"Yinqian Zhang"}]},"title":"I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/WuZZWNWZ25","ee":"https://www.ndss-symposium.org/ndss-paper/i-know-what-you-asked-prompt-leakage-via-kv-cache-sharing-in-multi-tenant-llm-serving/","url":"https://dblp.org/rec/conf/ndss/WuZZWNWZ25"},
+"url":"URL#100837"
+},
+{
+"@score":"1",
+"@id":"100838",
+"info":{"authors":{"author":[{"@pid":"331/4461","text":"Shaoke Xi"},{"@pid":"224/2742","text":"Tianyi Fu"},{"@pid":"14/3799","text":"Kai Bu"},{"@pid":"08/309","text":"Chunling Yang"},{"@pid":"90/8592","text":"Zhihua Chang"},{"@pid":"70/2079","text":"Wenzhi Chen"},{"@pid":"124/1717","text":"Zhou Ma"},{"@pid":"400/4323","text":"Chongjie Chen"},{"@pid":"36/8328","text":"Yongsheng Shen"},{"@pid":"20/6179-1","text":"Kui Ren 0001"}]},"title":"MineShark: Cryptomining Traffic Detection at Scale.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/XiFBYCCMCS025","ee":"https://www.ndss-symposium.org/ndss-paper/mineshark-cryptomining-traffic-detection-at-scale/","url":"https://dblp.org/rec/conf/ndss/XiFBYCCMCS025"},
+"url":"URL#100838"
+},
+{
+"@score":"1",
+"@id":"100839",
+"info":{"authors":{"author":[{"@pid":"88/5697","text":"Qi Xia"},{"@pid":"11/1394","text":"Qian Chen"}]},"title":"AlphaDog: No-Box Camouflage Attacks via Alpha Channel Oversight.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/XiaC25","ee":"https://www.ndss-symposium.org/ndss-paper/alphadog-no-box-camouflage-attacks-via-alpha-channel-oversight/","url":"https://dblp.org/rec/conf/ndss/XiaC25"},
+"url":"URL#100839"
+},
+{
+"@score":"1",
+"@id":"100840",
+"info":{"authors":{"author":[{"@pid":"315/9934","text":"Dongwei Xiao"},{"@pid":"193/9286","text":"Zhibo Liu"},{"@pid":"297/0261","text":"Yiteng Peng"},{"@pid":"42/1503-11","text":"Shuai Wang 0011"}]},"title":"MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/XiaoLP025","ee":"https://www.ndss-symposium.org/ndss-paper/mtzk-testing-and-exploring-bugs-in-zero-knowledge-zk-compilers/","url":"https://dblp.org/rec/conf/ndss/XiaoLP025"},
+"url":"URL#100840"
+},
+{
+"@score":"1",
+"@id":"100841",
+"info":{"authors":{"author":[{"@pid":"244/3321","text":"Lifang Xiao"},{"@pid":"152/4299","text":"Hanyu Wang"},{"@pid":"79/7288","text":"Aimin Yu"},{"@pid":"181/8082","text":"Lixin Zhao"},{"@pid":"01/2538","text":"Dan Meng"}]},"title":"CASPR: Context-Aware Security Policy Recommendation.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/XiaoWYZM25","ee":"https://www.ndss-symposium.org/ndss-paper/caspr-context-aware-security-policy-recommendation/","url":"https://dblp.org/rec/conf/ndss/XiaoWYZM25"},
+"url":"URL#100841"
+},
+{
+"@score":"1",
+"@id":"100842",
+"info":{"authors":{"author":[{"@pid":"345/7441","text":"Pengzhi Xing"},{"@pid":"39/5544-1","text":"Hongwei Li 0001"},{"@pid":"184/7209","text":"Meng Hao"},{"@pid":"255/5224","text":"Hanxiao Chen"},{"@pid":"88/1307","text":"Jia Hu"},{"@pid":"147/8841","text":"Dongxiao Liu"}]},"title":"Distributed Function Secret Sharing and Applications.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Xing0HCHL25","ee":"https://www.ndss-symposium.org/ndss-paper/distributed-function-secret-sharing-and-applications/","url":"https://dblp.org/rec/conf/ndss/Xing0HCHL25"},
+"url":"URL#100842"
+},
+{
+"@score":"1",
+"@id":"100843",
+"info":{"authors":{"author":[{"@pid":"276/3462","text":"Xiangzhe Xu"},{"@pid":"16/1234-2","text":"Zhuo Zhang 0002"},{"@pid":"231/6045","text":"Zian Su"},{"@pid":"240/8001","text":"Ziyang Huang"},{"@pid":"138/9141-2","text":"Shiwei Feng 0002"},{"@pid":"184/8303","text":"Yapeng Ye"},{"@pid":"06/4489-12","text":"Nan Jiang 0012"},{"@pid":"301/7958","text":"Danning Xie"},{"@pid":"263/7049","text":"Siyuan Cheng 0005"},{"@pid":"13/3957-1","text":"Lin Tan 0001"},{"@pid":"95/3760-1","text":"Xiangyu Zhang 0001"}]},"title":"Unleashing the Power of Generative Model in Recovering Variable Names from Stripped Binary.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Xu0SH0Y0X00025","ee":"https://www.ndss-symposium.org/ndss-paper/unleashing-the-power-of-generative-model-in-recovering-variable-names-from-stripped-binary/","url":"https://dblp.org/rec/conf/ndss/Xu0SH0Y0X00025"},
+"url":"URL#100843"
+},
+{
+"@score":"1",
+"@id":"100844",
+"info":{"authors":{"author":[{"@pid":"226/3409","text":"Shangzhi Xu"},{"@pid":"290/5268","text":"Jialiang Dong"},{"@pid":"22/2547","text":"Weiting Cai"},{"@pid":"41/3261","text":"Juanru Li"},{"@pid":"186/7967","text":"Arash Shaghaghi"},{"@pid":"17/5023","text":"Nan Sun"},{"@pid":"130/5642","text":"Siqi Ma"}]},"title":"Enhancing Security in Third-Party Library Reuse - Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/XuDCLSSM25","ee":"https://www.ndss-symposium.org/ndss-paper/enhancing-security-in-third-party-library-reuse-comprehensive-detection-of-1-day-vulnerability-through-code-patch-analysis/","url":"https://dblp.org/rec/conf/ndss/XuDCLSSM25"},
+"url":"URL#100844"
+},
+{
+"@score":"1",
+"@id":"100845",
+"info":{"authors":{"author":[{"@pid":"259/6190","text":"Diwen Xue"},{"@pid":"400/4226","text":"Robert Stanley"},{"@pid":"66/1457","text":"Piyush Kumar"},{"@pid":"24/973","text":"Roya Ensafi"}]},"title":"The Discriminative Power of Cross-layer RTTs in Fingerprinting Proxy Traffic.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/XueSKE25","ee":"https://www.ndss-symposium.org/ndss-paper/the-discriminative-power-of-cross-layer-rtts-in-fingerprinting-proxy-traffic/","url":"https://dblp.org/rec/conf/ndss/XueSKE25"},
+"url":"URL#100845"
+},
+{
+"@score":"1",
+"@id":"100846",
+"info":{"authors":{"author":[{"@pid":"89/10538","text":"Jingwen Yan"},{"@pid":"271/4608","text":"Song Liao"},{"@pid":"371/4077","text":"Mohammed Aldeen"},{"@pid":"34/8412","text":"Luyi Xing"},{"@pid":"y/DanfengYao","text":"Danfeng Yao"},{"@pid":"49/225-5","text":"Long Cheng 0005"}]},"title":"SKILLPoV: Towards Accessible and Effective Privacy Notice for Amazon Alexa Skills.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YanLAXY025","ee":"https://www.ndss-symposium.org/ndss-paper/skillpov-towards-accessible-and-effective-privacy-notice-for-amazon-alexa-skills/","url":"https://dblp.org/rec/conf/ndss/YanLAXY025"},
+"url":"URL#100846"
+},
+{
+"@score":"1",
+"@id":"100847",
+"info":{"authors":{"author":[{"@pid":"396/2763","text":"Fengchen Yang"},{"@pid":"400/4903","text":"Wenze Cui"},{"@pid":"04/8388","text":"Xinfeng Li"},{"@pid":"46/1162-1","text":"Chen Yan 0001"},{"@pid":"39/1697-1","text":"Xiaoyu Ji 0001"},{"@pid":"10/3878-1","text":"Wenyuan Xu 0001"}]},"title":"LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YangCL00025","ee":"https://www.ndss-symposium.org/ndss-paper/lightantenna-characterizing-the-limits-of-fluorescent-lamp-induced-electromagnetic-interference/","url":"https://dblp.org/rec/conf/ndss/YangCL00025"},
+"url":"URL#100847"
+},
+{
+"@score":"1",
+"@id":"100848",
+"info":{"authors":{"author":[{"@pid":"213/8848","text":"Yunbo Yang"},{"@pid":"375/3995","text":"Yuejia Cheng"},{"@pid":"249/5772","text":"Kailun Wang"},{"@pid":"176/6509","text":"Xiaoguo Li"},{"@pid":"41/11196","text":"Jianfei Sun"},{"@pid":"159/2825","text":"Jiachen Shen"},{"@pid":"06/1495","text":"Xiaolei Dong"},{"@pid":"49/1185","text":"Zhenfu Cao"},{"@pid":"78/2235","text":"Guomin Yang"},{"@pid":"d/RobertHDeng","text":"Robert H. Deng"}]},"title":"Siniel: Distributed Privacy-Preserving zkSNARK.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YangCWLSSDCYD25","ee":"https://www.ndss-symposium.org/ndss-paper/siniel-distributed-privacy-preserving-zksnark/","url":"https://dblp.org/rec/conf/ndss/YangCWLSSDCYD25"},
+"url":"URL#100848"
+},
+{
+"@score":"1",
+"@id":"100849",
+"info":{"authors":{"author":[{"@pid":"396/2763","text":"Fengchen Yang"},{"@pid":"396/2777","text":"Zihao Dan"},{"@pid":"191/4538","text":"Kaikai Pan"},{"@pid":"46/1162-1","text":"Chen Yan 0001"},{"@pid":"39/1697-1","text":"Xiaoyu Ji 0001"},{"@pid":"10/3878-1","text":"Wenyuan Xu 0001"}]},"title":"ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YangDP00025","ee":"https://www.ndss-symposium.org/ndss-paper/rethink-reveal-the-threat-of-electromagnetic-interference-on-power-inverters/","url":"https://dblp.org/rec/conf/ndss/YangDP00025"},
+"url":"URL#100849"
+},
+{
+"@score":"1",
+"@id":"100850",
+"info":{"authors":{"author":[{"@pid":"33/4854","text":"Yi Yang"},{"@pid":"71/10082","text":"Jinghua Liu"},{"@pid":"c/KaiChen12","text":"Kai Chen 0012"},{"@pid":"353/7582","text":"Miaoqian Lin"}]},"title":"The Midas Touch: Triggering the Capability of LLMs for RM-API Misuse Detection.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YangL0L25","ee":"https://www.ndss-symposium.org/ndss-paper/the-midas-touch-triggering-the-capability-of-llms-for-rm-api-misuse-detection/","url":"https://dblp.org/rec/conf/ndss/YangL0L25"},
+"url":"URL#100850"
+},
+{
+"@score":"1",
+"@id":"100851",
+"info":{"authors":{"author":[{"@pid":"379/5070","text":"Ganxiang Yang"},{"@pid":"130/2288","text":"Chenyang Liu"},{"@pid":"22/3870","text":"Zhen Huang"},{"@pid":"05/1884","text":"Guoxing Chen"},{"@pid":"19/7123","text":"Hongfei Fu 0001"},{"@pid":"23/6185","text":"Yuanyuan Zhang"},{"@pid":"22/5702","text":"Haojin Zhu"}]},"title":"A Formal Approach to Multi-Layered Privileges for Enclaves.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YangLHC0ZZ25","ee":"https://www.ndss-symposium.org/ndss-paper/a-formal-approach-to-multi-layered-privileges-for-enclaves/","url":"https://dblp.org/rec/conf/ndss/YangLHC0ZZ25"},
+"url":"URL#100851"
+},
+{
+"@score":"1",
+"@id":"100852",
+"info":{"authors":{"author":[{"@pid":"345/8638","text":"Duanyi Yao"},{"@pid":"119/2630","text":"Songze Li"},{"@pid":"268/5832","text":"Xueluan Gong"},{"@pid":"321/3959","text":"Sizai Hou"},{"@pid":"269/2096","text":"Gaoning Pan"}]},"title":"URVFL: Undetectable Data Reconstruction Attack on Vertical Federated Learning.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YaoLGHP25","ee":"https://www.ndss-symposium.org/ndss-paper/urvfl-undetectable-data-reconstruction-attack-on-vertical-federated-learning/","url":"https://dblp.org/rec/conf/ndss/YaoLGHP25"},
+"url":"URL#100852"
+},
+{
+"@score":"1",
+"@id":"100853",
+"info":{"authors":{"author":[{"@pid":"290/9011","text":"Hengkai Ye"},{"@pid":"70/2543-4","text":"Hong Hu 0004"}]},"title":"Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Ye025","ee":"https://www.ndss-symposium.org/ndss-paper/too-subtle-to-notice-investigating-executable-stack-issues-in-linux-systems/","url":"https://dblp.org/rec/conf/ndss/Ye025"},
+"url":"URL#100853"
+},
+{
+"@score":"1",
+"@id":"100854",
+"info":{"authors":{"author":[{"@pid":"95/4735","text":"Dayong Ye"},{"@pid":"19/8310","text":"Tianqing Zhu"},{"@pid":"233/7568","text":"Congcong Zhu"},{"@pid":"170/8837","text":"Derui Wang"},{"@pid":"46/2802-6","text":"Kun Gao 0006"},{"@pid":"358/9079","text":"Zewei Shi"},{"@pid":"138/5764-5","text":"Sheng Shen 0005"},{"@pid":"92/2939","text":"Wanlei Zhou 0001"},{"@pid":"166/1912","text":"Minhui Xue 0001"}]},"title":"Reinforcement Unlearning.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YeZZWGS00025","ee":"https://www.ndss-symposium.org/ndss-paper/reinforcement-unlearning/","url":"https://dblp.org/rec/conf/ndss/YeZZWGS00025"},
+"url":"URL#100854"
+},
+{
+"@score":"1",
+"@id":"100855",
+"info":{"authors":{"author":[{"@pid":"400/4733","text":"Aditya Sirish A Yelgundhalli"},{"@pid":"400/4764","text":"Patrick Zielinski"},{"@pid":"c/RezaCurtmola","text":"Reza Curtmola"},{"@pid":"27/5136","text":"Justin Cappos"}]},"title":"Rethinking Trust in Forge-Based Git Security.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/YelgundhalliZCC25","ee":"https://www.ndss-symposium.org/ndss-paper/rethinking-trust-in-forge-based-git-security/","url":"https://dblp.org/rec/conf/ndss/YelgundhalliZCC25"},
+"url":"URL#100855"
+},
+{
+"@score":"1",
+"@id":"100856",
+"info":{"authors":{"author":[{"@pid":"64/4832","text":"Hao Yu"},{"@pid":"87/5241-1","text":"Chuan Ma 0001"},{"@pid":"331/1513","text":"Xinhang Wan"},{"@pid":"125/8189-118","text":"Jun Wang 0118"},{"@pid":"22/4460-1","text":"Tao Xiang 0001"},{"@pid":"03/8774","text":"Meng Shen"},{"@pid":"45/6569-2","text":"Xinwang Liu 0002"}]},"title":"DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Yu0W00S025","ee":"https://www.ndss-symposium.org/ndss-paper/dshield-defending-against-backdoor-attacks-on-graph-neural-networks-via-discrepancy-learning/","url":"https://dblp.org/rec/conf/ndss/Yu0W00S025"},
+"url":"URL#100856"
+},
+{
+"@score":"1",
+"@id":"100857",
+"info":{"authors":{"author":[{"@pid":"303/6148","text":"Chang Yue"},{"@pid":"c/KaiChen12","text":"Kai Chen 0012"},{"@pid":"201/5394","text":"Zhixiu Guo"},{"@pid":"38/8202","text":"Jun Dai"},{"@pid":"13/1574-3","text":"Xiaoyan Sun 0003"},{"@pid":"33/4854","text":"Yi Yang"}]},"title":"What&apos;s Done Is Not What&apos;s Claimed: Detecting and Interpreting Inconsistencies in App Behaviors.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Yue0GD0Y25","ee":"https://www.ndss-symposium.org/ndss-paper/whats-done-is-not-whats-claimed-detecting-and-interpreting-inconsistencies-in-app-behaviors/","url":"https://dblp.org/rec/conf/ndss/Yue0GD0Y25"},
+"url":"URL#100857"
+},
+{
+"@score":"1",
+"@id":"100858",
+"info":{"authors":{"author":[{"@pid":"81/11325","text":"Rui Zeng"},{"@pid":"16/3283","text":"Xi Chen"},{"@pid":"220/9652","text":"Yuwen Pu"},{"@pid":"139/6932-2","text":"Xuhong Zhang 0002"},{"@pid":"128/2982","text":"Tianyu Du"},{"@pid":"07/8388","text":"Shouling Ji"}]},"title":"CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZengCP0DJ25","ee":"https://www.ndss-symposium.org/ndss-paper/clibe-detecting-dynamic-backdoors-in-transformer-based-nlp-models/","url":"https://dblp.org/rec/conf/ndss/ZengCP0DJ25"},
+"url":"URL#100858"
+},
+{
+"@score":"1",
+"@id":"100859",
+"info":{"authors":{"author":[{"@pid":"82/6384","text":"Cheng Zhang"},{"@pid":"61/3906-13","text":"Yang Xu 0013"},{"@pid":"400/4606","text":"Jianghao Tan"},{"@pid":"400/4630","text":"Jiajie An"},{"@pid":"196/7070","text":"Wenqiang Jin"}]},"title":"MingledPie: A Cluster Mingling Approach for Mitigating Preference Profiling in CFL.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Zhang0TAJ25","ee":"https://www.ndss-symposium.org/ndss-paper/mingledpie-a-cluster-mingling-approach-for-mitigating-preference-profiling-in-cfl/","url":"https://dblp.org/rec/conf/ndss/Zhang0TAJ25"},
+"url":"URL#100859"
+},
+{
+"@score":"1",
+"@id":"100860",
+"info":{"authors":{"author":[{"@pid":"191/1165","text":"Zhibo Zhang"},{"@pid":"97/8704-96","text":"Lei Zhang 0096"},{"@pid":"363/1584","text":"Zhangyue Zhang"},{"@pid":"227/9082","text":"Geng Hong"},{"@pid":"48/2168-9","text":"Yuan Zhang 0009"},{"@pid":"02/1640-2","text":"Min Yang 0002"}]},"title":"Misdirection of Trust: Demystifying the Abuse of Dedicated URL Shortening Service.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/Zhang0ZH0025","ee":"https://www.ndss-symposium.org/ndss-paper/misdirection-of-trust-demystifying-the-abuse-of-dedicated-url-shortening-service/","url":"https://dblp.org/rec/conf/ndss/Zhang0ZH0025"},
+"url":"URL#100860"
+},
+{
+"@score":"1",
+"@id":"100861",
+"info":{"authors":{"author":[{"@pid":"254/1852","text":"Hanlei Zhang"},{"@pid":"298/2788","text":"Yijie Bai"},{"@pid":"50/10586","text":"Yanjiao Chen"},{"@pid":"54/6824","text":"Zhongming Ma"},{"@pid":"10/3878-1","text":"Wenyuan Xu 0001"}]},"title":"BARBIE: Robust Backdoor Detection Based on Latent Separability.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhangBCM025","ee":"https://www.ndss-symposium.org/ndss-paper/barbie-robust-backdoor-detection-based-on-latent-separability/","url":"https://dblp.org/rec/conf/ndss/ZhangBCM025"},
+"url":"URL#100861"
+},
+{
+"@score":"1",
+"@id":"100862",
+"info":{"authors":{"author":[{"@pid":"177/6717","text":"Shichen Zhang"},{"@pid":"00/7627","text":"Qijun Wang"},{"@pid":"349/5094","text":"Maolin Gan"},{"@pid":"05/7548-1","text":"Zhichao Cao 0001"},{"@pid":"36/8208","text":"Huacheng Zeng"}]},"title":"RadSee: See Your Handwriting Through Walls Using FMCW Radar.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhangWG0Z25","ee":"https://www.ndss-symposium.org/ndss-paper/radsee-see-your-handwriting-through-walls-using-fmcw-radar/","url":"https://dblp.org/rec/conf/ndss/ZhangWG0Z25"},
+"url":"URL#100862"
+},
+{
+"@score":"1",
+"@id":"100863",
+"info":{"authors":{"author":[{"@pid":"59/11040","text":"Jiawen Zhang"},{"@pid":"335/9618","text":"Xinpeng Yang"},{"@pid":"367/2450","text":"Lipeng He"},{"@pid":"368/7055","text":"Kejia Chen 0007"},{"@pid":"231/4234","text":"Wen-jie Lu"},{"@pid":"18/5506","text":"Yinghao Wang"},{"@pid":"278/0081","text":"Xiaoyang Hou"},{"@pid":"35/295-12","text":"Jian Liu 0012"},{"@pid":"20/6179-1","text":"Kui Ren 0001"},{"@pid":"95/6761","text":"Xiaohu Yang 0001"}]},"title":"Secure Transformer Inference Made Non-interactive.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhangYH0LWH00025","ee":"https://www.ndss-symposium.org/ndss-paper/secure-transformer-inference-made-non-interactive/","url":"https://dblp.org/rec/conf/ndss/ZhangYH0LWH00025"},
+"url":"URL#100863"
+},
+{
+"@score":"1",
+"@id":"100864",
+"info":{"authors":{"author":[{"@pid":"144/1374","text":"Runze Zhang"},{"@pid":"210/4952","text":"Mingxuan Yao"},{"@pid":"268/6595","text":"Haichuan Xu"},{"@pid":"127/7110","text":"Omar Alrawi"},{"@pid":"163/7414","text":"Jeman Park 0001"},{"@pid":"150/5240","text":"Brendan Saltaformaggio"}]},"title":"Hitchhiking Vaccine: Enhancing Botnet Remediation With Remote Code Deployment Reuse.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhangYXA0S25","ee":"https://www.ndss-symposium.org/ndss-paper/hitchhiking-vaccine-enhancing-botnet-remediation-with-remote-code-deployment-reuse/","url":"https://dblp.org/rec/conf/ndss/ZhangYXA0S25"},
+"url":"URL#100864"
+},
+{
+"@score":"1",
+"@id":"100865",
+"info":{"authors":{"author":[{"@pid":"76/1584","text":"Xin Zhang"},{"@pid":"96/6053-1","text":"Xiaohan Zhang 0001"},{"@pid":"318/6586","text":"Zhichen Liu"},{"@pid":"94/4810","text":"Bo Zhao"},{"@pid":"55/11040","text":"Zhemin Yang"},{"@pid":"02/1640-2","text":"Min Yang 0002"}]},"title":"An Empirical Study on Fingerprint API Misuse with Lifecycle Analysis in Real-world Android Apps.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhangZLZY025","ee":"https://www.ndss-symposium.org/ndss-paper/an-empirical-study-on-fingerprint-api-misuse-with-lifecycle-analysis-in-real-world-android-apps/","url":"https://dblp.org/rec/conf/ndss/ZhangZLZY025"},
+"url":"URL#100865"
+},
+{
+"@score":"1",
+"@id":"100866",
+"info":{"authors":{"author":[{"@pid":"32/3763","text":"Lingbo Zhao"},{"@pid":"77/1630","text":"Yuhui Zhang"},{"@pid":"118/4709","text":"Zhilu Wang"},{"@pid":"135/2691","text":"Fengkai Yuan"},{"@pid":"79/3631-1","text":"Rui Hou 0001"}]},"title":"ERW-Radar: An Adaptive Detection System against Evasive Ransomware by Contextual Behavior Detection and Fine-grained Content Analysis.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhaoZWY025","ee":"https://www.ndss-symposium.org/ndss-paper/erw-radar-an-adaptive-detection-system-against-evasive-ransomware-by-contextual-behavior-detection-and-fine-grained-content-analysis/","url":"https://dblp.org/rec/conf/ndss/ZhaoZWY025"},
+"url":"URL#100866"
+},
+{
+"@score":"1",
+"@id":"100867",
+"info":{"authors":{"author":[{"@pid":"260/7116","text":"Qihang Zhou"},{"@pid":"382/2849","text":"Wenzhuo Cao"},{"@pid":"41/761","text":"Xiaoqi Jia"},{"@pid":"21/6121-5","text":"Peng Liu 0005"},{"@pid":"65/3618","text":"Shengzhi Zhang"},{"@pid":"186/9575","text":"Jiayun Chen"},{"@pid":"362/2415","text":"Shaowen Xu"},{"@pid":"177/9092","text":"Zhenyu Song"}]},"title":"RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhouCJ0ZCXS25","ee":"https://www.ndss-symposium.org/ndss-paper/rcontainer-a-secure-container-architecture-through-extending-arm-cca-hardware-primitives/","url":"https://dblp.org/rec/conf/ndss/ZhouCJ0ZCXS25"},
+"url":"URL#100867"
+},
+{
+"@score":"1",
+"@id":"100868",
+"info":{"authors":{"author":[{"@pid":"209/3089","text":"Haotian Zhu"},{"@pid":"146/9250","text":"Shuchao Pang"},{"@pid":"91/7802-1","text":"Zhigang Lu 0001"},{"@pid":"03/4413","text":"Yongbin Zhou"},{"@pid":"166/1912","text":"Minhui Xue 0001"}]},"title":"GAP-Diff: Protecting JPEG-Compressed Images from Diffusion-based Facial Customization.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhuPLZ025","ee":"https://www.ndss-symposium.org/ndss-paper/gap-diff-protecting-jpeg-compressed-images-from-diffusion-based-facial-customization/","url":"https://dblp.org/rec/conf/ndss/ZhuPLZ025"},
+"url":"URL#100868"
+},
+{
+"@score":"1",
+"@id":"100869",
+"info":{"authors":{"author":[{"@pid":"86/5115","text":"Yong Zhuang"},{"@pid":"365/9559","text":"Keyan Guo"},{"@pid":"74/3634-6","text":"Juan Wang 0006"},{"@pid":"400/4988","text":"Yiheng Jing"},{"@pid":"59/8279-1","text":"Xiaoyang Xu 0001"},{"@pid":"346/0918","text":"Wenzhe Yi"},{"@pid":"116/8591","text":"Mengda Yang"},{"@pid":"94/4810-23","text":"Bo Zhao 0023"},{"@pid":"02/2870","text":"Hongxin Hu"}]},"title":"I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZhuangG0JXYY0H25","ee":"https://www.ndss-symposium.org/ndss-paper/i-know-what-you-meme-understanding-and-detecting-harmful-memes-with-multimodal-large-language-models/","url":"https://dblp.org/rec/conf/ndss/ZhuangG0JXYY0H25"},
+"url":"URL#100869"
+},
+{
+"@score":"1",
+"@id":"100870",
+"info":{"authors":{"author":[{"@pid":"299/3244","text":"Yong-Hao Zou"},{"@pid":"161/7805","text":"Jia-Ju Bai"},{"@pid":"237/8586","text":"Zu-Ming Jiang"},{"@pid":"39/6844","text":"Ming Zhao"},{"@pid":"223/6823","text":"Diyu Zhou"}]},"title":"Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning.","venue":"NDSS","year":"2025","type":"Conference and Workshop Papers","access":"open","key":"conf/ndss/ZouBJZZ25","ee":"https://www.ndss-symposium.org/ndss-paper/blackbox-fuzzing-of-distributed-systems-with-multi-dimensional-inputs-and-symmetry-based-feedback-pruning/","url":"https://dblp.org/rec/conf/ndss/ZouBJZZ25"},
+"url":"URL#100870"
+},
+{
+"@score":"1",
+"@id":"106321",
+"info":{"title":"32nd Annual Network and Distributed System Security Symposium, NDSS 2025, San Diego, California, USA, February 24-28, 2025","venue":"NDSS","publisher":"The Internet Society","year":"2025","type":"Editorship","access":"open","key":"conf/ndss/2025","ee":"https://www.ndss-symposium.org/ndss2025/","url":"https://dblp.org/rec/conf/ndss/2025"},
+"url":"URL#106321"
+}
+]
+}
+}
+}

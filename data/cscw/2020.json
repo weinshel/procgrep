@@ -1,0 +1,188 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/cscw/cscw29.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"72.64"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"26",
+"@dc":"26",
+"@oc":"26",
+"@id":"48266378",
+"text":":facetid:toc:db/journals/cscw/cscw29.bht"
+}
+},
+"hits":{
+"@total":"26",
+"@computed":"26",
+"@sent":"26",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2226882",
+"info":{"authors":{"author":[{"@pid":"15/10858","text":"Petter Grytten Almklov"},{"@pid":"248/7789","text":"Kristin Halvorsen"},{"@pid":"178/4614","text":"Jens Petter Johansen"}]},"title":"Accountability on the Fly - Accounting for Trouble in Space Operations.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"1-2","pages":"191-226","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/AlmklovHJ20","doi":"10.1007/S10606-019-09370-Z","ee":"https://doi.org/10.1007/s10606-019-09370-z","url":"https://dblp.org/rec/journals/cscw/AlmklovHJ20"},
+"url":"URL#2226882"
+},
+{
+"@score":"1",
+"@id":"2226883",
+"info":{"authors":{"author":[{"@pid":"184/5703","text":"Melissa Bica"},{"@pid":"276/2197","text":"Joy Weinberg"},{"@pid":"88/3668","text":"Leysia Palen"}]},"title":"Achieving Accuracy through Ambiguity: the Interactivity of Risk Communication in Severe Weather Events.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"5","pages":"587-623","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/BicaWP20","doi":"10.1007/S10606-020-09380-2","ee":"https://doi.org/10.1007/s10606-020-09380-2","url":"https://dblp.org/rec/journals/cscw/BicaWP20"},
+"url":"URL#2226883"
+},
+{
+"@score":"1",
+"@id":"2226884",
+"info":{"authors":{"author":[{"@pid":"02/4200","text":"Claus Bossen"},{"@pid":"54/8983","text":"Enrico Maria Piras"}]},"title":"Introduction to the Special Issue on &apos;Information Infrastructures in Healthcare: Governance, Quality Improvement and Service Efficiency&apos;.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"4","pages":"381-386","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/BossenP20","doi":"10.1007/S10606-020-09381-1","ee":"https://doi.org/10.1007/s10606-020-09381-1","url":"https://dblp.org/rec/journals/cscw/BossenP20"},
+"url":"URL#2226884"
+},
+{
+"@score":"1",
+"@id":"2226885",
+"info":{"authors":{"author":[{"@pid":"216/7781","text":"Katerina Cerná"},{"@pid":"92/4174","text":"Miria Grisot"},{"@pid":"145/4812","text":"Anna Sigridur Islind"},{"@pid":"47/4075","text":"Tomas Lindroth"},{"@pid":"46/601","text":"Johan Lundin"},{"@pid":"140/1788","text":"Gunnar Steineck"}]},"title":"Changing Categorical Work in Healthcare: the Use of Patient-Generated Health Data in Cancer Rehabilitation.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"5","pages":"563-586","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/CernaGILLS20","doi":"10.1007/S10606-020-09383-Z","ee":"https://doi.org/10.1007/s10606-020-09383-z","url":"https://dblp.org/rec/journals/cscw/CernaGILLS20"},
+"url":"URL#2226885"
+},
+{
+"@score":"1",
+"@id":"2226886",
+"info":{"authors":{"author":[{"@pid":"09/10897","text":"Mateusz Dolata"},{"@pid":"25/712","text":"Birgit Schenk"},{"@pid":"281/0918","text":"Jara Fuhrer"},{"@pid":"281/1074","text":"Alina Marti"},{"@pid":"s/GerhardSchwabe","text":"Gerhard Schwabe"}]},"title":"When the System Does Not Fit: Coping Strategies of Employment Consultants.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"6","pages":"657-696","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/DolataSFMS20","doi":"10.1007/S10606-020-09377-X","ee":"https://doi.org/10.1007/s10606-020-09377-x","url":"https://dblp.org/rec/journals/cscw/DolataSFMS20"},
+"url":"URL#2226886"
+},
+{
+"@score":"1",
+"@id":"2226887",
+"info":{"authors":{"author":[{"@pid":"72/866","text":"Babak A. Farshchian"},{"@pid":"190/0703","text":"Hanne Ekran Thomassen"}]},"title":"Correction to: Co-Creating Platform Governance Models Using Boundary Resources: a Case Study from Dementia Care Services.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"5","pages":"625-626","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/FarshchianT20","doi":"10.1007/S10606-019-09366-9","ee":"https://doi.org/10.1007/s10606-019-09366-9","url":"https://dblp.org/rec/journals/cscw/FarshchianT20"},
+"url":"URL#2226887"
+},
+{
+"@score":"1",
+"@id":"2226888",
+"info":{"authors":{"author":[{"@pid":"150/9240","text":"Guo Freeman"},{"@pid":"68/9167","text":"Donghee Yvette Wohn"}]},"title":"Streaming your Identity: Navigating the Presentation of Gender and Sexuality through Live Streaming.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"6","pages":"795-825","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/FreemanW20","doi":"10.1007/S10606-020-09386-W","ee":"https://doi.org/10.1007/s10606-020-09386-w","url":"https://dblp.org/rec/journals/cscw/FreemanW20"},
+"url":"URL#2226888"
+},
+{
+"@score":"1",
+"@id":"2226889",
+"info":{"authors":{"author":[{"@pid":"55/11368","text":"Ishita Ghosh"},{"@pid":"43/6357","text":"Jacki O&apos;Neill"}]},"title":"The Unbearable Modernity of Mobile Money.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"3","pages":"227-261","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/GhoshO20","doi":"10.1007/S10606-020-09373-1","ee":"https://doi.org/10.1007/s10606-020-09373-1","url":"https://dblp.org/rec/journals/cscw/GhoshO20"},
+"url":"URL#2226889"
+},
+{
+"@score":"1",
+"@id":"2226890",
+"info":{"authors":{"author":[{"@pid":"98/552","text":"Anatoliy A. Gruzd"},{"@pid":"159/0604-2","text":"Priya Kumar 0002"},{"@pid":"263/3285","text":"Deena Abul-Fottouh"},{"@pid":"82/5294","text":"Caroline Haythornthwaite"}]},"title":"Coding and Classifying Knowledge Exchange on Social Media: a Comparative Analysis of the #Twitterstorians and AskHistorians Communities.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"6","pages":"629-656","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/GruzdKAH20","doi":"10.1007/S10606-020-09376-Y","ee":"https://doi.org/10.1007/s10606-020-09376-y","url":"https://dblp.org/rec/journals/cscw/GruzdKAH20"},
+"url":"URL#2226890"
+},
+{
+"@score":"1",
+"@id":"2226891",
+"info":{"authors":{"author":[{"@pid":"126/2055","text":"Magnus Hontvedt"},{"@pid":"87/7369","text":"Kjell Ivar Øvergård"}]},"title":"Simulations at Work - a Framework for Configuring Simulation Fidelity with Training Objectives.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"1-2","pages":"85-113","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/HontvedtO20","doi":"10.1007/S10606-019-09367-8","ee":"https://doi.org/10.1007/s10606-019-09367-8","url":"https://dblp.org/rec/journals/cscw/HontvedtO20"},
+"url":"URL#2226891"
+},
+{
+"@score":"1",
+"@id":"2226892",
+"info":{"authors":{"author":[{"@pid":"64/7259","text":"Mohammad Hossein Jarrahi"},{"@pid":"212/2577","text":"Will Sutherland"},{"@pid":"199/3005","text":"Sarah Beth Nelson"},{"@pid":"44/6261","text":"Steve Sawyer"}]},"title":"Platformic Management, Boundary Resources for Gig Work, and Worker Autonomy.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"1-2","pages":"153-189","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/JarrahiSNS20","doi":"10.1007/S10606-019-09368-7","ee":"https://doi.org/10.1007/s10606-019-09368-7","url":"https://dblp.org/rec/journals/cscw/JarrahiSNS20"},
+"url":"URL#2226892"
+},
+{
+"@score":"1",
+"@id":"2226893",
+"info":{"authors":{"author":[{"@pid":"50/6044","text":"Myriam Lewkowicz"},{"@pid":"60/803","text":"Kjeld Schmidt"}]},"title":"Introducing &apos;ECSCW Contributions&apos;.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"6","pages":"627-628","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/LewkowiczS20","doi":"10.1007/S10606-020-09389-7","ee":"https://doi.org/10.1007/s10606-020-09389-7","url":"https://dblp.org/rec/journals/cscw/LewkowiczS20"},
+"url":"URL#2226893"
+},
+{
+"@score":"1",
+"@id":"2226894",
+"info":{"authors":{"author":[{"@pid":"134/9047","text":"Naja L. Holten Møller"},{"@pid":"276/2196","text":"Maren Gausdal Eriksen"},{"@pid":"02/4200","text":"Claus Bossen"}]},"title":"A Worker-Driven Common Information Space: Interventions into a Digital Future.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"5","pages":"497-531","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/MollerEB20","doi":"10.1007/S10606-020-09379-9","ee":"https://doi.org/10.1007/s10606-020-09379-9","url":"https://dblp.org/rec/journals/cscw/MollerEB20"},
+"url":"URL#2226894"
+},
+{
+"@score":"1",
+"@id":"2226895",
+"info":{"authors":{"author":[{"@pid":"00/8855","text":"Troels Mønsted"},{"@pid":"59/4940","text":"Morten Hertzum"},{"@pid":"189/8640","text":"Jens Søndergaard"}]},"title":"A Socio-Temporal Perspective on Pilot Implementation: Bootstrapping Preventive Care.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"4","pages":"419-449","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/MonstedHS20","doi":"10.1007/S10606-019-09369-6","ee":"https://doi.org/10.1007/s10606-019-09369-6","url":"https://dblp.org/rec/journals/cscw/MonstedHS20"},
+"url":"URL#2226895"
+},
+{
+"@score":"1",
+"@id":"2226896",
+"info":{"authors":{"author":[{"@pid":"31/5587-2","text":"Thomas Olsson 0002"},{"@pid":"119/8642","text":"Pradthana Jarusriboonchai"},{"@pid":"36/11536","text":"Pawel W. Wozniak"},{"@pid":"43/3239","text":"Susanna Paasovaara"},{"@pid":"26/3295","text":"Kaisa Väänänen"},{"@pid":"35/3202","text":"Andrés Lucero"}]},"title":"Technologies for Enhancing Collocated Social Interaction: Review of Design Solutions and Approaches.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"1-2","pages":"29-83","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/OlssonJWPVL20","doi":"10.1007/S10606-019-09345-0","ee":"https://doi.org/10.1007/s10606-019-09345-0","url":"https://dblp.org/rec/journals/cscw/OlssonJWPVL20"},
+"url":"URL#2226896"
+},
+{
+"@score":"1",
+"@id":"2226897",
+"info":{"authors":{"author":[{"@pid":"35/10916","text":"Drew Paine"},{"@pid":"55/3955","text":"Charlotte P. Lee"}]},"title":"Coordinative Entities: Forms of Organizing in Data Intensive Science.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"3","pages":"335-380","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/PaineL20","doi":"10.1007/S10606-020-09372-2","ee":"https://doi.org/10.1007/s10606-020-09372-2","url":"https://dblp.org/rec/journals/cscw/PaineL20"},
+"url":"URL#2226897"
+},
+{
+"@score":"1",
+"@id":"2226898",
+"info":{"authors":{"author":[{"@pid":"241/3711","text":"Anette Chelina Møller Petersen"},{"@pid":"78/6581","text":"Lars Rune Christensen"},{"@pid":"h/ThomasTHildebrandt","text":"Thomas T. Hildebrandt"}]},"title":"The Role of Discretion in the Age of Automation.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"3","pages":"303-333","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/PetersenCH20","doi":"10.1007/S10606-020-09371-3","ee":"https://doi.org/10.1007/s10606-020-09371-3","url":"https://dblp.org/rec/journals/cscw/PetersenCH20"},
+"url":"URL#2226898"
+},
+{
+"@score":"1",
+"@id":"2226899",
+"info":{"authors":{"author":[{"@pid":"43/581","text":"Michael Prilla"},{"@pid":"151/0116","text":"Oliver Blunk"},{"@pid":"70/7423","text":"Irene-Angelica Chounta"}]},"title":"How Does Collaborative Reflection Unfold in Online Communities? An Analysis of Two Data Sets.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"6","pages":"697-741","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/PrillaBC20","doi":"10.1007/S10606-020-09382-0","ee":"https://doi.org/10.1007/s10606-020-09382-0","url":"https://dblp.org/rec/journals/cscw/PrillaBC20"},
+"url":"URL#2226899"
+},
+{
+"@score":"1",
+"@id":"2226900",
+"info":{"authors":{"author":[{"@pid":"247/9755","text":"Banu Saatçi"},{"@pid":"281/1408","text":"Kaya Akyüz"},{"@pid":"131/8692","text":"Sean Rintel"},{"@pid":"91/6667","text":"Clemens Nylandsted Klokmose"}]},"title":"(Re)Configuring Hybrid Meetings: Moving from User-Centered Design to Meeting-Centered Design.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"6","pages":"769-794","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/SaatciARK20","doi":"10.1007/S10606-020-09385-X","ee":"https://doi.org/10.1007/s10606-020-09385-x","url":"https://dblp.org/rec/journals/cscw/SaatciARK20"},
+"url":"URL#2226900"
+},
+{
+"@score":"1",
+"@id":"2226901",
+"info":{"authors":{"author":[{"@pid":"128/0179","text":"Terje Aksel Sanner"},{"@pid":"183/9259","text":"Egil Øvrelid"}]},"title":"Informating Hospital Workflow Coordination.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"4","pages":"387-417","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/SannerO20","doi":"10.1007/S10606-019-09362-Z","ee":"https://doi.org/10.1007/s10606-019-09362-z","url":"https://dblp.org/rec/journals/cscw/SannerO20"},
+"url":"URL#2226901"
+},
+{
+"@score":"1",
+"@id":"2226902",
+"info":{"authors":{"author":{"@pid":"179/4282","text":"Dan Sholler"}},"title":"Infrastructuring as an Occasion for Resistance: Organized Resistance to Policy-Driven Information Infrastructure Development in the U.S. Healthcare Industry.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"4","pages":"451-496","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/Sholler20","doi":"10.1007/S10606-020-09375-Z","ee":"https://doi.org/10.1007/s10606-020-09375-z","url":"https://dblp.org/rec/journals/cscw/Sholler20"},
+"url":"URL#2226902"
+},
+{
+"@score":"1",
+"@id":"2226903",
+"info":{"authors":{"author":[{"@pid":"35/4931","text":"Jesper Simonsen"},{"@pid":"32/4166","text":"Helena Karasti"},{"@pid":"59/4940","text":"Morten Hertzum"}]},"title":"Infrastructuring and Participatory Design: Exploring Infrastructural Inversion as Analytic, Empirical and Generative.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"1-2","pages":"115-151","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/SimonsenKH20","doi":"10.1007/S10606-019-09365-W","ee":"https://doi.org/10.1007/s10606-019-09365-w","url":"https://dblp.org/rec/journals/cscw/SimonsenKH20"},
+"url":"URL#2226903"
+},
+{
+"@score":"1",
+"@id":"2226904",
+"info":{"authors":{"author":[{"@pid":"129/5137","text":"Sebastian Weise"},{"@pid":"16/2553","text":"Mike W. Chiasson"}]},"title":"Infrastructuring Public Consultation in Town Planning - How Town Planners Translate Public Consultation into a Socio-Technical Support System.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"5","pages":"533-561","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/WeiseC20","doi":"10.1007/S10606-020-09384-Y","ee":"https://doi.org/10.1007/s10606-020-09384-y","url":"https://dblp.org/rec/journals/cscw/WeiseC20"},
+"url":"URL#2226904"
+},
+{
+"@score":"1",
+"@id":"2226905",
+"info":{"authors":{"author":[{"@pid":"150/2677","text":"Sara Willermark"},{"@pid":"90/5227","text":"Lena Pareto"}]},"title":"Unpacking the Role of Boundaries in Computer-Supported Collaborative Teaching.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"6","pages":"743-767","year":"2020","type":"Journal Articles","access":"open","key":"journals/cscw/WillermarkP20","doi":"10.1007/S10606-020-09378-W","ee":"https://doi.org/10.1007/s10606-020-09378-w","url":"https://dblp.org/rec/journals/cscw/WillermarkP20"},
+"url":"URL#2226905"
+},
+{
+"@score":"1",
+"@id":"2226906",
+"info":{"authors":{"author":[{"@pid":"157/5881","text":"Christine T. Wolf"},{"@pid":"20/6288","text":"Jeanette L. Blomberg"}]},"title":"Making Sense of Enterprise Apps in Everyday Work Practices.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"1-2","pages":"1-27","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/WolfB20","doi":"10.1007/S10606-019-09363-Y","ee":"https://doi.org/10.1007/s10606-019-09363-y","url":"https://dblp.org/rec/journals/cscw/WolfB20"},
+"url":"URL#2226906"
+},
+{
+"@score":"1",
+"@id":"2226907",
+"info":{"authors":{"author":[{"@pid":"167/6623","text":"Huichuan Xia"},{"@pid":"159/3899","text":"Brian McKernan"}]},"title":"Privacy in Crowdsourcing: a Review of the Threats and Challenges.","venue":"Comput. Support. Cooperative Work.","volume":"29","number":"3","pages":"263-301","year":"2020","type":"Journal Articles","access":"closed","key":"journals/cscw/XiaM20","doi":"10.1007/S10606-020-09374-0","ee":"https://doi.org/10.1007/s10606-020-09374-0","url":"https://dblp.org/rec/journals/cscw/XiaM20"},
+"url":"URL#2226907"
+}
+]
+}
+}
+}

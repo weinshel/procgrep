@@ -1,0 +1,74 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/cscw/cscw34.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"71.56"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"48266384",
+"text":":facetid:toc:db/journals/cscw/cscw34.bht"
+}
+},
+"hits":{
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"20034",
+"info":{"authors":{"author":[{"@pid":"339/2481","text":"Eva Sonja Allen"},{"@pid":"98/3085","text":"Aparecido Fabiano Pinatti de Carvalho"},{"@pid":"03/9678","text":"Sven Hoffmann"},{"@pid":"188/1813","text":"Marcus Schweitzer"},{"@pid":"404/7145","text":"Kira Schaumann"}]},"title":"Workplace Aspects of Knowledge and Expertise Sharing Practices Supported by Augmented Reality Systems: Findings from a Design Case Study.","venue":"Comput. Support. Cooperative Work.","volume":"34","number":"1","pages":"155-205","year":"2025","type":"Journal Articles","access":"closed","key":"journals/cscw/AllenCHSS25","doi":"10.1007/S10606-024-09508-8","ee":"https://doi.org/10.1007/s10606-024-09508-8","url":"https://dblp.org/rec/journals/cscw/AllenCHSS25"},
+"url":"URL#20034"
+},
+{
+"@score":"1",
+"@id":"20035",
+"info":{"authors":{"author":[{"@pid":"295/8395","text":"Melanie Duckert"},{"@pid":"55/3955","text":"Charlotte P. Lee"},{"@pid":"96/857","text":"Pernille Bjørn"}]},"title":"The Ripple Effect of Information Infrastructures.","venue":"Comput. Support. Cooperative Work.","volume":"34","number":"1","pages":"207-248","year":"2025","type":"Journal Articles","access":"closed","key":"journals/cscw/DuckertLB25","doi":"10.1007/S10606-024-09509-7","ee":"https://doi.org/10.1007/s10606-024-09509-7","url":"https://dblp.org/rec/journals/cscw/DuckertLB25"},
+"url":"URL#20035"
+},
+{
+"@score":"1",
+"@id":"20036",
+"info":{"authors":{"author":[{"@pid":"04/3934","text":"Jinling Huang"},{"@pid":"39/805","text":"Xianghua Ding"}]},"title":"Self-Management Support (SMS) in Transition: The Case of Osteoporosis Management Support in a Chinese Hospital.","venue":"Comput. Support. Cooperative Work.","volume":"34","number":"1","pages":"1-39","year":"2025","type":"Journal Articles","access":"closed","key":"journals/cscw/HuangD25","doi":"10.1007/S10606-024-09503-Z","ee":"https://doi.org/10.1007/s10606-024-09503-z","url":"https://dblp.org/rec/journals/cscw/HuangD25"},
+"url":"URL#20036"
+},
+{
+"@score":"1",
+"@id":"20037",
+"info":{"authors":{"author":[{"@pid":"404/7694","text":"Ava McCoy"},{"@pid":"27/5216","text":"Luigina Ciolfi"}]},"title":"&apos;You were going online for that person&apos;: How Digital Tools Shaped Irish Mourning Experiences Amidst COVID-19.","venue":"Comput. Support. Cooperative Work.","volume":"34","number":"1","pages":"77-112","year":"2025","type":"Journal Articles","access":"closed","key":"journals/cscw/McCoyC25","doi":"10.1007/S10606-024-09505-X","ee":"https://doi.org/10.1007/s10606-024-09505-x","url":"https://dblp.org/rec/journals/cscw/McCoyC25"},
+"url":"URL#20037"
+},
+{
+"@score":"1",
+"@id":"20038",
+"info":{"authors":{"author":[{"@pid":"88/3668","text":"Leysia Palen"},{"@pid":"256/9207","text":"Deepika Rama Subramanian"},{"@pid":"319/3698","text":"Lindsay Levkoff Diamond"},{"@pid":"319/3403","text":"Hande Batan"},{"@pid":"380/2884","text":"Tajanae Harris"}]},"title":"The Social Convergence of Information Disorder: Discovery and Analysis of the &quot;Fertile Ground&quot; of COVID-19 Vaccine Hesitancy.","venue":"Comput. Support. Cooperative Work.","volume":"34","number":"1","pages":"113-154","year":"2025","type":"Journal Articles","access":"closed","key":"journals/cscw/PalenSDBH25","doi":"10.1007/S10606-024-09506-W","ee":"https://doi.org/10.1007/s10606-024-09506-w","url":"https://dblp.org/rec/journals/cscw/PalenSDBH25"},
+"url":"URL#20038"
+},
+{
+"@score":"1",
+"@id":"20039",
+"info":{"authors":{"author":[{"@pid":"238/4324","text":"Irina Paraschivoiu"},{"@pid":"119/5784","text":"Robert Steiner"},{"@pid":"404/7326","text":"Judith Wieser"},{"@pid":"08/4981","text":"Alexander Meschtscherjakov"}]},"title":"Crafting Cities Together: Co-located Collaboration with Augmented Reality for Urban Design.","venue":"Comput. Support. Cooperative Work.","volume":"34","number":"1","pages":"249-291","year":"2025","type":"Journal Articles","access":"closed","key":"journals/cscw/ParaschivoiuSWM25","doi":"10.1007/S10606-025-09510-8","ee":"https://doi.org/10.1007/s10606-025-09510-8","url":"https://dblp.org/rec/journals/cscw/ParaschivoiuSWM25"},
+"url":"URL#20039"
+},
+{
+"@score":"1",
+"@id":"20040",
+"info":{"authors":{"author":[{"@pid":"67/6649-13","text":"Yi Wang 0013"},{"@pid":"10/5760-3","text":"Yang Yue 0003"},{"@pid":"35/7092-353","text":"Wei Wang 0353"},{"@pid":"168/0801","text":"Gaowei Zhang"}]},"title":"Uncovering Non-native Speakers&apos; Experiences in Global Software Development Teams - - a Bourdieusian Perspective.","venue":"Comput. Support. Cooperative Work.","volume":"34","number":"1","pages":"41-76","year":"2025","type":"Journal Articles","access":"closed","key":"journals/cscw/WangYWZ25","doi":"10.1007/S10606-024-09504-Y","ee":"https://doi.org/10.1007/s10606-024-09504-y","url":"https://dblp.org/rec/journals/cscw/WangYWZ25"},
+"url":"URL#20040"
+}
+]
+}
+}
+}

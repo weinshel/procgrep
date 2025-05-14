@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/cscw/cscw30.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"69.53"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"48266380",
+"text":":facetid:toc:db/journals/cscw/cscw30.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1758282",
+"info":{"authors":{"author":[{"@pid":"74/1685","text":"Ellen Balka"},{"@pid":"00/3466","text":"Ina Wagner"}]},"title":"A Historical View of Studies of Women&apos;s Work.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"2","pages":"251-305","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/BalkaW21","doi":"10.1007/S10606-020-09387-9","ee":"https://doi.org/10.1007/s10606-020-09387-9","url":"https://dblp.org/rec/journals/cscw/BalkaW21"},
+"url":"URL#1758282"
+},
+{
+"@score":"1",
+"@id":"1758283",
+"info":{"authors":{"author":[{"@pid":"96/857","text":"Pernille Bjørn"},{"@pid":"300/9033","text":"Mark Wulff"},{"@pid":"300/9117","text":"Mathias Schmidt Petræus"},{"@pid":"134/9047","text":"Naja L. Holten Møller"}]},"title":"Immersive Cooperative Work Environments (CWE): Designing Human-Building Interaction in Virtual Reality.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"3","pages":"351-391","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/BjornWPM21","doi":"10.1007/S10606-021-09395-3","ee":"https://doi.org/10.1007/s10606-021-09395-3","url":"https://dblp.org/rec/journals/cscw/BjornWPM21"},
+"url":"URL#1758283"
+},
+{
+"@score":"1",
+"@id":"1758284",
+"info":{"authors":{"author":[{"@pid":"199/2768","text":"Janghee Cho"},{"@pid":"20/5611","text":"Rick Wash"}]},"title":"How Potential New Members Approach an Online Community.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"1","pages":"35-77","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/ChoW21","doi":"10.1007/S10606-020-09390-0","ee":"https://doi.org/10.1007/s10606-020-09390-0","url":"https://dblp.org/rec/journals/cscw/ChoW21"},
+"url":"URL#1758284"
+},
+{
+"@score":"1",
+"@id":"1758285",
+"info":{"authors":{"author":[{"@pid":"189/9125","text":"Judeth Oden Choi"},{"@pid":"h/JamesDHerbsleb","text":"James D. Herbsleb"},{"@pid":"46/4227","text":"Jodi Forlizzi"}]},"title":"Hybrid Framing in the Justice for Antwon Rose II Movement.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"683-714","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/ChoiHF21","doi":"10.1007/S10606-021-09417-0","ee":"https://doi.org/10.1007/s10606-021-09417-0","url":"https://dblp.org/rec/journals/cscw/ChoiHF21"},
+"url":"URL#1758285"
+},
+{
+"@score":"1",
+"@id":"1758286",
+"info":{"authors":{"author":{"@pid":"139/6676","text":"Gabriel Grill"}},"title":"Future Protest Made Risky: Examining Social Media Based Civil Unrest Prediction Research and Products.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"811-839","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/Grill21","doi":"10.1007/S10606-021-09409-0","ee":"https://doi.org/10.1007/s10606-021-09409-0","url":"https://dblp.org/rec/journals/cscw/Grill21"},
+"url":"URL#1758286"
+},
+{
+"@score":"1",
+"@id":"1758287",
+"info":{"authors":{"author":[{"@pid":"55/599","text":"Karin Hansson"},{"@pid":"c/TeresaInesCerratto","text":"Teresa Cerratto-Pargman"},{"@pid":"84/792","text":"Shaowen Bardzell"}]},"title":"Materializing activism.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"617-626","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/HanssonPB21","doi":"10.1007/S10606-021-09412-5","ee":"https://doi.org/10.1007/s10606-021-09412-5","url":"https://dblp.org/rec/journals/cscw/HanssonPB21"},
+"url":"URL#1758287"
+},
+{
+"@score":"1",
+"@id":"1758288",
+"info":{"authors":{"author":[{"@pid":"55/599","text":"Karin Hansson"},{"@pid":"248/8738","text":"Malin Sveningsson"},{"@pid":"248/8713","text":"Hillevi Ganetz"}]},"title":"Organizing Safe Spaces: #MeToo Activism in Sweden.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"651-682","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/HanssonSG21","doi":"10.1007/S10606-021-09410-7","ee":"https://doi.org/10.1007/s10606-021-09410-7","url":"https://dblp.org/rec/journals/cscw/HanssonSG21"},
+"url":"URL#1758288"
+},
+{
+"@score":"1",
+"@id":"1758289",
+"info":{"authors":{"author":[{"@pid":"31/5739","text":"Niall Hayes"},{"@pid":"12/3731","text":"Lucas D. Introna"},{"@pid":"307/2562","text":"Noel Cass"}]},"title":"Participatory Design as the Temporal Flow of Coalescing Participatory Lines.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"4","pages":"507-538","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/HayesIC21","doi":"10.1007/S10606-021-09405-4","ee":"https://doi.org/10.1007/s10606-021-09405-4","url":"https://dblp.org/rec/journals/cscw/HayesIC21"},
+"url":"URL#1758289"
+},
+{
+"@score":"1",
+"@id":"1758290",
+"info":{"authors":{"author":{"@pid":"237/2647","text":"Götz Hoeppe"}},"title":"Encoding Collective Knowledge, Instructing Data Reusers: The Collaborative Fixation of a Digital Scientific Data Set.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"4","pages":"463-505","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/Hoeppe21","doi":"10.1007/S10606-021-09407-2","ee":"https://doi.org/10.1007/s10606-021-09407-2","url":"https://dblp.org/rec/journals/cscw/Hoeppe21"},
+"url":"URL#1758290"
+},
+{
+"@score":"1",
+"@id":"1758291",
+"info":{"authors":{"author":[{"@pid":"239/9655","text":"Pranut Jain"},{"@pid":"70/1446","text":"Rosta Farzan"},{"@pid":"62/1373","text":"Adam J. Lee"}]},"title":"Context-based Automated Responses of Unavailability in Mobile Messaging.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"3","pages":"307-349","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/JainFL21","doi":"10.1007/S10606-021-09399-Z","ee":"https://doi.org/10.1007/s10606-021-09399-z","url":"https://dblp.org/rec/journals/cscw/JainFL21"},
+"url":"URL#1758291"
+},
+{
+"@score":"1",
+"@id":"1758292",
+"info":{"authors":{"author":[{"@pid":"243/0799","text":"Sami Koivunen"},{"@pid":"152/2663","text":"Ekaterina Olshannikova"},{"@pid":"31/5587-2","text":"Thomas Olsson 0002"}]},"title":"Understanding Matchmakers&apos; Experiences, Principles and Practices of Assembling Innovation Teams.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"4","pages":"589-616","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/KoivunenO021","doi":"10.1007/S10606-021-09413-4","ee":"https://doi.org/10.1007/s10606-021-09413-4","url":"https://dblp.org/rec/journals/cscw/KoivunenO021"},
+"url":"URL#1758292"
+},
+{
+"@score":"1",
+"@id":"1758293",
+"info":{"authors":{"author":[{"@pid":"244/6559","text":"Emily G. Lattie"},{"@pid":"188/4697","text":"Eleanor R. Burgess"},{"@pid":"223/8307","text":"David C. Mohr"},{"@pid":"02/693","text":"Madhu C. Reddy"}]},"title":"Care Managers and Role Ambiguity: The Challenges of Supporting the Mental Health Needs of Patients with Chronic Conditions.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"1","pages":"1-34","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/LattieBMR21","doi":"10.1007/S10606-020-09391-Z","ee":"https://doi.org/10.1007/s10606-020-09391-z","url":"https://dblp.org/rec/journals/cscw/LattieBMR21"},
+"url":"URL#1758293"
+},
+{
+"@score":"1",
+"@id":"1758294",
+"info":{"authors":{"author":[{"@pid":"138/6563","text":"Minha Lee"},{"@pid":"206/7675","text":"Lily Frank"},{"@pid":"i/WijnandIJsselsteijn","text":"Wijnand A. IJsselsteijn"}]},"title":"Brokerbot: A Cryptocurrency Chatbot in the Social-technical Gap of Trust.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"1","pages":"79-117","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/LeeFI21","doi":"10.1007/S10606-021-09392-6","ee":"https://doi.org/10.1007/s10606-021-09392-6","url":"https://dblp.org/rec/journals/cscw/LeeFI21"},
+"url":"URL#1758294"
+},
+{
+"@score":"1",
+"@id":"1758295",
+"info":{"authors":{"author":{"@pid":"95/3736-62","text":"Jun Liu 0062"}},"title":"Technology for Activism: Toward a Relational Framework.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"627-650","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/Liu21","doi":"10.1007/S10606-021-09400-9","ee":"https://doi.org/10.1007/s10606-021-09400-9","url":"https://dblp.org/rec/journals/cscw/Liu21"},
+"url":"URL#1758295"
+},
+{
+"@score":"1",
+"@id":"1758296",
+"info":{"authors":{"author":{"@pid":"83/10590","text":"Randall M. Livingstone"}},"title":"Make a Difference in a Different Way: Twitter Bot Creators and Wikipedia Transparency.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"733-756","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/Livingstone21","doi":"10.1007/S10606-021-09411-6","ee":"https://doi.org/10.1007/s10606-021-09411-6","url":"https://dblp.org/rec/journals/cscw/Livingstone21"},
+"url":"URL#1758296"
+},
+{
+"@score":"1",
+"@id":"1758297",
+"info":{"authors":{"author":[{"@pid":"22/6115-5","text":"Thomas Ludwig 0005"},{"@pid":"147/0715","text":"Oliver Stickel"},{"@pid":"83/3770","text":"Peter Tolmie"},{"@pid":"291/3742","text":"Malte Sellmer"}]},"title":"shARe-IT: Ad hoc Remote Troubleshooting through Augmented Reality.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"1","pages":"119-167","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/LudwigSTS21","doi":"10.1007/S10606-021-09393-5","ee":"https://doi.org/10.1007/s10606-021-09393-5","url":"https://dblp.org/rec/journals/cscw/LudwigSTS21"},
+"url":"URL#1758297"
+},
+{
+"@score":"1",
+"@id":"1758298",
+"info":{"authors":{"author":[{"@pid":"43/7406","text":"Gabriela Marcu"},{"@pid":"04/4652","text":"Anind K. Dey"},{"@pid":"k/SaraBKiesler","text":"Sara B. Kiesler"}]},"title":"Tensions in Representing Behavioral Data in an Electronic Health Record.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"3","pages":"393-424","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/MarcuDK21","doi":"10.1007/S10606-021-09402-7","ee":"https://doi.org/10.1007/s10606-021-09402-7","url":"https://dblp.org/rec/journals/cscw/MarcuDK21"},
+"url":"URL#1758298"
+},
+{
+"@score":"1",
+"@id":"1758299",
+"info":{"authors":{"author":[{"@pid":"293/7360","text":"Karen Messing"},{"@pid":"293/7229","text":"Mélanie Lefrançois"},{"@pid":"135/4103","text":"Johanne Saint-Charles"}]},"title":"Observing Inequality: Can Ergonomic Observations Help Interventions Transform the Role of Gender in Work Activity?","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"2","pages":"215-249","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/MessingLS21","doi":"10.1007/S10606-018-9337-X","ee":"https://doi.org/10.1007/s10606-018-9337-x","url":"https://dblp.org/rec/journals/cscw/MessingLS21"},
+"url":"URL#1758299"
+},
+{
+"@score":"1",
+"@id":"1758300",
+"info":{"authors":{"author":[{"@pid":"276/7895","text":"Henna Paakki"},{"@pid":"276/8496","text":"Heidi Vepsäläinen"},{"@pid":"74/581","text":"Antti Salovaara"}]},"title":"Disruptive online communication: How asymmetric trolling-like response strategies steer conversation off the track.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"3","pages":"425-461","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/PaakkiVS21","doi":"10.1007/S10606-021-09397-1","ee":"https://doi.org/10.1007/s10606-021-09397-1","url":"https://dblp.org/rec/journals/cscw/PaakkiVS21"},
+"url":"URL#1758300"
+},
+{
+"@score":"1",
+"@id":"1758301",
+"info":{"authors":{"author":[{"@pid":"185/5422","text":"Christina Pakusch"},{"@pid":"84/812","text":"Alexander Boden"},{"@pid":"29/8075","text":"Martin Stein"},{"@pid":"62/3493","text":"Gunnar Stevens"}]},"title":"The Automation of the Taxi Industry - Taxi Drivers&apos; Expectations and Attitudes Towards the Future of their Work.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"4","pages":"539-587","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/PakuschBSS21","doi":"10.1007/S10606-021-09408-1","ee":"https://doi.org/10.1007/s10606-021-09408-1","url":"https://dblp.org/rec/journals/cscw/PakuschBSS21"},
+"url":"URL#1758301"
+},
+{
+"@score":"1",
+"@id":"1758302",
+"info":{"authors":{"author":[{"@pid":"62/5333","text":"David Randall 0001"},{"@pid":"66/4061","text":"Mark Rouncefield"},{"@pid":"83/3770","text":"Peter Tolmie"}]},"title":"Ethnography, CSCW and Ethnomethodology.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"2","pages":"189-214","year":"2021","type":"Journal Articles","access":"open","key":"journals/cscw/RandallRT21","doi":"10.1007/S10606-020-09388-8","ee":"https://doi.org/10.1007/s10606-020-09388-8","url":"https://dblp.org/rec/journals/cscw/RandallRT21"},
+"url":"URL#1758302"
+},
+{
+"@score":"1",
+"@id":"1758303",
+"info":{"authors":{"author":{"@pid":"309/4306","text":"María de los Ángeles Briones Rojas"}},"title":"Disclose to Tell: a Data Design Framework for Alternative Narratives.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"785-809","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/Rojas21","doi":"10.1007/S10606-021-09416-1","ee":"https://doi.org/10.1007/s10606-021-09416-1","url":"https://dblp.org/rec/journals/cscw/Rojas21"},
+"url":"URL#1758303"
+},
+{
+"@score":"1",
+"@id":"1758304",
+"info":{"authors":{"author":[{"@pid":"70/3598","text":"Pascal Salembier"},{"@pid":"00/3466","text":"Ina Wagner"}]},"title":"Studies of Work &apos;in the Wild&apos;.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"2","pages":"169-188","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/SalembierW21","doi":"10.1007/S10606-021-09396-2","ee":"https://doi.org/10.1007/s10606-021-09396-2","url":"https://dblp.org/rec/journals/cscw/SalembierW21"},
+"url":"URL#1758304"
+},
+{
+"@score":"1",
+"@id":"1758305",
+"info":{"authors":{"author":[{"@pid":"273/2655","text":"Karin Skill"},{"@pid":"309/4551","text":"Sergio Passero"},{"@pid":"309/4624","text":"Marie Francisco"}]},"title":"Assembling Amazon Fires through English Hashtags. Materializing Environmental Activism within Twitter Networks.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"715-732","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/SkillPF21","doi":"10.1007/S10606-021-09403-6","ee":"https://doi.org/10.1007/s10606-021-09403-6","url":"https://dblp.org/rec/journals/cscw/SkillPF21"},
+"url":"URL#1758305"
+},
+{
+"@score":"1",
+"@id":"1758306",
+"info":{"authors":{"author":[{"@pid":"44/11301","text":"Vasilis Vlachokyriakos"},{"@pid":"144/5447","text":"Clara Crivellaro"},{"@pid":"305/9173","text":"Hara Kouki"},{"@pid":"257/2061","text":"Christos Giovanopoulos"},{"@pid":"60/397","text":"Patrick Olivier"}]},"title":"Research with a Solidarity Clinic: Design Implications for CSCW Healthcare Service Design.","venue":"Comput. Support. Cooperative Work.","volume":"30","number":"5","pages":"757-783","year":"2021","type":"Journal Articles","access":"closed","key":"journals/cscw/VlachokyriakosC21","doi":"10.1007/S10606-021-09404-5","ee":"https://doi.org/10.1007/s10606-021-09404-5","url":"https://dblp.org/rec/journals/cscw/VlachokyriakosC21"},
+"url":"URL#1758306"
+}
+]
+}
+}
+}

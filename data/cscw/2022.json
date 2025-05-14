@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/cscw/cscw31.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"84.82"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"48266381",
+"text":":facetid:toc:db/journals/cscw/cscw31.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1270582",
+"info":{"authors":{"author":[{"@pid":"96/13-6","text":"Yao Li 0006"},{"@pid":"164/0075","text":"Xinning Gui"}]},"title":"Examining Co-Owners&apos; Privacy Consideration in Collaborative Photo Sharing.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"1","pages":"79-109","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/0006G22","doi":"10.1007/S10606-021-09421-4","ee":"https://doi.org/10.1007/s10606-021-09421-4","url":"https://dblp.org/rec/journals/cscw/0006G22"},
+"url":"URL#1270582"
+},
+{
+"@score":"1",
+"@id":"1270583",
+"info":{"authors":{"author":[{"@pid":"129/1958","text":"Konstantin Aal"},{"@pid":"120/5555","text":"Nina Boulus-Rødje"},{"@pid":"15/6252","text":"Markus Rohde"}]},"title":"Media, Technologies, Cooperation - Rethinking Publics and Publicness in the MENA Region.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"2","pages":"149-157","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/AalBR22","doi":"10.1007/S10606-022-09435-6","ee":"https://doi.org/10.1007/s10606-022-09435-6","url":"https://dblp.org/rec/journals/cscw/AalBR22"},
+"url":"URL#1270583"
+},
+{
+"@score":"1",
+"@id":"1270584",
+"info":{"authors":{"author":[{"@pid":"186/2259","text":"Valeria Borsotti"},{"@pid":"96/857","text":"Pernille Bjørn"}]},"title":"Humor and Stereotypes in Computing: An Equity-focused Approach to Institutional Accountability.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"4","pages":"771-803","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/BorsottiB22","doi":"10.1007/S10606-022-09440-9","ee":"https://doi.org/10.1007/s10606-022-09440-9","url":"https://dblp.org/rec/journals/cscw/BorsottiB22"},
+"url":"URL#1270584"
+},
+{
+"@score":"1",
+"@id":"1270585",
+"info":{"authors":{"author":[{"@pid":"120/5555","text":"Nina Boulus-Rødje"},{"@pid":"96/857","text":"Pernille Bjørn"}]},"title":"Tech Public of Erosion: the Formation and Transformation of the Palestinian Tech Entrepreneurial Public.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"2","pages":"299-339","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/Boulus-RodjeB22","doi":"10.1007/S10606-021-09419-Y","ee":"https://doi.org/10.1007/s10606-021-09419-y","url":"https://dblp.org/rec/journals/cscw/Boulus-RodjeB22"},
+"url":"URL#1270585"
+},
+{
+"@score":"1",
+"@id":"1270586",
+"info":{"authors":{"author":[{"@pid":"98/3085","text":"Aparecido Fabiano Pinatti de Carvalho"},{"@pid":"94/1465","text":"Saqib Saeed"},{"@pid":"79/3736","text":"Christian Reuter 0001"},{"@pid":"15/6252","text":"Markus Rohde"},{"@pid":"62/5333","text":"David Randall 0001"},{"@pid":"81/1205","text":"Volkmar Pipek"},{"@pid":"48/2607","text":"Volker Wulf"}]},"title":"Understanding Nomadic Practices of Social Activist Networks Through the Lens of Infrastructuring: the Case of the European Social Forum.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"4","pages":"731-769","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/CarvalhoSRRRPW22","doi":"10.1007/S10606-022-09442-7","ee":"https://doi.org/10.1007/s10606-022-09442-7","url":"https://dblp.org/rec/journals/cscw/CarvalhoSRRRPW22"},
+"url":"URL#1270586"
+},
+{
+"@score":"1",
+"@id":"1270587",
+"info":{"authors":{"author":[{"@pid":"20/391","text":"Gunnar Ellingsen"},{"@pid":"59/4940","text":"Morten Hertzum"},{"@pid":"66/8029","text":"Line Melby"}]},"title":"The Tension between National and Local Concerns in Preparing for Large-Scale Generic Systems in Healthcare.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"3","pages":"411-441","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/EllingsenHM22","doi":"10.1007/S10606-022-09424-9","ee":"https://doi.org/10.1007/s10606-022-09424-9","url":"https://dblp.org/rec/journals/cscw/EllingsenHM22"},
+"url":"URL#1270587"
+},
+{
+"@score":"1",
+"@id":"1270588",
+"info":{"authors":{"author":{"@pid":"09/7025","text":"Karen E. Fisher"}},"title":"People First, Data Second: A Humanitarian Research Framework for Fieldwork with Refugees by War Zones.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"2","pages":"237-297","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/Fisher22","doi":"10.1007/S10606-022-09425-8","ee":"https://doi.org/10.1007/s10606-022-09425-8","url":"https://dblp.org/rec/journals/cscw/Fisher22"},
+"url":"URL#1270588"
+},
+{
+"@score":"1",
+"@id":"1270589",
+"info":{"authors":{"author":[{"@pid":"312/5929","text":"Felipe González-Pizarro"},{"@pid":"220/7280","text":"Andrea Figueroa"},{"@pid":"19/6570","text":"Claudia López"},{"@pid":"66/5226","text":"Cecilia R. Aragon"}]},"title":"Regional Differences in Information Privacy Concerns After the Facebook-Cambridge Analytica Data Scandal.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"1","pages":"33-77","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/Gonzalez-Pizarro22","doi":"10.1007/S10606-021-09422-3","ee":"https://doi.org/10.1007/s10606-021-09422-3","url":"https://dblp.org/rec/journals/cscw/Gonzalez-Pizarro22"},
+"url":"URL#1270589"
+},
+{
+"@score":"1",
+"@id":"1270590",
+"info":{"authors":{"author":[{"@pid":"55/599","text":"Karin Hansson"},{"@pid":"310/9239","text":"Anna Näslund Dahlgren"}]},"title":"Crowdsourcing historical photographs: autonomy and control at the Copenhagen City Archives.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"1","pages":"1-32","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/HanssonD22","doi":"10.1007/S10606-021-09418-Z","ee":"https://doi.org/10.1007/s10606-021-09418-z","url":"https://dblp.org/rec/journals/cscw/HanssonD22"},
+"url":"URL#1270590"
+},
+{
+"@score":"1",
+"@id":"1270591",
+"info":{"authors":{"author":[{"@pid":"55/599","text":"Karin Hansson"},{"@pid":"310/9239","text":"Anna Näslund Dahlgren"}]},"title":"Choice, Negotiation, and Pluralism: a Conceptual Framework for Participatory Technologies in Museum Collections.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"4","pages":"603-631","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/HanssonD22a","doi":"10.1007/S10606-022-09441-8","ee":"https://doi.org/10.1007/s10606-022-09441-8","url":"https://dblp.org/rec/journals/cscw/HanssonD22a"},
+"url":"URL#1270591"
+},
+{
+"@score":"1",
+"@id":"1270592",
+"info":{"authors":{"author":[{"@pid":"243/0799","text":"Sami Koivunen"},{"@pid":"328/5232","text":"Saara Ala-Luopa"},{"@pid":"31/5587-2","text":"Thomas Olsson 0002"},{"@pid":"328/5679","text":"Arja Haapakorpi"}]},"title":"The March of Chatbots into Recruitment: Recruiters&apos; Experiences, Expectations, and Design Opportunities.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"3","pages":"487-516","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/KoivunenAOH22","doi":"10.1007/S10606-022-09429-4","ee":"https://doi.org/10.1007/s10606-022-09429-4","url":"https://dblp.org/rec/journals/cscw/KoivunenAOH22"},
+"url":"URL#1270592"
+},
+{
+"@score":"1",
+"@id":"1270593",
+"info":{"authors":{"author":[{"@pid":"91/24","text":"Shaimaa Lazem"},{"@pid":"159/7104","text":"Danilo Giglitto"},{"@pid":"217/9088","text":"Makuochi Samuel Nkwo"},{"@pid":"162/5235","text":"Hafeni Mthoko"},{"@pid":"323/3353","text":"Jessica Upani"},{"@pid":"128/9663","text":"Anicia Peters"}]},"title":"Challenges and Paradoxes in Decolonising HCI: A Critical Discussion.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"2","pages":"159-196","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/LazemGNMUP22","doi":"10.1007/S10606-021-09398-0","ee":"https://doi.org/10.1007/s10606-021-09398-0","url":"https://dblp.org/rec/journals/cscw/LazemGNMUP22"},
+"url":"URL#1270593"
+},
+{
+"@score":"1",
+"@id":"1270594",
+"info":{"authors":{"author":[{"@pid":"51/9408","text":"María Menéndez-Blanco"},{"@pid":"96/857","text":"Pernille Bjørn"}]},"title":"Designing Digital Participatory Budgeting Platforms: Urban Biking Activism in Madrid.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"4","pages":"567-601","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/Menendez-Blanco22","doi":"10.1007/S10606-022-09443-6","ee":"https://doi.org/10.1007/s10606-022-09443-6","url":"https://dblp.org/rec/journals/cscw/Menendez-Blanco22"},
+"url":"URL#1270594"
+},
+{
+"@score":"1",
+"@id":"1270595",
+"info":{"authors":{"author":{"@pid":"20/644-1","text":"Andrew D. Miller 0001"}},"title":"Should You Believe Wikipedia? Online Communities and the Construction of Knowledge, Amy S. Bruckman, Cambridge University Press, Cambridge, United Kingdom, 2022, 260 pp. ISBN 978-1-108-49032-7.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"3","pages":"561-565","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/Miller22","doi":"10.1007/S10606-022-09437-4","ee":"https://doi.org/10.1007/s10606-022-09437-4","url":"https://dblp.org/rec/journals/cscw/Miller22"},
+"url":"URL#1270595"
+},
+{
+"@score":"1",
+"@id":"1270596",
+"info":{"authors":{"author":{"@pid":"181/7654","text":"Frauke Mörike"}},"title":"Inverted Hierarchies on the Shop Floor: The Organisational Layer of Workarounds for Collaboration in the Metal Industry.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"1","pages":"111-147","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/Morike22","doi":"10.1007/S10606-021-09415-2","ee":"https://doi.org/10.1007/s10606-021-09415-2","url":"https://dblp.org/rec/journals/cscw/Morike22"},
+"url":"URL#1270596"
+},
+{
+"@score":"1",
+"@id":"1270597",
+"info":{"authors":{"author":[{"@pid":"179/4672","text":"Srihari Hulikal Muralidhar"},{"@pid":"02/4200","text":"Claus Bossen"},{"@pid":"43/6357","text":"Jacki O&apos;Neill"}]},"title":"Between a Rock and a Hard Place: Negotiating Dependencies and Precarity in the On-Demand Economy.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"3","pages":"443-486","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/MuralidharBO22","doi":"10.1007/S10606-022-09434-7","ee":"https://doi.org/10.1007/s10606-022-09434-7","url":"https://dblp.org/rec/journals/cscw/MuralidharBO22"},
+"url":"URL#1270597"
+},
+{
+"@score":"1",
+"@id":"1270598",
+"info":{"authors":{"author":[{"@pid":"259/0483","text":"Georgia Panagiotidou"},{"@pid":"41/8021","text":"Jeroen Poblome"},{"@pid":"17/7236","text":"Jan Aerts"},{"@pid":"89/766","text":"Andrew Vande Moere"}]},"title":"Designing a Data Visualisation for Interdisciplinary Scientists. How to Transparently Convey Data Frictions?","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"4","pages":"633-667","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/PanagiotidouPAM22","doi":"10.1007/S10606-022-09432-9","ee":"https://doi.org/10.1007/s10606-022-09432-9","url":"https://dblp.org/rec/journals/cscw/PanagiotidouPAM22"},
+"url":"URL#1270598"
+},
+{
+"@score":"1",
+"@id":"1270599",
+"info":{"authors":{"author":{"@pid":"62/5333","text":"Dave Randall 0001"}},"title":"Made to Work: Mobilising Contemporary Worklives.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"3","pages":"555-560","year":"2022","type":"Journal Articles","access":"closed","key":"journals/cscw/Randall22","doi":"10.1007/S10606-022-09431-W","ee":"https://doi.org/10.1007/s10606-022-09431-w","url":"https://dblp.org/rec/journals/cscw/Randall22"},
+"url":"URL#1270599"
+},
+{
+"@score":"1",
+"@id":"1270600",
+"info":{"authors":{"author":[{"@pid":"222/8445","text":"Madeleine Renyi"},{"@pid":"224/8931","text":"Petra Gaugisch"},{"@pid":"328/5810","text":"Alexandra Hunck"},{"@pid":"328/5770","text":"Stefan Strunck"},{"@pid":"01/4164","text":"Christophe Kunze"},{"@pid":"82/3757","text":"Frank Teuteberg"}]},"title":"Uncovering the Complexity of Care Networks - Towards a Taxonomy of Collaboration Complexity in Homecare.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"3","pages":"517-554","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/RenyiGHSKT22","doi":"10.1007/S10606-022-09433-8","ee":"https://doi.org/10.1007/s10606-022-09433-8","url":"https://dblp.org/rec/journals/cscw/RenyiGHSKT22"},
+"url":"URL#1270600"
+},
+{
+"@score":"1",
+"@id":"1270601",
+"info":{"authors":{"author":[{"@pid":"201/4951","text":"Sarah Rüller"},{"@pid":"129/1958","text":"Konstantin Aal"},{"@pid":"242/3996","text":"Simon Holdermann"},{"@pid":"83/3770","text":"Peter Tolmie"},{"@pid":"314/3375","text":"Andrea Hartmann"},{"@pid":"15/6252","text":"Markus Rohde"},{"@pid":"323/3256","text":"Martin Zillinger"},{"@pid":"48/2607","text":"Volker Wulf"}]},"title":"&apos;Technology is Everywhere, we have the Opportunity to Learn it in the Valley&apos;: The Appropriation of a Socio-Technical Enabling Infrastructure in the Moroccan High Atlas.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"2","pages":"197-236","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/RullerAHTHRZW22","doi":"10.1007/S10606-021-09401-8","ee":"https://doi.org/10.1007/s10606-021-09401-8","url":"https://dblp.org/rec/journals/cscw/RullerAHTHRZW22"},
+"url":"URL#1270601"
+},
+{
+"@score":"1",
+"@id":"1270602",
+"info":{"authors":{"author":[{"@pid":"234/9778","text":"Geertje Slingerland"},{"@pid":"91/10090","text":"Maria Murray"},{"@pid":"49/4538","text":"Stephan G. Lukosch"},{"@pid":"36/423","text":"John McCarthy 0002"},{"@pid":"11/4932","text":"Frances M. T. Brazier"}]},"title":"Participatory Design Going Digital: Challenges and Opportunities for Distributed Place-Making.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"4","pages":"669-700","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/SlingerlandMLMB22","doi":"10.1007/S10606-022-09438-3","ee":"https://doi.org/10.1007/s10606-022-09438-3","url":"https://dblp.org/rec/journals/cscw/SlingerlandMLMB22"},
+"url":"URL#1270602"
+},
+{
+"@score":"1",
+"@id":"1270603",
+"info":{"authors":{"author":[{"@pid":"179/4692","text":"Reem Talhouk"},{"@pid":"14/8735","text":"Kyle Montague"},{"@pid":"179/4622","text":"Hala Ghattas"},{"@pid":"165/4687","text":"Vera Araújo-Soares"},{"@pid":"242/4121","text":"Balsam Ahmad"},{"@pid":"69/7339","text":"Madeline Balaam"}]},"title":"Refugee Food Insecurity &amp; Technology: Surfacing Experiences of Adaptation, Navigation, Negotiation and Sharing.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"2","pages":"341-372","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/TalhoukMGAAB22","doi":"10.1007/S10606-022-09423-W","ee":"https://doi.org/10.1007/s10606-022-09423-w","url":"https://dblp.org/rec/journals/cscw/TalhoukMGAAB22"},
+"url":"URL#1270603"
+},
+{
+"@score":"1",
+"@id":"1270604",
+"info":{"authors":{"author":[{"@pid":"44/6292-17","text":"Ye Wang 0017"},{"@pid":"199/2729","text":"Zhicong Lu"},{"@pid":"06/5143-1","text":"Peng Cao 0001"},{"@pid":"335/2909","text":"Jingyi Chu"},{"@pid":"82/5517","text":"Haonan Wang"},{"@pid":"w/RogerWattenhofer","text":"Roger Wattenhofer"}]},"title":"How Live Streaming Changes Shopping Decisions in E-commerce: A Study of Live Streaming Commerce.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"4","pages":"701-729","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/WangLCCWW22","doi":"10.1007/S10606-022-09439-2","ee":"https://doi.org/10.1007/s10606-022-09439-2","url":"https://dblp.org/rec/journals/cscw/WangLCCWW22"},
+"url":"URL#1270604"
+},
+{
+"@score":"1",
+"@id":"1270605",
+"info":{"authors":{"author":[{"@pid":"48/2607","text":"Volker Wulf"},{"@pid":"62/5333","text":"Dave W. Randall 0001"},{"@pid":"129/1958","text":"Konstantin Aal"},{"@pid":"15/6252","text":"Markus Rohde"}]},"title":"The Personal is the Political: Internet Filtering and Counter Appropriation in the Islamic Republic of Iran.","venue":"Comput. Support. Cooperative Work.","volume":"31","number":"2","pages":"373-409","year":"2022","type":"Journal Articles","access":"open","key":"journals/cscw/WulfRAR22","doi":"10.1007/S10606-022-09426-7","ee":"https://doi.org/10.1007/s10606-022-09426-7","url":"https://dblp.org/rec/journals/cscw/WulfRAR22"},
+"url":"URL#1270605"
+}
+]
+}
+}
+}

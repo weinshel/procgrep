@@ -1,0 +1,194 @@
+{
+"result":{
+"query":":facetid:toc:\"db/journals/cscw/cscw32.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.31"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"27",
+"@oc":"27",
+"@id":"48266382",
+"text":":facetid:toc:db/journals/cscw/cscw32.bht"
+}
+},
+"hits":{
+"@total":"27",
+"@computed":"27",
+"@sent":"27",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"746827",
+"info":{"authors":{"author":[{"@pid":"292/9827","text":"Rachel Bergmann"},{"@pid":"131/8692","text":"Sean Rintel"},{"@pid":"50/6549","text":"Nancy Baym"},{"@pid":"157/2775","text":"Advait Sarkar"},{"@pid":"270/9378","text":"Damian Borowiec"},{"@pid":"207/3905","text":"Priscilla N. Y. Wong"},{"@pid":"s/AbigailSellen","text":"Abigail Sellen"}]},"title":"Meeting (the) Pandemic: Videoconferencing Fatigue and Evolving Tensions of Sociality in Enterprise Video Meetings During COVID-19.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"2","pages":"347-383","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/BergmannRBSBWS23","doi":"10.1007/S10606-022-09451-6","ee":"https://doi.org/10.1007/s10606-022-09451-6","url":"https://dblp.org/rec/journals/cscw/BergmannRBSBWS23"},
+"url":"URL#746827"
+},
+{
+"@score":"1",
+"@id":"746828",
+"info":{"authors":{"author":[{"@pid":"276/9660","text":"Katie Berns"},{"@pid":"88/3411","text":"Chiara Rossitto"},{"@pid":"93/688","text":"Jakob Tholander"}]},"title":"Learning from Other Communities: Organising Collective Action in a Grassroots Food-sharing Initiative.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"4","pages":"951-999","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/BernsRT23","doi":"10.1007/S10606-023-09468-5","ee":"https://doi.org/10.1007/s10606-023-09468-5","url":"https://dblp.org/rec/journals/cscw/BernsRT23"},
+"url":"URL#746828"
+},
+{
+"@score":"1",
+"@id":"746829",
+"info":{"authors":{"author":[{"@pid":"356/7177","text":"Safinaz Büyükgüzel"},{"@pid":"55/8574","text":"Robb Mitchell"}]},"title":"Progressivity in Hybrid Meetings: Daily Scrum as an Enabling Constraint for a Multi-Locational Software Development Team.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"573-606","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/BuyukguzelM23","doi":"10.1007/S10606-022-09454-3","ee":"https://doi.org/10.1007/s10606-022-09454-3","url":"https://dblp.org/rec/journals/cscw/BuyukguzelM23"},
+"url":"URL#746829"
+},
+{
+"@score":"1",
+"@id":"746830",
+"info":{"authors":{"author":[{"@pid":"178/9864","text":"Clara Marques Caldeira"},{"@pid":"29/7640","text":"Cleidson R. B. de Souza"},{"@pid":"145/7688","text":"Letícia Machado"},{"@pid":"167/2594","text":"Marcelo Gattermann Perin"},{"@pid":"96/857","text":"Pernille Bjørn"}]},"title":"Crisis Readiness: Revisiting the Distance Framework During the COVID-19 Pandemic.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"2","pages":"237-273","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/CaldeiraSMPB23","doi":"10.1007/S10606-022-09427-6","ee":"https://doi.org/10.1007/s10606-022-09427-6","url":"https://dblp.org/rec/journals/cscw/CaldeiraSMPB23"},
+"url":"URL#746830"
+},
+{
+"@score":"1",
+"@id":"746831",
+"info":{"authors":{"author":[{"@pid":"222/7556","text":"Klaudia Çarçani"},{"@pid":"68/3821","text":"Tone Bratteteig"},{"@pid":"68/1032","text":"Harald Holone"},{"@pid":"72/1360","text":"Jo Herstad"}]},"title":"EquiP: A Method to Co-Design for Cooperation.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"385-438","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/CarcaniBHH23","doi":"10.1007/S10606-023-09463-W","ee":"https://doi.org/10.1007/s10606-023-09463-w","url":"https://dblp.org/rec/journals/cscw/CarcaniBHH23"},
+"url":"URL#746831"
+},
+{
+"@score":"1",
+"@id":"746832",
+"info":{"authors":{"author":[{"@pid":"236/6430","text":"Teresa Castle-Green"},{"@pid":"89/3841","text":"Stuart Reeves"},{"@pid":"23/3543","text":"Joel E. Fischer"},{"@pid":"41/4688","text":"Boriana Koleva"}]},"title":"Revisiting the Digital Plumber: Modifying the Installation Process of an Established Commercial IoT Alarm System.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"607-643","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/CastleGreenRFK23","doi":"10.1007/S10606-022-09455-2","ee":"https://doi.org/10.1007/s10606-022-09455-2","url":"https://dblp.org/rec/journals/cscw/CastleGreenRFK23"},
+"url":"URL#746832"
+},
+{
+"@score":"1",
+"@id":"746833",
+"info":{"authors":{"author":[{"@pid":"183/4689","text":"Max T. Curran"},{"@pid":"c/JohnChuang","text":"John Chuang"}]},"title":"Social Distancing and Social Biosensing: Intersubjectivity from Afar.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"2","pages":"313-346","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/CurranC23","doi":"10.1007/S10606-022-09428-5","ee":"https://doi.org/10.1007/s10606-022-09428-5","url":"https://dblp.org/rec/journals/cscw/CurranC23"},
+"url":"URL#746833"
+},
+{
+"@score":"1",
+"@id":"746834",
+"info":{"authors":{"author":[{"@pid":"270/9777","text":"Tangni Cunningham Dahl-Jørgensen"},{"@pid":"119/6331","text":"Elena Parmiggiani"}]},"title":"Caseworkers&apos; participation in procurement: Infrastructuring Child Welfare Services in Norway.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"4","pages":"781-823","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/DahlJorgensenP23","doi":"10.1007/S10606-023-09469-4","ee":"https://doi.org/10.1007/s10606-023-09469-4","url":"https://dblp.org/rec/journals/cscw/DahlJorgensenP23"},
+"url":"URL#746834"
+},
+{
+"@score":"1",
+"@id":"746835",
+"info":{"authors":{"author":[{"@pid":"201/4976","text":"Thomas Deacon"},{"@pid":"35/5227","text":"Patrick Healey 0001"},{"@pid":"04/5231","text":"Mathieu Barthet"}]},"title":"&quot;It&apos;s cleaner, definitely&quot;: Collaborative Process in Audio Production.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"475-505","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/DeaconHB23","doi":"10.1007/S10606-022-09448-1","ee":"https://doi.org/10.1007/s10606-022-09448-1","url":"https://dblp.org/rec/journals/cscw/DeaconHB23"},
+"url":"URL#746835"
+},
+{
+"@score":"1",
+"@id":"746836",
+"info":{"authors":{"author":[{"@pid":"256/9053","text":"Asbjørn Ammitzbøll Flügge"},{"@pid":"134/9047","text":"Naja L. Holten Møller"}]},"title":"The Role of Physical Cues in Co-located and Remote Casework.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"2","pages":"275-312","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/FluggeM23","doi":"10.1007/S10606-022-09449-0","ee":"https://doi.org/10.1007/s10606-022-09449-0","url":"https://dblp.org/rec/journals/cscw/FluggeM23"},
+"url":"URL#746836"
+},
+{
+"@score":"1",
+"@id":"746837",
+"info":{"authors":{"author":[{"@pid":"266/3252","text":"Stefan Hochwarter"},{"@pid":"232/6622","text":"Julian Schwarz"},{"@pid":"345/4760","text":"Felix Mühlensiepen"},{"@pid":"m/EricMonteiro","text":"Eric Monteiro"}]},"title":"Becoming a Guest: On Proximity and Distance in Mental Health Home Treatment.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"645-674","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/HochwarterSMM23","doi":"10.1007/S10606-022-09456-1","ee":"https://doi.org/10.1007/s10606-022-09456-1","url":"https://dblp.org/rec/journals/cscw/HochwarterSMM23"},
+"url":"URL#746837"
+},
+{
+"@score":"1",
+"@id":"746838",
+"info":{"authors":{"author":[{"@pid":"341/7435","text":"Lorenz Hoerner"},{"@pid":"341/6878","text":"Markus Schamberger"},{"@pid":"44/1291","text":"Freimut Bodendorf"}]},"title":"Using Tacit Expert Knowledge to Support Shop-floor Operators Through a Knowledge-based Assistance System.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"1","pages":"55-91","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/HoernerSB23","doi":"10.1007/S10606-022-09445-4","ee":"https://doi.org/10.1007/s10606-022-09445-4","url":"https://dblp.org/rec/journals/cscw/HoernerSB23"},
+"url":"URL#746838"
+},
+{
+"@score":"1",
+"@id":"746839",
+"info":{"authors":{"author":[{"@pid":"03/9678","text":"Sven Hoffmann"},{"@pid":"22/6115-5","text":"Thomas Ludwig 0005"},{"@pid":"247/3637","text":"Florian Jasche"},{"@pid":"48/2607","text":"Volker Wulf"},{"@pid":"62/5333","text":"David W. Randall 0001"}]},"title":"RetrofittAR: Supporting Hardware-Centered Expertise Sharing in Manufacturing Settings through Augmented Reality.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"1","pages":"93-139","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/HoffmannLJWR23","doi":"10.1007/S10606-022-09430-X","ee":"https://doi.org/10.1007/s10606-022-09430-x","url":"https://dblp.org/rec/journals/cscw/HoffmannLJWR23"},
+"url":"URL#746839"
+},
+{
+"@score":"1",
+"@id":"746840",
+"info":{"authors":{"author":[{"@pid":"43/7834","text":"Jonas Ivarsson"},{"@pid":"85/4365","text":"Oskar Lindwall"}]},"title":"Suspicious Minds: the Problem of Trust and Conversational Agents.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"545-571","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/IvarssonL23","doi":"10.1007/S10606-023-09465-8","ee":"https://doi.org/10.1007/s10606-023-09465-8","url":"https://dblp.org/rec/journals/cscw/IvarssonL23"},
+"url":"URL#746840"
+},
+{
+"@score":"1",
+"@id":"746841",
+"info":{"authors":{"author":[{"@pid":"72/793","text":"Marianne Kinnula"},{"@pid":"56/2712","text":"Netta Iivari"},{"@pid":"26/4990","text":"Leena Kuure"},{"@pid":"58/5353","text":"Tonja Molin-Juustila"}]},"title":"Educational Participatory Design in the Crossroads of Histories and Practices - Aiming for Digital Transformation in Language Pedagogy.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"4","pages":"745-780","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/KinnulaIKM23","doi":"10.1007/S10606-023-09473-8","ee":"https://doi.org/10.1007/s10606-023-09473-8","url":"https://dblp.org/rec/journals/cscw/KinnulaIKM23"},
+"url":"URL#746841"
+},
+{
+"@score":"1",
+"@id":"746842",
+"info":{"authors":{"author":[{"@pid":"169/5280","text":"Christoph Kotthaus"},{"@pid":"237/5346","text":"Nico Vitt"},{"@pid":"89/7921-1","text":"Max Krüger 0001"},{"@pid":"81/1205","text":"Volkmar Pipek"},{"@pid":"48/2607","text":"Volker Wulf"}]},"title":"Negotiating Priorities on the Shopfloor: A Design Case Study of Maintainers&apos; Practices.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"1","pages":"141-210","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/KotthausVKPW23","doi":"10.1007/S10606-022-09444-5","ee":"https://doi.org/10.1007/s10606-022-09444-5","url":"https://dblp.org/rec/journals/cscw/KotthausVKPW23"},
+"url":"URL#746842"
+},
+{
+"@score":"1",
+"@id":"746843",
+"info":{"authors":{"author":[{"@pid":"22/6115-5","text":"Thomas Ludwig 0005"},{"@pid":"50/6044","text":"Myriam Lewkowicz"},{"@pid":"59/2350","text":"Torkil Clemmensen"}]},"title":"Cooperation on the Shopfloor: CSCW in Manufacturing and Industry Settings.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"1","pages":"1-4","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/LudwigLC23","doi":"10.1007/S10606-022-09446-3","ee":"https://doi.org/10.1007/s10606-022-09446-3","url":"https://dblp.org/rec/journals/cscw/LudwigLC23"},
+"url":"URL#746843"
+},
+{
+"@score":"1",
+"@id":"746844",
+"info":{"authors":{"author":[{"@pid":"204/1802","text":"Gaia Mosconi"},{"@pid":"98/3085","text":"Aparecido Fabiano Pinatti de Carvalho"},{"@pid":"361/7160","text":"Hussain Abid Syed"},{"@pid":"62/5333","text":"David W. Randall 0001"},{"@pid":"32/4166","text":"Helena Karasti"},{"@pid":"81/1205","text":"Volkmar Pipek"}]},"title":"Fostering Research Data Management in Collaborative Research Contexts: Lessons learnt from an &apos;Embedded&apos; Evaluation of &apos;Data Story&apos;.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"4","pages":"911-949","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/MosconiCSRKP23","doi":"10.1007/S10606-023-09467-6","ee":"https://doi.org/10.1007/s10606-023-09467-6","url":"https://dblp.org/rec/journals/cscw/MosconiCSRKP23"},
+"url":"URL#746844"
+},
+{
+"@score":"1",
+"@id":"746845",
+"info":{"authors":{"author":[{"@pid":"263/8914","text":"Trine Rask Nielsen"},{"@pid":"51/9408","text":"María Menéndez-Blanco"},{"@pid":"134/9047","text":"Naja L. Holten Møller"}]},"title":"Who Cares About Data? Ambivalence, Translation, and Attentiveness in Asylum Casework.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"4","pages":"861-910","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/NielsenMM23","doi":"10.1007/S10606-023-09474-7","ee":"https://doi.org/10.1007/s10606-023-09474-7","url":"https://dblp.org/rec/journals/cscw/NielsenMM23"},
+"url":"URL#746845"
+},
+{
+"@score":"1",
+"@id":"746846",
+"info":{"authors":{"author":{"@pid":"43/8397","text":"Firaz Peer"}},"title":"The Human Infrastructure of Civic Data: A Taxonomy for Participatory Infrastructuring of Civic Data.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"4","pages":"825-859","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/Peer23","doi":"10.1007/S10606-023-09470-X","ee":"https://doi.org/10.1007/s10606-023-09470-x","url":"https://dblp.org/rec/journals/cscw/Peer23"},
+"url":"URL#746846"
+},
+{
+"@score":"1",
+"@id":"746847",
+"info":{"authors":{"author":{"@pid":"341/2132","text":"Anastasia V. Sergeeva"}},"title":"A Postphenomenological Perspective On the Changing Nature of Work.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"2","pages":"215-236","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/Sergeeva23","doi":"10.1007/S10606-022-09447-2","ee":"https://doi.org/10.1007/s10606-022-09447-2","url":"https://dblp.org/rec/journals/cscw/Sergeeva23"},
+"url":"URL#746847"
+},
+{
+"@score":"1",
+"@id":"746848",
+"info":{"authors":{"author":[{"@pid":"75/3390","text":"John C. Tang"},{"@pid":"i/KoriInkpen","text":"Kori Inkpen"},{"@pid":"04/2166","text":"Paul Luff"},{"@pid":"46/3111","text":"Geraldine Fitzpatrick"},{"@pid":"74/2482","text":"Naomi Yamashita"},{"@pid":"64/3462","text":"Juho Kim"}]},"title":"Living Through a Crisis: How COVID-19 Has Transformed the Way We Work, Live, and Research.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"2","pages":"211-213","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/TangILFYK23","doi":"10.1007/S10606-022-09452-5","ee":"https://doi.org/10.1007/s10606-022-09452-5","url":"https://dblp.org/rec/journals/cscw/TangILFYK23"},
+"url":"URL#746848"
+},
+{
+"@score":"1",
+"@id":"746849",
+"info":{"authors":{"author":[{"@pid":"356/7020","text":"Nadine Sandjo Tchatchoua"},{"@pid":"120/5555","text":"Nina Boulus-Rødje"},{"@pid":"16/3053","text":"Val Mitchell"}]},"title":"Green IT Meaning in Energy Monitoring Practices: The Case of Danish Households.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"675-712","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/TchatchouaBM23","doi":"10.1007/S10606-022-09462-3","ee":"https://doi.org/10.1007/s10606-022-09462-3","url":"https://dblp.org/rec/journals/cscw/TchatchouaBM23"},
+"url":"URL#746849"
+},
+{
+"@score":"1",
+"@id":"746850",
+"info":{"authors":{"author":[{"@pid":"266/9905","text":"Tim Weinert"},{"@pid":"231/6128","text":"Matthias Simon Billert"},{"@pid":"172/7332","text":"Marian Thiel de Gafenco"},{"@pid":"144/1213","text":"Andreas Janson"},{"@pid":"74/2619","text":"Jan Marco Leimeister"}]},"title":"Designing a Co-creation System for the Development of Work-process-related Learning Material in Manufacturing.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"1","pages":"5-53","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/WeinertBGJL23","doi":"10.1007/S10606-021-09420-5","ee":"https://doi.org/10.1007/s10606-021-09420-5","url":"https://dblp.org/rec/journals/cscw/WeinertBGJL23"},
+"url":"URL#746850"
+},
+{
+"@score":"1",
+"@id":"746851",
+"info":{"authors":{"author":[{"@pid":"244/3276","text":"Haoyu Xie"},{"@pid":"133/6754","text":"Eddy Maddalena"},{"@pid":"186/8067","text":"Rehab Kamal Qarout"},{"@pid":"72/10821","text":"Alessandro Checco"}]},"title":"The Dark Side of Recruitment in Crowdsourcing: Ethics and Transparency in Micro-Task Marketplaces.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"439-474","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/XieMQC23","doi":"10.1007/S10606-023-09464-9","ee":"https://doi.org/10.1007/s10606-023-09464-9","url":"https://dblp.org/rec/journals/cscw/XieMQC23"},
+"url":"URL#746851"
+},
+{
+"@score":"1",
+"@id":"746852",
+"info":{"authors":{"author":[{"@pid":"243/2480","text":"Zeynep Yildiz"},{"@pid":"67/1932","text":"Özge Subasi"}]},"title":"An Institutional Perspective: How Gatekeepers on a Higher Education Interact for the Organization of Access.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"713-744","year":"2023","type":"Journal Articles","access":"closed","key":"journals/cscw/YildizS23","doi":"10.1007/S10606-023-09471-W","ee":"https://doi.org/10.1007/s10606-023-09471-w","url":"https://dblp.org/rec/journals/cscw/YildizS23"},
+"url":"URL#746852"
+},
+{
+"@score":"1",
+"@id":"746853",
+"info":{"authors":{"author":[{"@pid":"277/2995","text":"Øivind Klungseth Zahlsen"},{"@pid":"41/440","text":"Dag Svanæs"},{"@pid":"22/5530","text":"Yngve Dahl"}]},"title":"Representative Participation in a Large-Scale Health IT Project.","venue":"Comput. Support. Cooperative Work.","volume":"32","number":"3","pages":"507-544","year":"2023","type":"Journal Articles","access":"open","key":"journals/cscw/ZahlsenSD23","doi":"10.1007/S10606-022-09457-0","ee":"https://doi.org/10.1007/s10606-022-09457-0","url":"https://dblp.org/rec/journals/cscw/ZahlsenSD23"},
+"url":"URL#746853"
+}
+]
+}
+}
+}
