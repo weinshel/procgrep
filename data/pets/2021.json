@@ -1,23 +1,542 @@
 {
 "result":{
-"query":":facetid:toc:\"db/conf/pet/pet2021.bht\"",
+"query":":facetid:toc:\"db/journals/popets/popets2021.bht\"",
 "status":{
 "@code":"200",
 "text":"OK"
 },
 "time":{
 "@unit":"msecs",
-"text":"0.13"
+"text":"75.56"
 },
 "completions":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0"
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"85",
+"@dc":"85",
+"@oc":"85",
+"@id":"48303018",
+"text":":facetid:toc:db/journals/popets/popets2021.bht"
+}
 },
 "hits":{
-"@total":"0",
-"@computed":"0",
-"@sent":"0",
-"@first":"0"}
+"@total":"85",
+"@computed":"85",
+"@sent":"85",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1844544",
+"info":{"authors":{"author":[{"@pid":"228/6615","text":"Mark Abspoel"},{"@pid":"05/4011-1","text":"Daniel Escudero 0001"},{"@pid":"150/5131","text":"Nikolaj Volgushev"}]},"title":"Secure training of decision trees with continuous attributes.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"167-187","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/AbspoelEV21","doi":"10.2478/POPETS-2021-0010","ee":"https://doi.org/10.2478/popets-2021-0010","url":"https://dblp.org/rec/journals/popets/AbspoelEV21"},
+"url":"URL#1844544"
+},
+{
+"@score":"1",
+"@id":"1844545",
+"info":{"authors":{"author":[{"@pid":"119/5033","text":"Mahdi Nasrullah Al-Ameen"},{"@pid":"252/4013","text":"Huzeyfe Kocabas"},{"@pid":"267/7781","text":"Swapnil Nandy"},{"@pid":"270/1017","text":"Tanjina Tamanna"}]},"title":"&quot;We, three brothers have always known everything of each other&quot;: A Cross-cultural Study of Sharing Digital Devices and Online Accounts.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"203-224","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/Al-AmeenKNT21","doi":"10.2478/POPETS-2021-0067","ee":"https://doi.org/10.2478/popets-2021-0067","url":"https://dblp.org/rec/journals/popets/Al-AmeenKNT21"},
+"url":"URL#1844545"
+},
+{
+"@score":"1",
+"@id":"1844546",
+"info":{"authors":{"author":[{"@pid":"274/1979","text":"A. K. M. Mubashwir Alam"},{"@pid":"167/2117","text":"Sagar Sharma"},{"@pid":"32/4592","text":"Keke Chen"}]},"title":"SGX-MR: Regulating Dataflows for Protecting Access Patterns of Data-Intensive SGX Applications.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"5-20","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/AlamSC21","doi":"10.2478/POPETS-2021-0002","ee":"https://doi.org/10.2478/popets-2021-0002","url":"https://dblp.org/rec/journals/popets/AlamSC21"},
+"url":"URL#1844546"
+},
+{
+"@score":"1",
+"@id":"1844547",
+"info":{"authors":{"author":[{"@pid":"67/4686","text":"Ghada Almashaqbeh"},{"@pid":"125/3488","text":"Fabrice Benhamouda"},{"@pid":"119/3428","text":"Seungwook Han"},{"@pid":"219/8727","text":"Daniel Jaroslawicz"},{"@pid":"m/TalMalkin","text":"Tal Malkin"},{"@pid":"289/1885","text":"Alex Nicita"},{"@pid":"r/TalRabin","text":"Tal Rabin"},{"@pid":"162/8000","text":"Abhishek Shah"},{"@pid":"t/EranTromer","text":"Eran Tromer"}]},"title":"Gage MPC: Bypassing Residual Function Leakage for Non-Interactive MPC.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"528-548","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/AlmashaqbehBHJM21","doi":"10.2478/POPETS-2021-0083","ee":"https://doi.org/10.2478/popets-2021-0083","url":"https://dblp.org/rec/journals/popets/AlmashaqbehBHJM21"},
+"url":"URL#1844547"
+},
+{
+"@score":"1",
+"@id":"1844548",
+"info":{"authors":{"author":[{"@pid":"178/5234","text":"Miguel Ambrona"},{"@pid":"99/2744-1","text":"Dario Fiore 0001"},{"@pid":"57/1338","text":"Claudio Soriente"}]},"title":"Controlled Functional Encryption Revisited: Multi-Authority Extensions and Efficient Schemes for Quadratic Functions.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"21-42","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/AmbronaFS21","doi":"10.2478/POPETS-2021-0003","ee":"https://doi.org/10.2478/popets-2021-0003","url":"https://dblp.org/rec/journals/popets/AmbronaFS21"},
+"url":"URL#1844548"
+},
+{
+"@score":"1",
+"@id":"1844549",
+"info":{"authors":{"author":[{"@pid":"297/9573","text":"Logan Arkema"},{"@pid":"57/3752","text":"Micah Sherr"}]},"title":"Residue-Free Computing.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"389-405","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ArkemaS21","doi":"10.2478/POPETS-2021-0076","ee":"https://doi.org/10.2478/popets-2021-0076","url":"https://dblp.org/rec/journals/popets/ArkemaS21"},
+"url":"URL#1844549"
+},
+{
+"@score":"1",
+"@id":"1844550",
+"info":{"authors":{"author":[{"@pid":"257/2987","text":"Kerem Ayoz"},{"@pid":"44/2529","text":"Erman Ayday"},{"@pid":"47/11102","text":"A. Ercüment Çiçek"}]},"title":"Genome Reconstruction Attacks Against Genomic Data-Sharing Beacons.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"28-48","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/AyozAC21","doi":"10.2478/POPETS-2021-0036","ee":"https://doi.org/10.2478/popets-2021-0036","url":"https://dblp.org/rec/journals/popets/AyozAC21"},
+"url":"URL#1844550"
+},
+{
+"@score":"1",
+"@id":"1844551",
+"info":{"authors":{"author":[{"@pid":"154/3548","text":"Leonardo Babun"},{"@pid":"143/2298","text":"Z. Berkay Celik"},{"@pid":"m/PatrickDrewMcDaniel","text":"Patrick D. McDaniel"},{"@pid":"46/1500","text":"A. Selcuk Uluagac"}]},"title":"Real-time Analysis of Privacy-(un)aware IoT Applications.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"145-166","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/BabunCMU21","doi":"10.2478/POPETS-2021-0009","ee":"https://doi.org/10.2478/popets-2021-0009","url":"https://dblp.org/rec/journals/popets/BabunCMU21"},
+"url":"URL#1844551"
+},
+{
+"@score":"1",
+"@id":"1844552",
+"info":{"authors":{"author":[{"@pid":"32/3349","text":"Alexandra Boldyreva"},{"@pid":"240/8179","text":"Tianxin Tang"}]},"title":"Privacy-Preserving Approximate k-Nearest-Neighbors Search that Hides Access, Query and Volume Patterns.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"549-574","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/BoldyrevaT21","doi":"10.2478/POPETS-2021-0084","ee":"https://doi.org/10.2478/popets-2021-0084","url":"https://dblp.org/rec/journals/popets/BoldyrevaT21"},
+"url":"URL#1844552"
+},
+{
+"@score":"1",
+"@id":"1844553",
+"info":{"authors":{"author":[{"@pid":"27/1509","text":"Glencora Borradaile"},{"@pid":"289/7092","text":"Kelsy Kretschmer"},{"@pid":"289/7312","text":"Michele Gretes"},{"@pid":"257/3315","text":"Alexandria LeClerc"}]},"title":"The Motivated Can Encrypt (Even with PGP).","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"49-69","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/BorradaileKGL21","doi":"10.2478/POPETS-2021-0037","ee":"https://doi.org/10.2478/popets-2021-0037","url":"https://dblp.org/rec/journals/popets/BorradaileKGL21"},
+"url":"URL#1844553"
+},
+{
+"@score":"1",
+"@id":"1844554",
+"info":{"authors":{"author":[{"@pid":"189/1473","text":"Brandon Broadnax"},{"@pid":"45/2101-1","text":"Alexander Koch 0001"},{"@pid":"183/5762","text":"Jeremias Mechler"},{"@pid":"59/1656-5","text":"Tobias Müller 0005"},{"@pid":"m/JMullerQuade","text":"Jörn Müller-Quade"},{"@pid":"117/1281-1","text":"Matthias Nagel 0001"}]},"title":"Fortified Multi-Party Computation: Taking Advantage of Simple Secure Hardware Modules.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"312-338","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/BroadnaxKMMMN21","doi":"10.2478/POPETS-2021-0072","ee":"https://doi.org/10.2478/popets-2021-0072","url":"https://dblp.org/rec/journals/popets/BroadnaxKMMMN21"},
+"url":"URL#1844554"
+},
+{
+"@score":"1",
+"@id":"1844555",
+"info":{"authors":{"author":[{"@pid":"90/9994","text":"Duc Bui"},{"@pid":"s/KangGShin","text":"Kang G. Shin"},{"@pid":"290/5068","text":"Jong-Min Choi"},{"@pid":"70/5871","text":"Junbum Shin"}]},"title":"Automated Extraction and Presentation of Data Practices in Privacy Policies.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"88-110","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/BuiSCS21","doi":"10.2478/POPETS-2021-0019","ee":"https://doi.org/10.2478/popets-2021-0019","url":"https://dblp.org/rec/journals/popets/BuiSCS21"},
+"url":"URL#1844555"
+},
+{
+"@score":"1",
+"@id":"1844556",
+"info":{"authors":{"author":[{"@pid":"298/0449","text":"José Cabrero-Holgueras"},{"@pid":"41/8823","text":"Sergio Pastrana"}]},"title":"SoK: Privacy-Preserving Computation Techniques for Deep Learning.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"139-162","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/Cabrero-Holgueras21","doi":"10.2478/POPETS-2021-0064","ee":"https://doi.org/10.2478/popets-2021-0064","url":"https://dblp.org/rec/journals/popets/Cabrero-Holgueras21"},
+"url":"URL#1844556"
+},
+{
+"@score":"1",
+"@id":"1844557",
+"info":{"authors":{"author":[{"@pid":"09/2637","text":"Konstantinos Chalkias"},{"@pid":"259/1807","text":"Shir Cohen"},{"@pid":"116/4837","text":"Kevin Lewi"},{"@pid":"289/1995","text":"Fredric Moezinia"},{"@pid":"210/6672","text":"Yolan Romailler"}]},"title":"HashWires: Hyperefficient Credential-Based Range Proofs.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"76-95","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ChalkiasCLMR21","doi":"10.2478/POPETS-2021-0061","ee":"https://doi.org/10.2478/popets-2021-0061","url":"https://dblp.org/rec/journals/popets/ChalkiasCLMR21"},
+"url":"URL#1844557"
+},
+{
+"@score":"1",
+"@id":"1844558",
+"info":{"authors":{"author":[{"@pid":"179/2245","text":"Varun Chandrasekaran"},{"@pid":"160/8486","text":"Chuhan Gao"},{"@pid":"74/4900","text":"Brian Tang"},{"@pid":"97/535","text":"Kassem Fawaz"},{"@pid":"j/SomeshJha","text":"Somesh Jha"},{"@pid":"345/5455-1","text":"Suman Banerjee 0001"}]},"title":"Face-Off: Adversarial Face Obfuscation.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"369-390","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ChandrasekaranG21","doi":"10.2478/POPETS-2021-0032","ee":"https://doi.org/10.2478/popets-2021-0032","url":"https://dblp.org/rec/journals/popets/ChandrasekaranG21"},
+"url":"URL#1844558"
+},
+{
+"@score":"1",
+"@id":"1844559",
+"info":{"authors":{"author":[{"@pid":"245/4979","text":"Sylvain Chatel"},{"@pid":"66/7821","text":"Apostolos Pyrgelis"},{"@pid":"33/5866","text":"Juan Ramón Troncoso-Pastoriza"},{"@pid":"h/JPHubaux","text":"Jean-Pierre Hubaux"}]},"title":"SoK: Privacy-Preserving Collaborative Tree-based Model Learning.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"182-203","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ChatelPTH21","doi":"10.2478/POPETS-2021-0043","ee":"https://doi.org/10.2478/popets-2021-0043","url":"https://dblp.org/rec/journals/popets/ChatelPTH21"},
+"url":"URL#1844559"
+},
+{
+"@score":"1",
+"@id":"1844560",
+"info":{"authors":{"author":[{"@pid":"70/11465","text":"Camille Cobb"},{"@pid":"153/5833","text":"Sruti Bhagavatula"},{"@pid":"242/2202","text":"Kalil Anderson Garrett"},{"@pid":"297/9568","text":"Alison Hoffman"},{"@pid":"199/3037","text":"Varun Rao"},{"@pid":"32/3440","text":"Lujo Bauer"}]},"title":"&quot;I would have to evaluate their objections&quot;: Privacy tensions between smart home device owners and incidental users.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"54-75","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/CobbBGHRB21","doi":"10.2478/POPETS-2021-0060","ee":"https://doi.org/10.2478/popets-2021-0060","url":"https://dblp.org/rec/journals/popets/CobbBGHRB21"},
+"url":"URL#1844560"
+},
+{
+"@score":"1",
+"@id":"1844561",
+"info":{"authors":{"author":[{"@pid":"227/7916","text":"Elizabeth C. Crites"},{"@pid":"70/3375","text":"Anna Lysyanskaya"}]},"title":"Mercurial Signatures for Variable-Length Messages.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"441-463","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/CritesL21","doi":"10.2478/POPETS-2021-0079","ee":"https://doi.org/10.2478/popets-2021-0079","url":"https://dblp.org/rec/journals/popets/CritesL21"},
+"url":"URL#1844561"
+},
+{
+"@score":"1",
+"@id":"1844562",
+"info":{"authors":{"author":[{"@pid":"184/2500","text":"Rasmus Dahlberg"},{"@pid":"72/11061","text":"Tobias Pulls"},{"@pid":"10/4005","text":"Tom Ritter"},{"@pid":"81/5221","text":"Paul Syverson"}]},"title":"Privacy-Preserving &amp; Incrementally-Deployable Support for Certificate Transparency in Tor.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"194-213","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/DahlbergPRS21","doi":"10.2478/POPETS-2021-0024","ee":"https://doi.org/10.2478/popets-2021-0024","url":"https://dblp.org/rec/journals/popets/DahlbergPRS21"},
+"url":"URL#1844562"
+},
+{
+"@score":"1",
+"@id":"1844563",
+"info":{"authors":{"author":[{"@pid":"254/8735","text":"Aditya Damodaran"},{"@pid":"09/154","text":"Alfredo Rial"}]},"title":"Unlinkable Updatable Hiding Databases and Privacy-Preserving Loyalty Programs.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"95-121","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/DamodaranR21","doi":"10.2478/POPETS-2021-0039","ee":"https://doi.org/10.2478/popets-2021-0039","url":"https://dblp.org/rec/journals/popets/DamodaranR21"},
+"url":"URL#1844563"
+},
+{
+"@score":"1",
+"@id":"1844564",
+"info":{"authors":{"author":[{"@pid":"187/6246","text":"Ashish Dandekar"},{"@pid":"126/2209","text":"Debabrota Basu"},{"@pid":"b/SBressan","text":"Stéphane Bressan"}]},"title":"Differential Privacy at Risk: Bridging Randomness and Privacy Budget.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"64-84","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/DandekarBB21","doi":"10.2478/POPETS-2021-0005","ee":"https://doi.org/10.2478/popets-2021-0005","url":"https://dblp.org/rec/journals/popets/DandekarBB21"},
+"url":"URL#1844564"
+},
+{
+"@score":"1",
+"@id":"1844565",
+"info":{"authors":{"author":[{"@pid":"153/5813","text":"Edwin Dauber"},{"@pid":"93/2838","text":"Robert F. Erbacher"},{"@pid":"233/4165","text":"Gregory Shearer"},{"@pid":"79/1900","text":"Michael J. Weisman"},{"@pid":"221/5255","text":"Frederica Free-Nelson"},{"@pid":"93/655","text":"Rachel Greenstadt"}]},"title":"Supervised Authorship Segmentation of Open Source Code Projects.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"464-479","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/DauberESWFG21","doi":"10.2478/POPETS-2021-0080","ee":"https://doi.org/10.2478/popets-2021-0080","url":"https://dblp.org/rec/journals/popets/DauberESWFG21"},
+"url":"URL#1844565"
+},
+{
+"@score":"1",
+"@id":"1844566",
+"info":{"authors":{"author":[{"@pid":"286/1246","text":"Yana Dimova"},{"@pid":"136/8452","text":"Gunes Acar"},{"@pid":"77/7304","text":"Lukasz Olejnik"},{"@pid":"13/86","text":"Wouter Joosen"},{"@pid":"147/2244","text":"Tom van Goethem"}]},"title":"The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"394-412","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/DimovaAOJG21","doi":"10.2478/POPETS-2021-0053","ee":"https://doi.org/10.2478/popets-2021-0053","url":"https://dblp.org/rec/journals/popets/DimovaAOJG21"},
+"url":"URL#1844566"
+},
+{
+"@score":"1",
+"@id":"1844567",
+"info":{"authors":{"author":[{"@pid":"297/8337","text":"Alexandra Dirksen"},{"@pid":"78/854-1","text":"David Klein 0001"},{"@pid":"297/9377","text":"Robert Michael"},{"@pid":"266/9013","text":"Tilman Stehr"},{"@pid":"64/4020","text":"Konrad Rieck"},{"@pid":"82/359","text":"Martin Johns"}]},"title":"LogPicker: Strengthening Certificate Transparency Against Covert Adversaries.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"184-202","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/DirksenKMSRJ21","doi":"10.2478/POPETS-2021-0066","ee":"https://doi.org/10.2478/popets-2021-0066","url":"https://dblp.org/rec/journals/popets/DirksenKMSRJ21"},
+"url":"URL#1844567"
+},
+{
+"@score":"1",
+"@id":"1844568",
+"info":{"authors":{"author":[{"@pid":"176/0554","text":"Felix Engelmann"},{"@pid":"169/4738","text":"Lukas Müller"},{"@pid":"43/8243","text":"Andreas Peter"},{"@pid":"46/306","text":"Frank Kargl"},{"@pid":"58/3065","text":"Christoph Bösch"}]},"title":"SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"270-290","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/EngelmannMPKB21","doi":"10.2478/POPETS-2021-0070","ee":"https://doi.org/10.2478/popets-2021-0070","url":"https://dblp.org/rec/journals/popets/EngelmannMPKB21"},
+"url":"URL#1844568"
+},
+{
+"@score":"1",
+"@id":"1844569",
+"info":{"authors":{"author":[{"@pid":"357/9689","text":"Johannes Ernst"},{"@pid":"45/2101-1","text":"Alexander Koch 0001"}]},"title":"Private Stream Aggregation with Labels in the Standard Model.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"117-138","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ErnstK21","doi":"10.2478/POPETS-2021-0063","ee":"https://doi.org/10.2478/popets-2021-0063","url":"https://dblp.org/rec/journals/popets/ErnstK21"},
+"url":"URL#1844569"
+},
+{
+"@score":"1",
+"@id":"1844570",
+"info":{"authors":{"author":{"@pid":"198/0935","text":"Saba Eskandarian"}},"title":"Fast Privacy-Preserving Punch Cards.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"289-307","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/Eskandarian21","doi":"10.2478/POPETS-2021-0048","ee":"https://doi.org/10.2478/popets-2021-0048","url":"https://dblp.org/rec/journals/popets/Eskandarian21"},
+"url":"URL#1844570"
+},
+{
+"@score":"1",
+"@id":"1844571",
+"info":{"authors":{"author":[{"@pid":"203/8980","text":"Ivan Evtimov"},{"@pid":"193/1668","text":"Pascal Sturmfels"},{"@pid":"k/TadayoshiKohno","text":"Tadayoshi Kohno"}]},"title":"FoggySight: A Scheme for Facial Lookup Privacy.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"204-226","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/EvtimovSK21","doi":"10.2478/POPETS-2021-0044","ee":"https://doi.org/10.2478/popets-2021-0044","url":"https://dblp.org/rec/journals/popets/EvtimovSK21"},
+"url":"URL#1844571"
+},
+{
+"@score":"1",
+"@id":"1844572",
+"info":{"authors":{"author":[{"@pid":"281/6925","text":"Rahel A. Fainchtein"},{"@pid":"94/1554","text":"Adam J. Aviv"},{"@pid":"57/3752","text":"Micah Sherr"},{"@pid":"281/7186","text":"Stephen Ribaudo"},{"@pid":"281/6928","text":"Armaan Khullar"}]},"title":"Holes in the Geofence: Privacy Vulnerabilities in &quot;Smart&quot; DNS Services.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"151-172","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/FainchteinASRK21","doi":"10.2478/POPETS-2021-0022","ee":"https://doi.org/10.2478/popets-2021-0022","url":"https://dblp.org/rec/journals/popets/FainchteinASRK21"},
+"url":"URL#1844572"
+},
+{
+"@score":"1",
+"@id":"1844573",
+"info":{"authors":{"author":[{"@pid":"207/6572","text":"Ellis Fenske"},{"@pid":"179/3647","text":"Dane Brown"},{"@pid":"39/2944","text":"Jeremy Martin"},{"@pid":"74/8292","text":"Travis Mayberry"},{"@pid":"r/PeterYARyan","text":"Peter Ryan 0001"},{"@pid":"185/5733","text":"Erik C. Rye"}]},"title":"Three Years Later: A Study of MAC Address Randomization In Mobile Devices And When It Succeeds.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"164-181","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/FenskeBMMRR21","doi":"10.2478/POPETS-2021-0042","ee":"https://doi.org/10.2478/popets-2021-0042","url":"https://dblp.org/rec/journals/popets/FenskeBMMRR21"},
+"url":"URL#1844573"
+},
+{
+"@score":"1",
+"@id":"1844574",
+"info":{"authors":{"author":[{"@pid":"184/2531","text":"David Froelicher"},{"@pid":"33/5866","text":"Juan Ramón Troncoso-Pastoriza"},{"@pid":"66/7821","text":"Apostolos Pyrgelis"},{"@pid":"190/2655","text":"Sinem Sav"},{"@pid":"197/1307","text":"Joao Sa Sousa"},{"@pid":"265/6011","text":"Jean-Philippe Bossuat"},{"@pid":"h/JPHubaux","text":"Jean-Pierre Hubaux"}]},"title":"Scalable Privacy-Preserving Distributed Learning.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"323-347","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/FroelicherTPSSB21","doi":"10.2478/POPETS-2021-0030","ee":"https://doi.org/10.2478/popets-2021-0030","url":"https://dblp.org/rec/journals/popets/FroelicherTPSSB21"},
+"url":"URL#1844574"
+},
+{
+"@score":"1",
+"@id":"1844575",
+"info":{"authors":{"author":[{"@pid":"307/3902","text":"Rafa Gálvez"},{"@pid":"20/11342","text":"Veelasha Moonsamy"},{"@pid":"d/ClaudiaDiaz","text":"Claudia Díaz"}]},"title":"Less is More: A privacy-respecting Android malware classifier using federated learning.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"96-116","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/GalvezMD21","doi":"10.2478/POPETS-2021-0062","ee":"https://doi.org/10.2478/popets-2021-0062","url":"https://dblp.org/rec/journals/popets/GalvezMD21"},
+"url":"URL#1844575"
+},
+{
+"@score":"1",
+"@id":"1844576",
+"info":{"authors":{"author":[{"@pid":"09/2378","text":"Sébastien Gambs"},{"@pid":"293/2341","text":"Frédéric Ladouceur"},{"@pid":"14/8054","text":"Antoine Laurent"},{"@pid":"293/2524","text":"Alexandre Roy-Gaumond"}]},"title":"Growing synthetic data through differentially-private vine copulas.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"122-141","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/GambsLLR21","doi":"10.2478/POPETS-2021-0040","ee":"https://doi.org/10.2478/popets-2021-0040","url":"https://dblp.org/rec/journals/popets/GambsLLR21"},
+"url":"URL#1844576"
+},
+{
+"@score":"1",
+"@id":"1844577",
+"info":{"authors":{"author":[{"@pid":"207/8090","text":"Devashish Gosain"},{"@pid":"290/5177","text":"Mayank Mohindra"},{"@pid":"95/1983","text":"Sambuddho Chakravarty"}]},"title":"Too Close for Comfort: Morasses of (Anti-) Censorship in the Era of CDNs.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"173-193","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/GosainMC21","doi":"10.2478/POPETS-2021-0023","ee":"https://doi.org/10.2478/popets-2021-0023","url":"https://dblp.org/rec/journals/popets/GosainMC21"},
+"url":"URL#1844577"
+},
+{
+"@score":"1",
+"@id":"1844578",
+"info":{"authors":{"author":{"@pid":"g/ThomasGross","text":"Thomas Groß 0001"}},"title":"Validity and Reliability of the Scale Internet Users&apos; Information Privacy Concerns (IUIPC).","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"235-258","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/Gross21","doi":"10.2478/POPETS-2021-0026","ee":"https://doi.org/10.2478/popets-2021-0026","url":"https://dblp.org/rec/journals/popets/Gross21"},
+"url":"URL#1844578"
+},
+{
+"@score":"1",
+"@id":"1844579",
+"info":{"authors":{"author":[{"@pid":"283/2031","text":"Stan Gurtler"},{"@pid":"04/6434","text":"Ian Goldberg"}]},"title":"SoK: Privacy-Preserving Reputation Systems.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"107-127","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/GurtlerG21","doi":"10.2478/POPETS-2021-0007","ee":"https://doi.org/10.2478/popets-2021-0007","url":"https://dblp.org/rec/journals/popets/GurtlerG21"},
+"url":"URL#1844579"
+},
+{
+"@score":"1",
+"@id":"1844580",
+"info":{"authors":{"author":[{"@pid":"165/3439-3","text":"Aditya Hegde 0003"},{"@pid":"277/9396","text":"Helen Möllering"},{"@pid":"06/3872-3","text":"Thomas Schneider 0003"},{"@pid":"268/5150","text":"Hossein Yalame"}]},"title":"SoK: Efficient Privacy-preserving Clustering.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"225-248","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/HegdeMSY21","doi":"10.2478/POPETS-2021-0068","ee":"https://doi.org/10.2478/popets-2021-0068","url":"https://dblp.org/rec/journals/popets/HegdeMSY21"},
+"url":"URL#1844580"
+},
+{
+"@score":"1",
+"@id":"1844581",
+"info":{"authors":{"author":[{"@pid":"248/1693","text":"Alexander Heinrich"},{"@pid":"183/6724","text":"Milan Stute"},{"@pid":"286/7962","text":"Tim Kornhuber"},{"@pid":"95/1816","text":"Matthias Hollick"}]},"title":"Who Can Find My Devices? Security and Privacy of Apple&apos;s Crowd-Sourced Bluetooth Location Tracking System.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"227-245","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/HeinrichSKH21","doi":"10.2478/POPETS-2021-0045","ee":"https://doi.org/10.2478/popets-2021-0045","url":"https://dblp.org/rec/journals/popets/HeinrichSKH21"},
+"url":"URL#1844581"
+},
+{
+"@score":"1",
+"@id":"1844582",
+"info":{"authors":{"author":[{"@pid":"169/9600","text":"Maximilian Hils"},{"@pid":"228/4088","text":"Daniel W. Woods"},{"@pid":"52/6295","text":"Rainer Böhme"}]},"title":"Privacy Preference Signals: Past, Present and Future.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"249-269","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/HilsWB21","doi":"10.2478/POPETS-2021-0069","ee":"https://doi.org/10.2478/popets-2021-0069","url":"https://dblp.org/rec/journals/popets/HilsWB21"},
+"url":"URL#1844582"
+},
+{
+"@score":"1",
+"@id":"1844583",
+"info":{"authors":{"author":[{"@pid":"179/2240","text":"Nguyen Phong Hoang"},{"@pid":"208/4182","text":"Arian Akhavan Niaki"},{"@pid":"52/2893","text":"Phillipa Gill"},{"@pid":"09/1231","text":"Michalis Polychronakis"}]},"title":"Domain name encryption is not enough: privacy leakage via IP-based website fingerprinting.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"420-440","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/HoangNGP21","doi":"10.2478/POPETS-2021-0078","ee":"https://doi.org/10.2478/popets-2021-0078","url":"https://dblp.org/rec/journals/popets/HoangNGP21"},
+"url":"URL#1844583"
+},
+{
+"@score":"1",
+"@id":"1844584",
+"info":{"authors":{"author":[{"@pid":"181/5389","text":"Henry Hosseini"},{"@pid":"120/5815","text":"Martin Degeling"},{"@pid":"129/4413","text":"Christine Utz"},{"@pid":"24/11104","text":"Thomas Hupperich"}]},"title":"Unifying Privacy Policy Detection.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"480-499","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/HosseiniDUH21","doi":"10.2478/POPETS-2021-0081","ee":"https://doi.org/10.2478/popets-2021-0081","url":"https://dblp.org/rec/journals/popets/HosseiniDUH21"},
+"url":"URL#1844584"
+},
+{
+"@score":"1",
+"@id":"1844585",
+"info":{"authors":{"author":[{"@pid":"177/2258","text":"Ilia Iliashenko"},{"@pid":"181/1574","text":"Vincent Zucca"}]},"title":"Faster homomorphic comparison operations for BGV and BFV.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"246-264","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/IliashenkoZ21","doi":"10.2478/POPETS-2021-0046","ee":"https://doi.org/10.2478/popets-2021-0046","url":"https://dblp.org/rec/journals/popets/IliashenkoZ21"},
+"url":"URL#1844585"
+},
+{
+"@score":"1",
+"@id":"1844586",
+"info":{"authors":{"author":[{"@pid":"165/8210","text":"Bargav Jayaraman"},{"@pid":"140/1229-1","text":"Lingxiao Wang 0001"},{"@pid":"290/5125","text":"Katherine Knipmeyer"},{"@pid":"50/4597","text":"Quanquan Gu"},{"@pid":"e/DavidEvans","text":"David Evans 0001"}]},"title":"Revisiting Membership Inference Under Realistic Assumptions.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"348-368","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/JayaramanWKGE21","doi":"10.2478/POPETS-2021-0031","ee":"https://doi.org/10.2478/popets-2021-0031","url":"https://dblp.org/rec/journals/popets/JayaramanWKGE21"},
+"url":"URL#1844586"
+},
+{
+"@score":"1",
+"@id":"1844587",
+"info":{"authors":{"author":[{"@pid":"24/3059-1","text":"Aaron Johnson 0001"},{"@pid":"26/5304","text":"Florian Kerschbaum"}]},"title":"Editors&apos; Introduction.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"1-4","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/JohnsonK21","doi":"10.2478/POPETS-2021-0001","ee":"https://doi.org/10.2478/popets-2021-0001","url":"https://dblp.org/rec/journals/popets/JohnsonK21"},
+"url":"URL#1844587"
+},
+{
+"@score":"1",
+"@id":"1844588",
+"info":{"authors":{"author":[{"@pid":"24/3059-1","text":"Aaron Johnson 0001"},{"@pid":"26/5304","text":"Florian Kerschbaum"}]},"title":"Editors&apos; Introduction.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"1-4","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/JohnsonK21a","doi":"10.2478/POPETS-2021-0014","ee":"https://doi.org/10.2478/popets-2021-0014","url":"https://dblp.org/rec/journals/popets/JohnsonK21a"},
+"url":"URL#1844588"
+},
+{
+"@score":"1",
+"@id":"1844589",
+"info":{"authors":{"author":[{"@pid":"24/3059-1","text":"Aaron Johnson 0001"},{"@pid":"26/5304","text":"Florian Kerschbaum"}]},"title":"Editors&apos; Introduction.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"1-4","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/JohnsonK21b","doi":"10.2478/POPETS-2021-0034","ee":"https://doi.org/10.2478/popets-2021-0034","url":"https://dblp.org/rec/journals/popets/JohnsonK21b"},
+"url":"URL#1844589"
+},
+{
+"@score":"1",
+"@id":"1844590",
+"info":{"authors":{"author":[{"@pid":"24/3059-1","text":"Aaron Johnson 0001"},{"@pid":"26/5304","text":"Florian Kerschbaum"}]},"title":"Editors&apos; Introduction.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"1-5","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/JohnsonK21c","doi":"10.2478/POPETS-2021-0057","ee":"https://doi.org/10.2478/popets-2021-0057","url":"https://dblp.org/rec/journals/popets/JohnsonK21c"},
+"url":"URL#1844590"
+},
+{
+"@score":"1",
+"@id":"1844591",
+"info":{"authors":{"author":[{"@pid":"89/2271","text":"Jaewoo Lee"},{"@pid":"84/114","text":"Daniel Kifer"}]},"title":"Scaling up Differentially Private Deep Learning with Fast Per-Example Gradient Clipping.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"128-144","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/LeeK21","doi":"10.2478/POPETS-2021-0008","ee":"https://doi.org/10.2478/popets-2021-0008","url":"https://dblp.org/rec/journals/popets/LeeK21"},
+"url":"URL#1844591"
+},
+{
+"@score":"1",
+"@id":"1844592",
+"info":{"authors":{"author":[{"@pid":"10/1064","text":"Jooyoung Lee"},{"@pid":"42/8717","text":"Sarah Michele Rajtmajer"},{"@pid":"293/2573","text":"Eesha Srivatsavaya"},{"@pid":"98/8884","text":"Shomir Wilson"}]},"title":"Digital Inequality Through the Lens of Self-Disclosure.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"373-393","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/LeeRSW21","doi":"10.2478/POPETS-2021-0052","ee":"https://doi.org/10.2478/popets-2021-0052","url":"https://dblp.org/rec/journals/popets/LeeRSW21"},
+"url":"URL#1844592"
+},
+{
+"@score":"1",
+"@id":"1844593",
+"info":{"authors":{"author":[{"@pid":"248/7424","text":"Sebastian Linsner"},{"@pid":"248/7262","text":"Franz Kuntke"},{"@pid":"293/2268","text":"Enno Steinbrink"},{"@pid":"263/4916","text":"Jonas Franken"},{"@pid":"79/3736","text":"Christian Reuter 0001"}]},"title":"The Role of Privacy in Digitalization - Analyzing Perspectives of German Farmers.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"334-350","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/LinsnerKSFR21","doi":"10.2478/POPETS-2021-0050","ee":"https://doi.org/10.2478/popets-2021-0050","url":"https://dblp.org/rec/journals/popets/LinsnerKSFR21"},
+"url":"URL#1844593"
+},
+{
+"@score":"1",
+"@id":"1844594",
+"info":{"authors":{"author":[{"@pid":"69/10440","text":"Yuchen Liu"},{"@pid":"249/7339","text":"Ziyu Xiang"},{"@pid":"290/5381","text":"Eun Ji Seong"},{"@pid":"50/6916","text":"Apu Kapadia"},{"@pid":"98/405","text":"Donald S. Williamson"}]},"title":"Defending Against Microphone-Based Attacks with Personalized Noise.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"130-150","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/LiuXSKW21","doi":"10.2478/POPETS-2021-0021","ee":"https://doi.org/10.2478/popets-2021-0021","url":"https://dblp.org/rec/journals/popets/LiuXSKW21"},
+"url":"URL#1844594"
+},
+{
+"@score":"1",
+"@id":"1844595",
+"info":{"authors":{"author":[{"@pid":"35/9846","text":"Wouter Lueks"},{"@pid":"85/1005","text":"Seda F. Gürses"},{"@pid":"202/2503","text":"Michael Veale"},{"@pid":"b/EBugnion","text":"Edouard Bugnion"},{"@pid":"43/9672","text":"Marcel Salathé"},{"@pid":"39/780","text":"Kenneth G. Paterson"},{"@pid":"01/4825","text":"Carmela Troncoso"}]},"title":"CrowdNotifier: Decentralized Privacy-Preserving Presence Tracing.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"350-368","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/LueksGVBSPT21","doi":"10.2478/POPETS-2021-0074","ee":"https://doi.org/10.2478/popets-2021-0074","url":"https://dblp.org/rec/journals/popets/LueksGVBSPT21"},
+"url":"URL#1844595"
+},
+{
+"@score":"1",
+"@id":"1844596",
+"info":{"authors":{"author":[{"@pid":"174/4807","text":"Anna Maria Mandalari"},{"@pid":"69/7759","text":"Daniel J. Dubois"},{"@pid":"173/0601","text":"Roman Kolcun"},{"@pid":"275/2621","text":"Muhammad Talha Paracha"},{"@pid":"33/5454","text":"Hamed Haddadi"},{"@pid":"48/6854","text":"David R. Choffnes"}]},"title":"Blocking Without Breaking: Identification and Mitigation of Non-Essential IoT Traffic.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"369-388","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/MandalariDKPHC21","doi":"10.2478/POPETS-2021-0075","ee":"https://doi.org/10.2478/popets-2021-0075","url":"https://dblp.org/rec/journals/popets/MandalariDKPHC21"},
+"url":"URL#1844596"
+},
+{
+"@score":"1",
+"@id":"1844597",
+"info":{"authors":{"author":[{"@pid":"196/4261","text":"Yuantian Miao"},{"@pid":"166/1912","text":"Minhui Xue 0001"},{"@pid":"66/3019-15","text":"Chao Chen 0015"},{"@pid":"33/1366-2","text":"Lei Pan 0002"},{"@pid":"z/JunZhang10","text":"Jun Zhang 0010"},{"@pid":"188/6037","text":"Benjamin Zi Hao Zhao"},{"@pid":"71/5612","text":"Dali Kaafar"},{"@pid":"50/2192-1","text":"Yang Xiang 0001"}]},"title":"The Audio Auditor: User-Level Membership Inference in Internet of Things Voice Services.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"209-228","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/MiaoXCPZZKX21","doi":"10.2478/POPETS-2021-0012","ee":"https://doi.org/10.2478/popets-2021-0012","url":"https://dblp.org/rec/journals/popets/MiaoXCPZZKX21"},
+"url":"URL#1844597"
+},
+{
+"@score":"1",
+"@id":"1844598",
+"info":{"authors":{"author":[{"@pid":"201/8202","text":"Vikas Mishra"},{"@pid":"167/2160","text":"Pierre Laperdrix"},{"@pid":"65/6174","text":"Walter Rudametkin"},{"@pid":"52/2030","text":"Romain Rouvoy"}]},"title":"Déjà vu: Abusing Browser Cache Headers to Identify and Track Online Users.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"391-406","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/MishraLRR21","doi":"10.2478/POPETS-2021-0033","ee":"https://doi.org/10.2478/popets-2021-0033","url":"https://dblp.org/rec/journals/popets/MishraLRR21"},
+"url":"URL#1844598"
+},
+{
+"@score":"1",
+"@id":"1844599",
+"info":{"authors":{"author":[{"@pid":"213/2774","text":"Christian Mouchet"},{"@pid":"33/5866","text":"Juan Ramón Troncoso-Pastoriza"},{"@pid":"265/6011","text":"Jean-Philippe Bossuat"},{"@pid":"h/JPHubaux","text":"Jean-Pierre Hubaux"}]},"title":"Multiparty Homomorphic Encryption from Ring-Learning-with-Errors.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"291-311","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/MouchetTBH21","doi":"10.2478/POPETS-2021-0071","ee":"https://doi.org/10.2478/popets-2021-0071","url":"https://dblp.org/rec/journals/popets/MouchetTBH21"},
+"url":"URL#1844599"
+},
+{
+"@score":"1",
+"@id":"1844600",
+"info":{"authors":{"author":[{"@pid":"123/4781","text":"Sumit Mukherjee"},{"@pid":"199/1722","text":"Yixi Xu"},{"@pid":"120/2636","text":"Anusua Trivedi"},{"@pid":"160/3985","text":"Nabajyoti Patowary"},{"@pid":"190/7447","text":"Juan Lavista Ferres"}]},"title":"privGAN: Protecting GANs from membership inference attacks at low cost to utility.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"142-163","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/MukherjeeXTPF21","doi":"10.2478/POPETS-2021-0041","ee":"https://doi.org/10.2478/popets-2021-0041","url":"https://dblp.org/rec/journals/popets/MukherjeeXTPF21"},
+"url":"URL#1844600"
+},
+{
+"@score":"1",
+"@id":"1844601",
+"info":{"authors":{"author":[{"@pid":"37/9269","text":"Takao Murakami"},{"@pid":"44/4131","text":"Koki Hamada"},{"@pid":"13/8409","text":"Yusuke Kawamoto 0001"},{"@pid":"254/0844","text":"Takuma Hatano"}]},"title":"Privacy-Preserving Multiple Tensor Factorization for Synthesizing Large-Scale Location Traces with Cluster-Specific Features.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"5-26","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/MurakamiHKH21","doi":"10.2478/POPETS-2021-0015","ee":"https://doi.org/10.2478/popets-2021-0015","url":"https://dblp.org/rec/journals/popets/MurakamiHKH21"},
+"url":"URL#1844601"
+},
+{
+"@score":"1",
+"@id":"1844602",
+"info":{"authors":{"author":[{"@pid":"203/1926","text":"Peter Ney"},{"@pid":"205/2081","text":"Lee Organick"},{"@pid":"293/2550","text":"Jeff Nivala"},{"@pid":"95/5263","text":"Luis Ceze"},{"@pid":"k/TadayoshiKohno","text":"Tadayoshi Kohno"}]},"title":"DNA Sequencing Flow Cells and the Security of the Molecular-Digital Interface.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"413-432","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/NeyONCK21","doi":"10.2478/POPETS-2021-0054","ee":"https://doi.org/10.2478/popets-2021-0054","url":"https://dblp.org/rec/journals/popets/NeyONCK21"},
+"url":"URL#1844602"
+},
+{
+"@score":"1",
+"@id":"1844603",
+"info":{"authors":{"author":[{"@pid":"142/8371","text":"Se Eun Oh"},{"@pid":"236/4875","text":"Nate Mathews"},{"@pid":"119/4928-2","text":"Mohammad Saidur Rahman 0002"},{"@pid":"41/4822","text":"Matthew Wright 0001"},{"@pid":"11/5469","text":"Nicholas Hopper"}]},"title":"GANDaLF: GAN for Data-Limited Fingerprinting.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"305-322","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/OhMRWH21","doi":"10.2478/POPETS-2021-0029","ee":"https://doi.org/10.2478/popets-2021-0029","url":"https://dblp.org/rec/journals/popets/OhMRWH21"},
+"url":"URL#1844603"
+},
+{
+"@score":"1",
+"@id":"1844604",
+"info":{"authors":{"author":[{"@pid":"199/8978","text":"Túlio A. Pascoal"},{"@pid":"150/5354","text":"Jérémie Decouchant"},{"@pid":"27/4142","text":"Antoine Boutet"},{"@pid":"v/PauloVerissimo","text":"Paulo Jorge Esteves Veríssimo"}]},"title":"DyPS: Dynamic, Private and Secure GWAS.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"214-234","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/PascoalDBV21","doi":"10.2478/POPETS-2021-0025","ee":"https://doi.org/10.2478/popets-2021-0025","url":"https://dblp.org/rec/journals/popets/PascoalDBV21"},
+"url":"URL#1844604"
+},
+{
+"@score":"1",
+"@id":"1844605",
+"info":{"authors":{"author":[{"@pid":"239/7253","text":"Iñigo Querejeta-Azurmendi"},{"@pid":"130/2934","text":"Panagiotis Papadopoulos"},{"@pid":"01/6280","text":"Matteo Varvello"},{"@pid":"20/8280","text":"Antonio Nappa"},{"@pid":"86/3523-1","text":"Jiexin Zhang 0001"},{"@pid":"46/2924","text":"Benjamin Livshits"}]},"title":"ZKSENSE: A Friction-less Privacy-Preserving Human Attestation Mechanism for Mobile Devices.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"6-29","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/Querejeta-Azurmendi21","doi":"10.2478/POPETS-2021-0058","ee":"https://doi.org/10.2478/popets-2021-0058","url":"https://dblp.org/rec/journals/popets/Querejeta-Azurmendi21"},
+"url":"URL#1844605"
+},
+{
+"@score":"1",
+"@id":"1844606",
+"info":{"authors":{"author":[{"@pid":"202/2210","text":"Arezoo Rajabi"},{"@pid":"115/7959","text":"Rakesh B. Bobba"},{"@pid":"r/MikeRosulek","text":"Mike Rosulek"},{"@pid":"82/4065","text":"Charles V. Wright"},{"@pid":"04/329","text":"Wu-chi Feng"}]},"title":"On the (Im)Practicality of Adversarial Perturbation for Image Privacy.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"85-106","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/RajabiBRWF21","doi":"10.2478/POPETS-2021-0006","ee":"https://doi.org/10.2478/popets-2021-0006","url":"https://dblp.org/rec/journals/popets/RajabiBRWF21"},
+"url":"URL#1844606"
+},
+{
+"@score":"1",
+"@id":"1844607",
+"info":{"authors":{"author":[{"@pid":"239/9505","text":"Hirak Ray"},{"@pid":"135/6902","text":"Flynn Wolf"},{"@pid":"43/4533","text":"Ravi Kuber"},{"@pid":"94/1554","text":"Adam J. Aviv"}]},"title":"&quot;Warn Them&quot; or &quot;Just Block Them&quot;?: Investigating Privacy Concerns Among Older and Working Age Adults.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"27-47","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/RayWKA21","doi":"10.2478/POPETS-2021-0016","ee":"https://doi.org/10.2478/popets-2021-0016","url":"https://dblp.org/rec/journals/popets/RayWKA21"},
+"url":"URL#1844607"
+},
+{
+"@score":"1",
+"@id":"1844608",
+"info":{"authors":{"author":[{"@pid":"238/8867","text":"Nathan Reitinger"},{"@pid":"20/7983","text":"Michelle L. Mazurek"}]},"title":"ML-CB: Machine Learning Canvas Block.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"453-473","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ReitingerM21","doi":"10.2478/POPETS-2021-0056","ee":"https://doi.org/10.2478/popets-2021-0056","url":"https://dblp.org/rec/journals/popets/ReitingerM21"},
+"url":"URL#1844608"
+},
+{
+"@score":"1",
+"@id":"1844609",
+"info":{"authors":{"author":[{"@pid":"283/2149","text":"Valentino Rizzo"},{"@pid":"79/7257","text":"Stefano Traverso"},{"@pid":"18/6316","text":"Marco Mellia"}]},"title":"Unveiling Web Fingerprinting in the Wild Via Code Mining and Machine Learning.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"43-63","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/RizzoTM21","doi":"10.2478/POPETS-2021-0004","ee":"https://doi.org/10.2478/popets-2021-0004","url":"https://dblp.org/rec/journals/popets/RizzoTM21"},
+"url":"URL#1844609"
+},
+{
+"@score":"1",
+"@id":"1844610",
+"info":{"authors":{"author":[{"@pid":"222/6751","text":"Viktoria Ronge"},{"@pid":"33/6847-1","text":"Christoph Egger 0001"},{"@pid":"160/8004","text":"Russell W. F. Lai"},{"@pid":"52/6199","text":"Dominique Schröder"},{"@pid":"180/8199","text":"Hoover H. F. Yin"}]},"title":"Foundations of Ring Sampling.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"265-288","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/RongeELSY21","doi":"10.2478/POPETS-2021-0047","ee":"https://doi.org/10.2478/popets-2021-0047","url":"https://dblp.org/rec/journals/popets/RongeELSY21"},
+"url":"URL#1844610"
+},
+{
+"@score":"1",
+"@id":"1844611",
+"info":{"authors":{"author":[{"@pid":"243/0418","text":"Theodor Schnitzler"},{"@pid":"216/4136","text":"Muhammad Shujaat Mirza"},{"@pid":"36/3665","text":"Markus Dürmuth"},{"@pid":"11/3019","text":"Christina Pöpper"}]},"title":"SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"229-249","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/SchnitzlerMDP21","doi":"10.2478/POPETS-2021-0013","ee":"https://doi.org/10.2478/popets-2021-0013","url":"https://dblp.org/rec/journals/popets/SchnitzlerMDP21"},
+"url":"URL#1844611"
+},
+{
+"@score":"1",
+"@id":"1844612",
+"info":{"authors":{"author":[{"@pid":"199/2194","text":"Sudheesh Singanamalla"},{"@pid":"279/3310","text":"Suphanat Chunhapanya"},{"@pid":"179/2233","text":"Jonathan Hoyland"},{"@pid":"180/7999","text":"Marek Vavrusa"},{"@pid":"279/3338","text":"Tanya Verma"},{"@pid":"44/3072","text":"Peter Wu"},{"@pid":"92/883","text":"Marwan Fayed"},{"@pid":"02/1303","text":"Kurtis Heimerl"},{"@pid":"172/5512","text":"Nick Sullivan"},{"@pid":"163/1886","text":"Christopher A. Wood"}]},"title":"Oblivious DNS over HTTPS (ODoH): A Practical Privacy Enhancement to DNS.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"575-592","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/SinganamallaCHV21","doi":"10.2478/POPETS-2021-0085","ee":"https://doi.org/10.2478/popets-2021-0085","url":"https://dblp.org/rec/journals/popets/SinganamallaCHV21"},
+"url":"URL#1844612"
+},
+{
+"@score":"1",
+"@id":"1844613",
+"info":{"authors":{"author":[{"@pid":"218/3823","text":"Jean-Pierre Smith"},{"@pid":"39/6266","text":"Prateek Mittal"},{"@pid":"16/6873","text":"Adrian Perrig"}]},"title":"Website Fingerprinting in the Age of QUIC.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"48-69","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/SmithMP21","doi":"10.2478/POPETS-2021-0017","ee":"https://doi.org/10.2478/popets-2021-0017","url":"https://dblp.org/rec/journals/popets/SmithMP21"},
+"url":"URL#1844613"
+},
+{
+"@score":"1",
+"@id":"1844614",
+"info":{"authors":{"author":[{"@pid":"140/9513","text":"Daniel Smullen"},{"@pid":"142/7931","text":"Yaxing Yao"},{"@pid":"172/9363","text":"Yuanyuan Feng"},{"@pid":"18/5502","text":"Norman M. Sadeh"},{"@pid":"297/9352","text":"Arthur Edelstein"},{"@pid":"159/0930","text":"Rebecca Weiss"}]},"title":"Managing Potentially Intrusive Practices in the Browser: A User-Centered Perspective.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"500-527","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/SmullenYFSEW21","doi":"10.2478/POPETS-2021-0082","ee":"https://doi.org/10.2478/popets-2021-0082","url":"https://dblp.org/rec/journals/popets/SmullenYFSEW21"},
+"url":"URL#1844614"
+},
+{
+"@score":"1",
+"@id":"1844615",
+"info":{"authors":{"author":[{"@pid":"213/6965","text":"Peter Story"},{"@pid":"140/9513","text":"Daniel Smullen"},{"@pid":"142/7931","text":"Yaxing Yao"},{"@pid":"49/3744","text":"Alessandro Acquisti"},{"@pid":"03/1595","text":"Lorrie Faith Cranor"},{"@pid":"18/5502","text":"Norman M. Sadeh"},{"@pid":"08/7562","text":"Florian Schaub"}]},"title":"Awareness, Adoption, and Misconceptions of Web Privacy Tools.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"308-333","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/StorySYACSS21","doi":"10.2478/POPETS-2021-0049","ee":"https://doi.org/10.2478/popets-2021-0049","url":"https://dblp.org/rec/journals/popets/StorySYACSS21"},
+"url":"URL#1844615"
+},
+{
+"@score":"1",
+"@id":"1844616",
+"info":{"authors":{"author":[{"@pid":"293/2325","text":"Emmanuel Syrmoudis"},{"@pid":"293/2616","text":"Stefan Mager"},{"@pid":"293/2623","text":"Sophie Kuebler-Wachendorff"},{"@pid":"293/2543","text":"Paul Pizzinini"},{"@pid":"28/3855","text":"Jens Grossklags"},{"@pid":"91/10500","text":"Johann Kranz"}]},"title":"Data Portability between Online Services: An Empirical Analysis on the Effectiveness of GDPR Art. 20.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"351-372","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/SyrmoudisMKPGK21","doi":"10.2478/POPETS-2021-0051","ee":"https://doi.org/10.2478/popets-2021-0051","url":"https://dblp.org/rec/journals/popets/SyrmoudisMKPGK21"},
+"url":"URL#1844616"
+},
+{
+"@score":"1",
+"@id":"1844617",
+"info":{"authors":{"author":[{"@pid":"23/370","text":"Jenny Tang"},{"@pid":"293/2536","text":"Hannah Shoemaker"},{"@pid":"136/8449","text":"Ada Lerner"},{"@pid":"64/7821","text":"Eleanor Birrell"}]},"title":"Defining Privacy: How Users Interpret Technical Terms in Privacy Policies.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"70-94","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/TangSLB21","doi":"10.2478/POPETS-2021-0038","ee":"https://doi.org/10.2478/popets-2021-0038","url":"https://dblp.org/rec/journals/popets/TangSLB21"},
+"url":"URL#1844617"
+},
+{
+"@score":"1",
+"@id":"1844618",
+"info":{"authors":{"author":[{"@pid":"277/2877","text":"Giorgio Di Tizio"},{"@pid":"59/6145","text":"Fabio Massacci"}]},"title":"A Calculus of Tracking: Theory and Practice.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"259-281","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/TizioM21","doi":"10.2478/POPETS-2021-0027","ee":"https://doi.org/10.2478/popets-2021-0027","url":"https://dblp.org/rec/journals/popets/TizioM21"},
+"url":"URL#1844618"
+},
+{
+"@score":"1",
+"@id":"1844619",
+"info":{"authors":{"author":[{"@pid":"204/2573","text":"Jan Tolsdorf"},{"@pid":"252/7722","text":"Florian Dehling"},{"@pid":"60/7821","text":"Delphine Reinhardt"},{"@pid":"66/4381","text":"Luigi Lo Iacono"}]},"title":"Exploring mental models of the right to informational self-determination of office workers in Germany.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"5-27","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/TolsdorfDRI21","doi":"10.2478/POPETS-2021-0035","ee":"https://doi.org/10.2478/popets-2021-0035","url":"https://dblp.org/rec/journals/popets/TolsdorfDRI21"},
+"url":"URL#1844619"
+},
+{
+"@score":"1",
+"@id":"1844620",
+"info":{"authors":{"author":[{"@pid":"207/8076","text":"Adithya Vadapalli"},{"@pid":"162/8957","text":"Fattaneh Bayatbabolghani"},{"@pid":"86/8283","text":"Ryan Henry"}]},"title":"You May Also Like... Privacy: Recommendation Systems Meet PIR.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"30-53","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/VadapalliBH21","doi":"10.2478/POPETS-2021-0059","ee":"https://doi.org/10.2478/popets-2021-0059","url":"https://dblp.org/rec/journals/popets/VadapalliBH21"},
+"url":"URL#1844620"
+},
+{
+"@score":"1",
+"@id":"1844621",
+"info":{"authors":{"author":[{"@pid":"87/8232","text":"Thijs Veugen"},{"@pid":"228/6615","text":"Mark Abspoel"}]},"title":"Secure integer division with a private divisor.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"339-349","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/VeugenA21","doi":"10.2478/POPETS-2021-0073","ee":"https://doi.org/10.2478/popets-2021-0073","url":"https://dblp.org/rec/journals/popets/VeugenA21"},
+"url":"URL#1844621"
+},
+{
+"@score":"1",
+"@id":"1844622",
+"info":{"authors":{"author":[{"@pid":"175/1766","text":"Sameer Wagh"},{"@pid":"136/8442","text":"Shruti Tople"},{"@pid":"125/3488","text":"Fabrice Benhamouda"},{"@pid":"k/EyalKushilevitz","text":"Eyal Kushilevitz"},{"@pid":"39/6266","text":"Prateek Mittal"},{"@pid":"r/TalRabin","text":"Tal Rabin"}]},"title":"Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"1","pages":"188-208","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/WaghTBKMR21","doi":"10.2478/POPETS-2021-0011","ee":"https://doi.org/10.2478/popets-2021-0011","url":"https://dblp.org/rec/journals/popets/WaghTBKMR21"},
+"url":"URL#1844622"
+},
+{
+"@score":"1",
+"@id":"1844623",
+"info":{"authors":{"author":[{"@pid":"293/2310","text":"Abdul Wajid"},{"@pid":"244/1220","text":"Nasir Kamal"},{"@pid":"184/8602","text":"Muhammad Sharjeel"},{"@pid":"293/2445","text":"Raaez Muhammad Sheikh"},{"@pid":"293/2468","text":"Huzaifah Bin Wasim"},{"@pid":"293/2575","text":"Muhammad Hashir Ali"},{"@pid":"149/1429","text":"Wajahat Hussain"},{"@pid":"06/6119","text":"Syed Taha Ali"},{"@pid":"293/2562","text":"Latif Anjum"}]},"title":"A First Look at Private Communications in Video Games using Visual Features.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"3","pages":"433-452","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/WajidKSSWAHAA21","doi":"10.2478/POPETS-2021-0055","ee":"https://doi.org/10.2478/popets-2021-0055","url":"https://dblp.org/rec/journals/popets/WajidKSSWAHAA21"},
+"url":"URL#1844623"
+},
+{
+"@score":"1",
+"@id":"1844624",
+"info":{"authors":{"author":[{"@pid":"243/5853-2","text":"Wenxiao Wang 0002"},{"@pid":"274/2144","text":"Tianhao Wang 0013"},{"@pid":"130/1339-1","text":"Lun Wang 0001"},{"@pid":"266/4208","text":"Nanqing Luo"},{"@pid":"84/6614","text":"Pan Zhou"},{"@pid":"s/DXSong","text":"Dawn Song"},{"@pid":"147/5355-1","text":"Ruoxi Jia 0001"}]},"title":"DPlis: Boosting Utility of Differentially Private Deep Learning via Randomized Smoothing.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"163-183","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/WangWWLZSJ21","doi":"10.2478/POPETS-2021-0065","ee":"https://doi.org/10.2478/popets-2021-0065","url":"https://dblp.org/rec/journals/popets/WangWWLZSJ21"},
+"url":"URL#1844624"
+},
+{
+"@score":"1",
+"@id":"1844625",
+"info":{"authors":{"author":[{"@pid":"166/1556","text":"Farzad Zafarani"},{"@pid":"c/CClifton","text":"Chris Clifton"}]},"title":"Differentially Private Naïve Bayes Classifier Using Smooth Sensitivity.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"4","pages":"406-419","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ZafaraniC21","doi":"10.2478/POPETS-2021-0077","ee":"https://doi.org/10.2478/popets-2021-0077","url":"https://dblp.org/rec/journals/popets/ZafaraniC21"},
+"url":"URL#1844625"
+},
+{
+"@score":"1",
+"@id":"1844626",
+"info":{"authors":{"author":[{"@pid":"83/3715","text":"Shikun Zhang"},{"@pid":"172/9363","text":"Yuanyuan Feng"},{"@pid":"32/3440","text":"Lujo Bauer"},{"@pid":"03/1595","text":"Lorrie Faith Cranor"},{"@pid":"84/5118-1","text":"Anupam Das 0001"},{"@pid":"18/5502","text":"Norman M. Sadeh"}]},"title":"&quot;Did you know this camera tracks your mood?&quot;: Understanding Privacy Expectations and Preferences in the Age of Video Analytics.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"282-304","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ZhangFBCDS21","doi":"10.2478/POPETS-2021-0028","ee":"https://doi.org/10.2478/popets-2021-0028","url":"https://dblp.org/rec/journals/popets/ZhangFBCDS21"},
+"url":"URL#1844626"
+},
+{
+"@score":"1",
+"@id":"1844627",
+"info":{"authors":{"author":[{"@pid":"84/19-1","text":"Zhiyi Zhang 0001"},{"@pid":"157/4436","text":"Michal Król"},{"@pid":"170/4315","text":"Alberto Sonnino"},{"@pid":"z/LixiaZhang1","text":"Lixia Zhang 0001"},{"@pid":"01/6018","text":"Etienne Rivière"}]},"title":"EL PASSO: Efficient and Lightweight Privacy-preserving Single Sign On.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"70-87","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ZhangKSZR21","doi":"10.2478/POPETS-2021-0018","ee":"https://doi.org/10.2478/popets-2021-0018","url":"https://dblp.org/rec/journals/popets/ZhangKSZR21"},
+"url":"URL#1844627"
+},
+{
+"@score":"1",
+"@id":"1844628",
+"info":{"authors":{"author":[{"@pid":"153/1269","text":"Martin Zuber"},{"@pid":"43/138","text":"Renaud Sirdey"}]},"title":"Efficient homomorphic evaluation of k-NN classifiers.","venue":"Proc. Priv. Enhancing Technol.","volume":"2021","number":"2","pages":"111-129","year":"2021","type":"Journal Articles","access":"open","key":"journals/popets/ZuberS21","doi":"10.2478/POPETS-2021-0020","ee":"https://doi.org/10.2478/popets-2021-0020","url":"https://dblp.org/rec/journals/popets/ZuberS21"},
+"url":"URL#1844628"
+}
+]
+}
 }
 }
